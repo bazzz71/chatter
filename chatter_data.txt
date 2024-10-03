@@ -1,0 +1,2512 @@
+ID,Site,Time,State,Quality,Reason,Status,Suppression,Type,is_chatter
+1,Chatter_Site,03/10/2023 00:00:22,In Operation,Good,Current Data,,,Sensor,False
+2,Chatter_Site,03/10/2023 00:00:06,Off,Good,Current Data,,,Sensor,True
+3,Chatter_Site,03/10/2023 00:00:22,In Operation,Good,Current Data,,,Sensor,True
+4,Chatter_Site,03/10/2023 00:00:28,Off,Good,Current Data,,,Sensor,True
+5,Chatter_Site,03/10/2023 00:00:03,In Operation,Good,Current Data,,,Sensor,True
+6,Chatter_Site,03/10/2023 00:00:17,Off,Good,Current Data,,,Sensor,True
+7,Chatter_Site,03/10/2023 00:00:30,In Operation,Good,Current Data,,,Sensor,True
+8,Chatter_Site,03/10/2023 00:00:03,Off,Good,Current Data,,,Sensor,True
+9,Chatter_Site,04/10/2023 00:00:03,Off,Good,Current Data,,,Sensor,False
+10,Chatter_Site,04/10/2023 00:00:05,In Operation,Good,Current Data,,,Sensor,True
+11,Chatter_Site,04/10/2023 00:00:19,Off,Good,Current Data,,,Sensor,True
+12,Chatter_Site,04/10/2023 00:00:07,In Operation,Good,Current Data,,,Sensor,True
+13,Chatter_Site,04/10/2023 00:00:27,Off,Good,Current Data,,,Sensor,True
+14,Chatter_Site,04/10/2023 00:00:16,In Operation,Good,Current Data,,,Sensor,True
+15,Chatter_Site,04/10/2023 00:00:11,Off,Good,Current Data,,,Sensor,True
+16,Chatter_Site,04/10/2023 00:00:07,In Operation,Good,Current Data,,,Sensor,True
+17,Chatter_Site,04/10/2023 00:00:11,Off,Good,Current Data,,,Sensor,True
+18,Chatter_Site,04/10/2023 00:00:15,In Operation,Good,Current Data,,,Sensor,True
+19,Chatter_Site,04/10/2023 00:00:24,Off,Good,Current Data,,,Sensor,True
+20,Chatter_Site,05/10/2023 00:00:27,In Operation,Good,Current Data,,,Sensor,False
+21,Chatter_Site,05/10/2023 00:00:03,Off,Good,Current Data,,,Sensor,True
+22,Chatter_Site,05/10/2023 00:00:17,In Operation,Good,Current Data,,,Sensor,True
+23,Chatter_Site,05/10/2023 00:00:13,Off,Good,Current Data,,,Sensor,True
+24,Chatter_Site,05/10/2023 00:00:13,In Operation,Good,Current Data,,,Sensor,True
+25,Chatter_Site,05/10/2023 00:00:06,Off,Good,Current Data,,,Sensor,True
+26,Chatter_Site,05/10/2023 00:00:27,In Operation,Good,Current Data,,,Sensor,True
+27,Chatter_Site,05/10/2023 00:00:14,Off,Good,Current Data,,,Sensor,True
+28,Chatter_Site,05/10/2023 00:00:22,In Operation,Good,Current Data,,,Sensor,True
+29,Chatter_Site,05/10/2023 00:00:03,Off,Good,Current Data,,,Sensor,True
+30,Chatter_Site,06/10/2023 00:00:21,In Operation,Good,Current Data,,,Sensor,False
+31,Chatter_Site,06/10/2023 00:00:26,Off,Good,Current Data,,,Sensor,True
+32,Chatter_Site,06/10/2023 00:00:23,In Operation,Good,Current Data,,,Sensor,True
+33,Chatter_Site,06/10/2023 00:00:06,Off,Good,Current Data,,,Sensor,True
+34,Chatter_Site,06/10/2023 00:00:27,In Operation,Good,Current Data,,,Sensor,True
+35,Chatter_Site,06/10/2023 00:00:03,Off,Good,Current Data,,,Sensor,True
+36,Chatter_Site,07/10/2023 00:00:02,In Operation,Good,Current Data,,,Sensor,False
+37,Chatter_Site,07/10/2023 00:00:17,Off,Good,Current Data,,,Sensor,True
+38,Chatter_Site,07/10/2023 00:00:19,In Operation,Good,Current Data,,,Sensor,True
+39,Chatter_Site,07/10/2023 00:00:27,Off,Good,Current Data,,,Sensor,True
+40,Chatter_Site,07/10/2023 00:00:17,In Operation,Good,Current Data,,,Sensor,True
+41,Chatter_Site,08/10/2023 00:00:19,Off,Good,Current Data,,,Sensor,False
+42,Chatter_Site,08/10/2023 00:00:01,In Operation,Good,Current Data,,,Sensor,True
+43,Chatter_Site,08/10/2023 00:00:07,Off,Good,Current Data,,,Sensor,True
+44,Chatter_Site,08/10/2023 00:00:02,In Operation,Good,Current Data,,,Sensor,True
+45,Chatter_Site,08/10/2023 00:00:26,Off,Good,Current Data,,,Sensor,True
+46,Chatter_Site,08/10/2023 00:00:16,In Operation,Good,Current Data,,,Sensor,True
+47,Chatter_Site,08/10/2023 00:00:05,Off,Good,Current Data,,,Sensor,True
+48,Chatter_Site,08/10/2023 00:00:22,In Operation,Good,Current Data,,,Sensor,True
+49,Chatter_Site,08/10/2023 00:00:06,Off,Good,Current Data,,,Sensor,True
+50,Chatter_Site,08/10/2023 00:00:06,In Operation,Good,Current Data,,,Sensor,True
+51,Chatter_Site,08/10/2023 00:00:25,Off,Good,Current Data,,,Sensor,True
+52,Chatter_Site,08/10/2023 00:00:19,In Operation,Good,Current Data,,,Sensor,True
+53,Chatter_Site,09/10/2023 00:00:00,In Operation,Good,Current Data,,,Sensor,False
+54,Chatter_Site,09/10/2023 00:00:10,Off,Good,Current Data,,,Sensor,True
+55,Chatter_Site,09/10/2023 00:00:12,In Operation,Good,Current Data,,,Sensor,True
+56,Chatter_Site,09/10/2023 00:00:09,Off,Good,Current Data,,,Sensor,True
+57,Chatter_Site,09/10/2023 00:00:08,In Operation,Good,Current Data,,,Sensor,True
+58,Chatter_Site,09/10/2023 00:00:27,Off,Good,Current Data,,,Sensor,True
+59,Chatter_Site,10/10/2023 00:00:15,Off,Good,Current Data,,,Sensor,False
+60,Chatter_Site,10/10/2023 00:00:23,In Operation,Good,Current Data,,,Sensor,True
+61,Chatter_Site,10/10/2023 00:00:24,Off,Good,Current Data,,,Sensor,True
+62,Chatter_Site,10/10/2023 00:00:16,In Operation,Good,Current Data,,,Sensor,True
+63,Chatter_Site,10/10/2023 00:00:05,Off,Good,Current Data,,,Sensor,True
+64,Chatter_Site,10/10/2023 00:00:05,In Operation,Good,Current Data,,,Sensor,True
+65,Chatter_Site,10/10/2023 00:00:17,Off,Good,Current Data,,,Sensor,True
+66,Chatter_Site,10/10/2023 00:00:24,In Operation,Good,Current Data,,,Sensor,True
+67,Chatter_Site,11/10/2023 00:00:22,In Operation,Good,Current Data,,,Sensor,False
+68,Chatter_Site,11/10/2023 00:00:30,Off,Good,Current Data,,,Sensor,True
+69,Chatter_Site,11/10/2023 00:00:03,In Operation,Good,Current Data,,,Sensor,True
+70,Chatter_Site,11/10/2023 00:00:05,Off,Good,Current Data,,,Sensor,True
+71,Chatter_Site,11/10/2023 00:00:20,In Operation,Good,Current Data,,,Sensor,True
+72,Chatter_Site,11/10/2023 00:00:23,Off,Good,Current Data,,,Sensor,True
+73,Chatter_Site,11/10/2023 00:00:23,In Operation,Good,Current Data,,,Sensor,True
+74,Chatter_Site,11/10/2023 00:00:06,Off,Good,Current Data,,,Sensor,True
+75,Chatter_Site,11/10/2023 00:00:18,In Operation,Good,Current Data,,,Sensor,True
+76,Chatter_Site,11/10/2023 00:00:18,Off,Good,Current Data,,,Sensor,True
+77,Chatter_Site,12/10/2023 00:00:20,Off,Good,Current Data,,,Sensor,False
+78,Chatter_Site,12/10/2023 00:00:02,In Operation,Good,Current Data,,,Sensor,True
+79,Chatter_Site,12/10/2023 00:00:29,Off,Good,Current Data,,,Sensor,True
+80,Chatter_Site,12/10/2023 00:00:15,In Operation,Good,Current Data,,,Sensor,True
+81,Chatter_Site,12/10/2023 00:00:21,Off,Good,Current Data,,,Sensor,True
+82,Chatter_Site,12/10/2023 00:00:30,In Operation,Good,Current Data,,,Sensor,True
+83,Chatter_Site,12/10/2023 00:00:24,Off,Good,Current Data,,,Sensor,True
+84,Chatter_Site,12/10/2023 00:00:03,In Operation,Good,Current Data,,,Sensor,True
+85,Chatter_Site,12/10/2023 00:00:29,Off,Good,Current Data,,,Sensor,True
+86,Chatter_Site,12/10/2023 00:00:25,In Operation,Good,Current Data,,,Sensor,True
+87,Chatter_Site,12/10/2023 00:00:04,Off,Good,Current Data,,,Sensor,True
+88,Chatter_Site,13/10/2023 00:00:13,Off,Good,Current Data,,,Sensor,False
+89,Chatter_Site,13/10/2023 00:00:01,In Operation,Good,Current Data,,,Sensor,True
+90,Chatter_Site,13/10/2023 00:00:29,Off,Good,Current Data,,,Sensor,True
+91,Chatter_Site,13/10/2023 00:00:01,In Operation,Good,Current Data,,,Sensor,True
+92,Chatter_Site,13/10/2023 00:00:02,Off,Good,Current Data,,,Sensor,True
+93,Chatter_Site,13/10/2023 00:00:05,In Operation,Good,Current Data,,,Sensor,True
+94,Chatter_Site,13/10/2023 00:00:17,Off,Good,Current Data,,,Sensor,True
+95,Chatter_Site,13/10/2023 00:00:07,In Operation,Good,Current Data,,,Sensor,True
+96,Chatter_Site,13/10/2023 00:00:22,Off,Good,Current Data,,,Sensor,True
+97,Chatter_Site,13/10/2023 00:00:07,In Operation,Good,Current Data,,,Sensor,True
+98,Chatter_Site,13/10/2023 00:00:30,Off,Good,Current Data,,,Sensor,True
+99,Chatter_Site,13/10/2023 00:00:06,In Operation,Good,Current Data,,,Sensor,True
+100,Chatter_Site,13/10/2023 00:00:02,Off,Good,Current Data,,,Sensor,True
+101,Chatter_Site,14/10/2023 00:00:13,In Operation,Good,Current Data,,,Sensor,False
+102,Chatter_Site,14/10/2023 00:00:17,Off,Good,Current Data,,,Sensor,True
+103,Chatter_Site,14/10/2023 00:00:29,In Operation,Good,Current Data,,,Sensor,True
+104,Chatter_Site,14/10/2023 00:00:06,Off,Good,Current Data,,,Sensor,True
+105,Chatter_Site,14/10/2023 00:00:09,In Operation,Good,Current Data,,,Sensor,True
+106,Chatter_Site,14/10/2023 00:00:29,Off,Good,Current Data,,,Sensor,True
+107,Chatter_Site,14/10/2023 00:00:03,In Operation,Good,Current Data,,,Sensor,True
+108,Chatter_Site,15/10/2023 00:00:08,In Operation,Good,Current Data,,,Sensor,False
+109,Chatter_Site,15/10/2023 00:00:27,Off,Good,Current Data,,,Sensor,True
+110,Chatter_Site,15/10/2023 00:00:04,In Operation,Good,Current Data,,,Sensor,True
+111,Chatter_Site,15/10/2023 00:00:14,Off,Good,Current Data,,,Sensor,True
+112,Chatter_Site,15/10/2023 00:00:14,In Operation,Good,Current Data,,,Sensor,True
+113,Chatter_Site,15/10/2023 00:00:09,Off,Good,Current Data,,,Sensor,True
+114,Chatter_Site,15/10/2023 00:00:08,In Operation,Good,Current Data,,,Sensor,True
+115,Chatter_Site,15/10/2023 00:00:01,Off,Good,Current Data,,,Sensor,True
+116,Chatter_Site,15/10/2023 00:00:20,In Operation,Good,Current Data,,,Sensor,True
+117,Chatter_Site,15/10/2023 00:00:20,Off,Good,Current Data,,,Sensor,True
+118,Chatter_Site,15/10/2023 00:00:20,In Operation,Good,Current Data,,,Sensor,True
+119,Chatter_Site,15/10/2023 00:00:04,Off,Good,Current Data,,,Sensor,True
+120,Chatter_Site,15/10/2023 00:00:04,In Operation,Good,Current Data,,,Sensor,True
+121,Chatter_Site,15/10/2023 00:00:28,Off,Good,Current Data,,,Sensor,True
+122,Chatter_Site,15/10/2023 00:00:18,In Operation,Good,Current Data,,,Sensor,True
+123,Chatter_Site,16/10/2023 00:00:15,In Operation,Good,Current Data,,,Sensor,False
+124,Chatter_Site,16/10/2023 00:00:30,Off,Good,Current Data,,,Sensor,True
+125,Chatter_Site,16/10/2023 00:00:21,In Operation,Good,Current Data,,,Sensor,True
+126,Chatter_Site,16/10/2023 00:00:18,Off,Good,Current Data,,,Sensor,True
+127,Chatter_Site,16/10/2023 00:00:24,In Operation,Good,Current Data,,,Sensor,True
+128,Chatter_Site,16/10/2023 00:00:11,Off,Good,Current Data,,,Sensor,True
+129,Chatter_Site,16/10/2023 00:00:18,In Operation,Good,Current Data,,,Sensor,True
+130,Chatter_Site,16/10/2023 00:00:08,Off,Good,Current Data,,,Sensor,True
+131,Chatter_Site,16/10/2023 00:00:03,In Operation,Good,Current Data,,,Sensor,True
+132,Chatter_Site,17/10/2023 00:00:16,Off,Good,Current Data,,,Sensor,False
+133,Chatter_Site,17/10/2023 00:00:15,In Operation,Good,Current Data,,,Sensor,True
+134,Chatter_Site,17/10/2023 00:00:16,Off,Good,Current Data,,,Sensor,True
+135,Chatter_Site,17/10/2023 00:00:14,In Operation,Good,Current Data,,,Sensor,True
+136,Chatter_Site,17/10/2023 00:00:29,Off,Good,Current Data,,,Sensor,True
+137,Chatter_Site,17/10/2023 00:00:29,In Operation,Good,Current Data,,,Sensor,True
+138,Chatter_Site,17/10/2023 00:00:24,Off,Good,Current Data,,,Sensor,True
+139,Chatter_Site,17/10/2023 00:00:22,In Operation,Good,Current Data,,,Sensor,True
+140,Chatter_Site,18/10/2023 00:00:07,In Operation,Good,Current Data,,,Sensor,False
+141,Chatter_Site,18/10/2023 00:00:22,Off,Good,Current Data,,,Sensor,True
+142,Chatter_Site,18/10/2023 00:00:02,In Operation,Good,Current Data,,,Sensor,True
+143,Chatter_Site,18/10/2023 00:00:03,Off,Good,Current Data,,,Sensor,True
+144,Chatter_Site,18/10/2023 00:00:00,In Operation,Good,Current Data,,,Sensor,True
+145,Chatter_Site,19/10/2023 00:00:19,In Operation,Good,Current Data,,,Sensor,False
+146,Chatter_Site,19/10/2023 00:00:12,Off,Good,Current Data,,,Sensor,True
+147,Chatter_Site,19/10/2023 00:00:27,In Operation,Good,Current Data,,,Sensor,True
+148,Chatter_Site,19/10/2023 00:00:28,Off,Good,Current Data,,,Sensor,True
+149,Chatter_Site,19/10/2023 00:00:11,In Operation,Good,Current Data,,,Sensor,True
+150,Chatter_Site,19/10/2023 00:00:10,Off,Good,Current Data,,,Sensor,True
+151,Chatter_Site,19/10/2023 00:00:02,In Operation,Good,Current Data,,,Sensor,True
+152,Chatter_Site,19/10/2023 00:00:20,Off,Good,Current Data,,,Sensor,True
+153,Chatter_Site,19/10/2023 00:00:02,In Operation,Good,Current Data,,,Sensor,True
+154,Chatter_Site,19/10/2023 00:00:17,Off,Good,Current Data,,,Sensor,True
+155,Chatter_Site,19/10/2023 00:00:13,In Operation,Good,Current Data,,,Sensor,True
+156,Chatter_Site,19/10/2023 00:00:14,Off,Good,Current Data,,,Sensor,True
+157,Chatter_Site,19/10/2023 00:00:24,In Operation,Good,Current Data,,,Sensor,True
+158,Chatter_Site,19/10/2023 00:00:04,Off,Good,Current Data,,,Sensor,True
+159,Chatter_Site,19/10/2023 00:00:28,In Operation,Good,Current Data,,,Sensor,True
+160,Chatter_Site,20/10/2023 00:00:22,In Operation,Good,Current Data,,,Sensor,False
+161,Chatter_Site,20/10/2023 00:00:23,Off,Good,Current Data,,,Sensor,True
+162,Chatter_Site,20/10/2023 00:00:08,In Operation,Good,Current Data,,,Sensor,True
+163,Chatter_Site,20/10/2023 00:00:12,Off,Good,Current Data,,,Sensor,True
+164,Chatter_Site,20/10/2023 00:00:25,In Operation,Good,Current Data,,,Sensor,True
+165,Chatter_Site,20/10/2023 00:00:29,Off,Good,Current Data,,,Sensor,True
+166,Chatter_Site,20/10/2023 00:00:05,In Operation,Good,Current Data,,,Sensor,True
+167,Chatter_Site,20/10/2023 00:00:18,Off,Good,Current Data,,,Sensor,True
+168,Chatter_Site,20/10/2023 00:00:17,In Operation,Good,Current Data,,,Sensor,True
+169,Chatter_Site,20/10/2023 00:00:03,Off,Good,Current Data,,,Sensor,True
+170,Chatter_Site,20/10/2023 00:00:03,In Operation,Good,Current Data,,,Sensor,True
+171,Chatter_Site,20/10/2023 00:00:02,Off,Good,Current Data,,,Sensor,True
+172,Chatter_Site,20/10/2023 00:00:26,In Operation,Good,Current Data,,,Sensor,True
+173,Chatter_Site,21/10/2023 00:00:04,In Operation,Good,Current Data,,,Sensor,False
+174,Chatter_Site,21/10/2023 00:00:12,Off,Good,Current Data,,,Sensor,True
+175,Chatter_Site,21/10/2023 00:00:11,In Operation,Good,Current Data,,,Sensor,True
+176,Chatter_Site,21/10/2023 00:00:21,Off,Good,Current Data,,,Sensor,True
+177,Chatter_Site,21/10/2023 00:00:13,In Operation,Good,Current Data,,,Sensor,True
+178,Chatter_Site,21/10/2023 00:00:12,Off,Good,Current Data,,,Sensor,True
+179,Chatter_Site,21/10/2023 00:00:29,In Operation,Good,Current Data,,,Sensor,True
+180,Chatter_Site,21/10/2023 00:00:30,Off,Good,Current Data,,,Sensor,True
+181,Chatter_Site,21/10/2023 00:00:04,In Operation,Good,Current Data,,,Sensor,True
+182,Chatter_Site,21/10/2023 00:00:18,Off,Good,Current Data,,,Sensor,True
+183,Chatter_Site,21/10/2023 00:00:19,In Operation,Good,Current Data,,,Sensor,True
+184,Chatter_Site,21/10/2023 00:00:01,Off,Good,Current Data,,,Sensor,True
+185,Chatter_Site,21/10/2023 00:00:04,In Operation,Good,Current Data,,,Sensor,True
+186,Chatter_Site,21/10/2023 00:00:02,Off,Good,Current Data,,,Sensor,True
+187,Chatter_Site,22/10/2023 00:00:25,In Operation,Good,Current Data,,,Sensor,False
+188,Chatter_Site,22/10/2023 00:00:06,Off,Good,Current Data,,,Sensor,True
+189,Chatter_Site,22/10/2023 00:00:09,In Operation,Good,Current Data,,,Sensor,True
+190,Chatter_Site,22/10/2023 00:00:03,Off,Good,Current Data,,,Sensor,True
+191,Chatter_Site,22/10/2023 00:00:02,In Operation,Good,Current Data,,,Sensor,True
+192,Chatter_Site,22/10/2023 00:00:30,Off,Good,Current Data,,,Sensor,True
+193,Chatter_Site,22/10/2023 00:00:28,In Operation,Good,Current Data,,,Sensor,True
+194,Chatter_Site,22/10/2023 00:00:20,Off,Good,Current Data,,,Sensor,True
+195,Chatter_Site,22/10/2023 00:00:15,In Operation,Good,Current Data,,,Sensor,True
+196,Chatter_Site,23/10/2023 00:00:07,In Operation,Good,Current Data,,,Sensor,False
+197,Chatter_Site,23/10/2023 00:00:02,Off,Good,Current Data,,,Sensor,True
+198,Chatter_Site,23/10/2023 00:00:30,In Operation,Good,Current Data,,,Sensor,True
+199,Chatter_Site,23/10/2023 00:00:06,Off,Good,Current Data,,,Sensor,True
+200,Chatter_Site,23/10/2023 00:00:17,In Operation,Good,Current Data,,,Sensor,True
+201,Chatter_Site,23/10/2023 00:00:09,Off,Good,Current Data,,,Sensor,True
+202,Chatter_Site,23/10/2023 00:00:18,In Operation,Good,Current Data,,,Sensor,True
+203,Chatter_Site,23/10/2023 00:00:20,Off,Good,Current Data,,,Sensor,True
+204,Chatter_Site,23/10/2023 00:00:15,In Operation,Good,Current Data,,,Sensor,True
+205,Chatter_Site,23/10/2023 00:00:05,Off,Good,Current Data,,,Sensor,True
+206,Chatter_Site,23/10/2023 00:00:30,In Operation,Good,Current Data,,,Sensor,True
+207,Chatter_Site,23/10/2023 00:00:10,Off,Good,Current Data,,,Sensor,True
+208,Chatter_Site,23/10/2023 00:00:02,In Operation,Good,Current Data,,,Sensor,True
+209,Chatter_Site,23/10/2023 00:00:02,Off,Good,Current Data,,,Sensor,True
+210,Chatter_Site,24/10/2023 00:00:09,In Operation,Good,Current Data,,,Sensor,False
+211,Chatter_Site,24/10/2023 00:00:12,Off,Good,Current Data,,,Sensor,True
+212,Chatter_Site,24/10/2023 00:00:21,In Operation,Good,Current Data,,,Sensor,True
+213,Chatter_Site,24/10/2023 00:00:13,Off,Good,Current Data,,,Sensor,True
+214,Chatter_Site,24/10/2023 00:00:09,In Operation,Good,Current Data,,,Sensor,True
+215,Chatter_Site,24/10/2023 00:00:15,Off,Good,Current Data,,,Sensor,True
+216,Chatter_Site,24/10/2023 00:00:11,In Operation,Good,Current Data,,,Sensor,True
+217,Chatter_Site,24/10/2023 00:00:11,Off,Good,Current Data,,,Sensor,True
+218,Chatter_Site,24/10/2023 00:00:18,In Operation,Good,Current Data,,,Sensor,True
+219,Chatter_Site,24/10/2023 00:00:27,Off,Good,Current Data,,,Sensor,True
+220,Chatter_Site,24/10/2023 00:00:28,In Operation,Good,Current Data,,,Sensor,True
+221,Chatter_Site,25/10/2023 00:00:01,In Operation,Good,Current Data,,,Sensor,False
+222,Chatter_Site,25/10/2023 00:00:23,Off,Good,Current Data,,,Sensor,True
+223,Chatter_Site,25/10/2023 00:00:19,In Operation,Good,Current Data,,,Sensor,True
+224,Chatter_Site,25/10/2023 00:00:02,Off,Good,Current Data,,,Sensor,True
+225,Chatter_Site,25/10/2023 00:00:09,In Operation,Good,Current Data,,,Sensor,True
+226,Chatter_Site,25/10/2023 00:00:01,Off,Good,Current Data,,,Sensor,True
+227,Chatter_Site,25/10/2023 00:00:14,In Operation,Good,Current Data,,,Sensor,True
+228,Chatter_Site,25/10/2023 00:00:11,Off,Good,Current Data,,,Sensor,True
+229,Chatter_Site,25/10/2023 00:00:02,In Operation,Good,Current Data,,,Sensor,True
+230,Chatter_Site,25/10/2023 00:00:23,Off,Good,Current Data,,,Sensor,True
+231,Chatter_Site,25/10/2023 00:00:11,In Operation,Good,Current Data,,,Sensor,True
+232,Chatter_Site,25/10/2023 00:00:17,Off,Good,Current Data,,,Sensor,True
+233,Chatter_Site,25/10/2023 00:00:01,In Operation,Good,Current Data,,,Sensor,True
+234,Chatter_Site,25/10/2023 00:00:28,Off,Good,Current Data,,,Sensor,True
+235,Chatter_Site,26/10/2023 00:00:03,In Operation,Good,Current Data,,,Sensor,False
+236,Chatter_Site,26/10/2023 00:00:27,Off,Good,Current Data,,,Sensor,True
+237,Chatter_Site,26/10/2023 00:00:01,In Operation,Good,Current Data,,,Sensor,True
+238,Chatter_Site,26/10/2023 00:00:18,Off,Good,Current Data,,,Sensor,True
+239,Chatter_Site,26/10/2023 00:00:30,In Operation,Good,Current Data,,,Sensor,True
+240,Chatter_Site,26/10/2023 00:00:15,Off,Good,Current Data,,,Sensor,True
+241,Chatter_Site,26/10/2023 00:00:25,In Operation,Good,Current Data,,,Sensor,True
+242,Chatter_Site,26/10/2023 00:00:15,Off,Good,Current Data,,,Sensor,True
+243,Chatter_Site,26/10/2023 00:00:20,In Operation,Good,Current Data,,,Sensor,True
+244,Chatter_Site,26/10/2023 00:00:29,Off,Good,Current Data,,,Sensor,True
+245,Chatter_Site,26/10/2023 00:00:03,In Operation,Good,Current Data,,,Sensor,True
+246,Chatter_Site,26/10/2023 00:00:09,Off,Good,Current Data,,,Sensor,True
+247,Chatter_Site,27/10/2023 00:00:18,In Operation,Good,Current Data,,,Sensor,False
+248,Chatter_Site,27/10/2023 00:00:19,Off,Good,Current Data,,,Sensor,True
+249,Chatter_Site,27/10/2023 00:00:02,In Operation,Good,Current Data,,,Sensor,True
+250,Chatter_Site,27/10/2023 00:00:01,Off,Good,Current Data,,,Sensor,True
+251,Chatter_Site,27/10/2023 00:00:24,In Operation,Good,Current Data,,,Sensor,True
+252,Chatter_Site,27/10/2023 00:00:00,Off,Good,Current Data,,,Sensor,True
+253,Chatter_Site,27/10/2023 00:00:20,In Operation,Good,Current Data,,,Sensor,True
+254,Chatter_Site,27/10/2023 00:00:14,Off,Good,Current Data,,,Sensor,True
+255,Chatter_Site,27/10/2023 00:00:09,In Operation,Good,Current Data,,,Sensor,True
+256,Chatter_Site,27/10/2023 00:00:04,Off,Good,Current Data,,,Sensor,True
+257,Chatter_Site,27/10/2023 00:00:26,In Operation,Good,Current Data,,,Sensor,True
+258,Chatter_Site,27/10/2023 00:00:03,Off,Good,Current Data,,,Sensor,True
+259,Chatter_Site,27/10/2023 00:00:11,In Operation,Good,Current Data,,,Sensor,True
+260,Chatter_Site,27/10/2023 00:00:15,Off,Good,Current Data,,,Sensor,True
+261,Chatter_Site,27/10/2023 00:00:26,In Operation,Good,Current Data,,,Sensor,True
+262,Chatter_Site,28/10/2023 00:00:24,Off,Good,Current Data,,,Sensor,False
+263,Chatter_Site,28/10/2023 00:00:25,In Operation,Good,Current Data,,,Sensor,True
+264,Chatter_Site,28/10/2023 00:00:01,Off,Good,Current Data,,,Sensor,True
+265,Chatter_Site,28/10/2023 00:00:01,In Operation,Good,Current Data,,,Sensor,True
+266,Chatter_Site,28/10/2023 00:00:24,Off,Good,Current Data,,,Sensor,True
+267,Chatter_Site,28/10/2023 00:00:30,In Operation,Good,Current Data,,,Sensor,True
+268,Chatter_Site,28/10/2023 00:00:12,Off,Good,Current Data,,,Sensor,True
+269,Chatter_Site,28/10/2023 00:00:09,In Operation,Good,Current Data,,,Sensor,True
+270,Chatter_Site,28/10/2023 00:00:29,Off,Good,Current Data,,,Sensor,True
+271,Chatter_Site,28/10/2023 00:00:19,In Operation,Good,Current Data,,,Sensor,True
+272,Chatter_Site,28/10/2023 00:00:12,Off,Good,Current Data,,,Sensor,True
+273,Chatter_Site,28/10/2023 00:00:19,In Operation,Good,Current Data,,,Sensor,True
+274,Chatter_Site,28/10/2023 00:00:07,Off,Good,Current Data,,,Sensor,True
+275,Chatter_Site,28/10/2023 00:00:23,In Operation,Good,Current Data,,,Sensor,True
+276,Chatter_Site,29/10/2023 00:00:25,In Operation,Good,Current Data,,,Sensor,False
+277,Chatter_Site,29/10/2023 00:00:29,Off,Good,Current Data,,,Sensor,True
+278,Chatter_Site,29/10/2023 00:00:25,In Operation,Good,Current Data,,,Sensor,True
+279,Chatter_Site,29/10/2023 00:00:05,Off,Good,Current Data,,,Sensor,True
+280,Chatter_Site,29/10/2023 00:00:27,In Operation,Good,Current Data,,,Sensor,True
+281,Chatter_Site,30/10/2023 00:00:03,In Operation,Good,Current Data,,,Sensor,False
+282,Chatter_Site,30/10/2023 00:00:18,Off,Good,Current Data,,,Sensor,True
+283,Chatter_Site,30/10/2023 00:00:29,In Operation,Good,Current Data,,,Sensor,True
+284,Chatter_Site,30/10/2023 00:00:30,Off,Good,Current Data,,,Sensor,True
+285,Chatter_Site,30/10/2023 00:00:12,In Operation,Good,Current Data,,,Sensor,True
+286,Chatter_Site,30/10/2023 00:00:27,Off,Good,Current Data,,,Sensor,True
+287,Chatter_Site,30/10/2023 00:00:14,In Operation,Good,Current Data,,,Sensor,True
+288,Chatter_Site,30/10/2023 00:00:15,Off,Good,Current Data,,,Sensor,True
+289,Chatter_Site,30/10/2023 00:00:29,In Operation,Good,Current Data,,,Sensor,True
+290,Chatter_Site,30/10/2023 00:00:17,Off,Good,Current Data,,,Sensor,True
+291,Chatter_Site,30/10/2023 00:00:20,In Operation,Good,Current Data,,,Sensor,True
+292,Chatter_Site,30/10/2023 00:00:20,Off,Good,Current Data,,,Sensor,True
+293,Chatter_Site,30/10/2023 00:00:09,In Operation,Good,Current Data,,,Sensor,True
+294,Chatter_Site,30/10/2023 00:00:10,Off,Good,Current Data,,,Sensor,True
+295,Chatter_Site,30/10/2023 00:00:03,In Operation,Good,Current Data,,,Sensor,True
+296,Chatter_Site,31/10/2023 00:00:07,In Operation,Good,Current Data,,,Sensor,False
+297,Chatter_Site,31/10/2023 00:00:11,Off,Good,Current Data,,,Sensor,True
+298,Chatter_Site,31/10/2023 00:00:06,In Operation,Good,Current Data,,,Sensor,True
+299,Chatter_Site,31/10/2023 00:00:00,Off,Good,Current Data,,,Sensor,True
+300,Chatter_Site,31/10/2023 00:00:24,In Operation,Good,Current Data,,,Sensor,True
+301,Chatter_Site,31/10/2023 00:00:04,Off,Good,Current Data,,,Sensor,True
+302,Chatter_Site,31/10/2023 00:00:11,In Operation,Good,Current Data,,,Sensor,True
+303,Chatter_Site,01/11/2023 00:00:10,Off,Good,Current Data,,,Sensor,False
+304,Chatter_Site,01/11/2023 00:00:06,In Operation,Good,Current Data,,,Sensor,True
+305,Chatter_Site,01/11/2023 00:00:17,Off,Good,Current Data,,,Sensor,True
+306,Chatter_Site,01/11/2023 00:00:25,In Operation,Good,Current Data,,,Sensor,True
+307,Chatter_Site,01/11/2023 00:00:07,Off,Good,Current Data,,,Sensor,True
+308,Chatter_Site,01/11/2023 00:00:27,In Operation,Good,Current Data,,,Sensor,True
+309,Chatter_Site,01/11/2023 00:00:23,Off,Good,Current Data,,,Sensor,True
+310,Chatter_Site,01/11/2023 00:00:21,In Operation,Good,Current Data,,,Sensor,True
+311,Chatter_Site,01/11/2023 00:00:06,Off,Good,Current Data,,,Sensor,True
+312,Chatter_Site,01/11/2023 00:00:03,In Operation,Good,Current Data,,,Sensor,True
+313,Chatter_Site,01/11/2023 00:00:09,Off,Good,Current Data,,,Sensor,True
+314,Chatter_Site,01/11/2023 00:00:23,In Operation,Good,Current Data,,,Sensor,True
+315,Chatter_Site,02/11/2023 00:00:03,In Operation,Good,Current Data,,,Sensor,False
+316,Chatter_Site,02/11/2023 00:00:11,Off,Good,Current Data,,,Sensor,True
+317,Chatter_Site,02/11/2023 00:00:19,In Operation,Good,Current Data,,,Sensor,True
+318,Chatter_Site,02/11/2023 00:00:26,Off,Good,Current Data,,,Sensor,True
+319,Chatter_Site,02/11/2023 00:00:09,In Operation,Good,Current Data,,,Sensor,True
+320,Chatter_Site,02/11/2023 00:00:00,Off,Good,Current Data,,,Sensor,True
+321,Chatter_Site,02/11/2023 00:00:16,In Operation,Good,Current Data,,,Sensor,True
+322,Chatter_Site,02/11/2023 00:00:09,Off,Good,Current Data,,,Sensor,True
+323,Chatter_Site,02/11/2023 00:00:30,In Operation,Good,Current Data,,,Sensor,True
+324,Chatter_Site,03/11/2023 00:00:03,In Operation,Good,Current Data,,,Sensor,False
+325,Chatter_Site,03/11/2023 00:00:04,Off,Good,Current Data,,,Sensor,True
+326,Chatter_Site,03/11/2023 00:00:17,In Operation,Good,Current Data,,,Sensor,True
+327,Chatter_Site,03/11/2023 00:00:27,Off,Good,Current Data,,,Sensor,True
+328,Chatter_Site,03/11/2023 00:00:09,In Operation,Good,Current Data,,,Sensor,True
+329,Chatter_Site,03/11/2023 00:00:17,Off,Good,Current Data,,,Sensor,True
+330,Chatter_Site,03/11/2023 00:00:24,In Operation,Good,Current Data,,,Sensor,True
+331,Chatter_Site,03/11/2023 00:00:29,Off,Good,Current Data,,,Sensor,True
+332,Chatter_Site,03/11/2023 00:00:27,In Operation,Good,Current Data,,,Sensor,True
+333,Chatter_Site,03/11/2023 00:00:27,Off,Good,Current Data,,,Sensor,True
+334,Chatter_Site,03/11/2023 00:00:00,In Operation,Good,Current Data,,,Sensor,True
+335,Chatter_Site,03/11/2023 00:00:11,Off,Good,Current Data,,,Sensor,True
+336,Chatter_Site,03/11/2023 00:00:18,In Operation,Good,Current Data,,,Sensor,True
+337,Chatter_Site,04/11/2023 00:00:01,In Operation,Good,Current Data,,,Sensor,False
+338,Chatter_Site,04/11/2023 00:00:08,Off,Good,Current Data,,,Sensor,True
+339,Chatter_Site,04/11/2023 00:00:24,In Operation,Good,Current Data,,,Sensor,True
+340,Chatter_Site,04/11/2023 00:00:02,Off,Good,Current Data,,,Sensor,True
+341,Chatter_Site,04/11/2023 00:00:09,In Operation,Good,Current Data,,,Sensor,True
+342,Chatter_Site,04/11/2023 00:00:14,Off,Good,Current Data,,,Sensor,True
+343,Chatter_Site,04/11/2023 00:00:00,In Operation,Good,Current Data,,,Sensor,True
+344,Chatter_Site,04/11/2023 00:00:18,Off,Good,Current Data,,,Sensor,True
+345,Chatter_Site,04/11/2023 00:00:00,In Operation,Good,Current Data,,,Sensor,True
+346,Chatter_Site,04/11/2023 00:00:02,Off,Good,Current Data,,,Sensor,True
+347,Chatter_Site,05/11/2023 00:00:00,In Operation,Good,Current Data,,,Sensor,False
+348,Chatter_Site,05/11/2023 00:00:20,Off,Good,Current Data,,,Sensor,True
+349,Chatter_Site,05/11/2023 00:00:04,In Operation,Good,Current Data,,,Sensor,True
+350,Chatter_Site,05/11/2023 00:00:14,Off,Good,Current Data,,,Sensor,True
+351,Chatter_Site,05/11/2023 00:00:00,In Operation,Good,Current Data,,,Sensor,True
+352,Chatter_Site,06/11/2023 00:00:13,In Operation,Good,Current Data,,,Sensor,False
+353,Chatter_Site,06/11/2023 00:00:08,Off,Good,Current Data,,,Sensor,True
+354,Chatter_Site,06/11/2023 00:00:07,In Operation,Good,Current Data,,,Sensor,True
+355,Chatter_Site,06/11/2023 00:00:07,Off,Good,Current Data,,,Sensor,True
+356,Chatter_Site,06/11/2023 00:00:28,In Operation,Good,Current Data,,,Sensor,True
+357,Chatter_Site,06/11/2023 00:00:01,Off,Good,Current Data,,,Sensor,True
+358,Chatter_Site,06/11/2023 00:00:18,In Operation,Good,Current Data,,,Sensor,True
+359,Chatter_Site,06/11/2023 00:00:18,Off,Good,Current Data,,,Sensor,True
+360,Chatter_Site,07/11/2023 00:00:00,In Operation,Good,Current Data,,,Sensor,False
+361,Chatter_Site,07/11/2023 00:00:20,Off,Good,Current Data,,,Sensor,True
+362,Chatter_Site,07/11/2023 00:00:29,In Operation,Good,Current Data,,,Sensor,True
+363,Chatter_Site,07/11/2023 00:00:18,Off,Good,Current Data,,,Sensor,True
+364,Chatter_Site,07/11/2023 00:00:19,In Operation,Good,Current Data,,,Sensor,True
+365,Chatter_Site,07/11/2023 00:00:06,Off,Good,Current Data,,,Sensor,True
+366,Chatter_Site,07/11/2023 00:00:25,In Operation,Good,Current Data,,,Sensor,True
+367,Chatter_Site,07/11/2023 00:00:25,Off,Good,Current Data,,,Sensor,True
+368,Chatter_Site,07/11/2023 00:00:22,In Operation,Good,Current Data,,,Sensor,True
+369,Chatter_Site,07/11/2023 00:00:14,Off,Good,Current Data,,,Sensor,True
+370,Chatter_Site,07/11/2023 00:00:15,In Operation,Good,Current Data,,,Sensor,True
+371,Chatter_Site,07/11/2023 00:00:17,Off,Good,Current Data,,,Sensor,True
+372,Chatter_Site,08/11/2023 00:00:13,Off,Good,Current Data,,,Sensor,False
+373,Chatter_Site,08/11/2023 00:00:17,In Operation,Good,Current Data,,,Sensor,True
+374,Chatter_Site,08/11/2023 00:00:12,Off,Good,Current Data,,,Sensor,True
+375,Chatter_Site,08/11/2023 00:00:03,In Operation,Good,Current Data,,,Sensor,True
+376,Chatter_Site,08/11/2023 00:00:04,Off,Good,Current Data,,,Sensor,True
+377,Chatter_Site,08/11/2023 00:00:23,In Operation,Good,Current Data,,,Sensor,True
+378,Chatter_Site,08/11/2023 00:00:11,Off,Good,Current Data,,,Sensor,True
+379,Chatter_Site,09/11/2023 00:00:08,Off,Good,Current Data,,,Sensor,False
+380,Chatter_Site,09/11/2023 00:00:17,In Operation,Good,Current Data,,,Sensor,True
+381,Chatter_Site,09/11/2023 00:00:24,Off,Good,Current Data,,,Sensor,True
+382,Chatter_Site,09/11/2023 00:00:01,In Operation,Good,Current Data,,,Sensor,True
+383,Chatter_Site,09/11/2023 00:00:21,Off,Good,Current Data,,,Sensor,True
+384,Chatter_Site,09/11/2023 00:00:05,In Operation,Good,Current Data,,,Sensor,True
+385,Chatter_Site,09/11/2023 00:00:06,Off,Good,Current Data,,,Sensor,True
+386,Chatter_Site,09/11/2023 00:00:04,In Operation,Good,Current Data,,,Sensor,True
+387,Chatter_Site,09/11/2023 00:00:27,Off,Good,Current Data,,,Sensor,True
+388,Chatter_Site,09/11/2023 00:00:22,In Operation,Good,Current Data,,,Sensor,True
+389,Chatter_Site,10/11/2023 00:00:15,In Operation,Good,Current Data,,,Sensor,False
+390,Chatter_Site,10/11/2023 00:00:14,Off,Good,Current Data,,,Sensor,True
+391,Chatter_Site,10/11/2023 00:00:21,In Operation,Good,Current Data,,,Sensor,True
+392,Chatter_Site,10/11/2023 00:00:20,Off,Good,Current Data,,,Sensor,True
+393,Chatter_Site,10/11/2023 00:00:22,In Operation,Good,Current Data,,,Sensor,True
+394,Chatter_Site,10/11/2023 00:00:24,Off,Good,Current Data,,,Sensor,True
+395,Chatter_Site,10/11/2023 00:00:20,In Operation,Good,Current Data,,,Sensor,True
+396,Chatter_Site,10/11/2023 00:00:14,Off,Good,Current Data,,,Sensor,True
+397,Chatter_Site,10/11/2023 00:00:08,In Operation,Good,Current Data,,,Sensor,True
+398,Chatter_Site,10/11/2023 00:00:28,Off,Good,Current Data,,,Sensor,True
+399,Chatter_Site,10/11/2023 00:00:04,In Operation,Good,Current Data,,,Sensor,True
+400,Chatter_Site,10/11/2023 00:00:29,Off,Good,Current Data,,,Sensor,True
+401,Chatter_Site,10/11/2023 00:00:06,In Operation,Good,Current Data,,,Sensor,True
+402,Chatter_Site,10/11/2023 00:00:07,Off,Good,Current Data,,,Sensor,True
+403,Chatter_Site,11/11/2023 00:00:27,In Operation,Good,Current Data,,,Sensor,False
+404,Chatter_Site,11/11/2023 00:00:14,Off,Good,Current Data,,,Sensor,True
+405,Chatter_Site,11/11/2023 00:00:19,In Operation,Good,Current Data,,,Sensor,True
+406,Chatter_Site,11/11/2023 00:00:19,Off,Good,Current Data,,,Sensor,True
+407,Chatter_Site,11/11/2023 00:00:10,In Operation,Good,Current Data,,,Sensor,True
+408,Chatter_Site,11/11/2023 00:00:17,Off,Good,Current Data,,,Sensor,True
+409,Chatter_Site,11/11/2023 00:00:06,In Operation,Good,Current Data,,,Sensor,True
+410,Chatter_Site,11/11/2023 00:00:20,Off,Good,Current Data,,,Sensor,True
+411,Chatter_Site,11/11/2023 00:00:18,In Operation,Good,Current Data,,,Sensor,True
+412,Chatter_Site,11/11/2023 00:00:22,Off,Good,Current Data,,,Sensor,True
+413,Chatter_Site,11/11/2023 00:00:01,In Operation,Good,Current Data,,,Sensor,True
+414,Chatter_Site,11/11/2023 00:00:04,Off,Good,Current Data,,,Sensor,True
+415,Chatter_Site,11/11/2023 00:00:02,In Operation,Good,Current Data,,,Sensor,True
+416,Chatter_Site,12/11/2023 00:00:12,Off,Good,Current Data,,,Sensor,False
+417,Chatter_Site,12/11/2023 00:00:27,In Operation,Good,Current Data,,,Sensor,True
+418,Chatter_Site,12/11/2023 00:00:28,Off,Good,Current Data,,,Sensor,True
+419,Chatter_Site,12/11/2023 00:00:06,In Operation,Good,Current Data,,,Sensor,True
+420,Chatter_Site,12/11/2023 00:00:26,Off,Good,Current Data,,,Sensor,True
+421,Chatter_Site,12/11/2023 00:00:16,In Operation,Good,Current Data,,,Sensor,True
+422,Chatter_Site,12/11/2023 00:00:13,Off,Good,Current Data,,,Sensor,True
+423,Chatter_Site,12/11/2023 00:00:26,In Operation,Good,Current Data,,,Sensor,True
+424,Chatter_Site,12/11/2023 00:00:19,Off,Good,Current Data,,,Sensor,True
+425,Chatter_Site,13/11/2023 00:00:22,Off,Good,Current Data,,,Sensor,False
+426,Chatter_Site,13/11/2023 00:00:18,In Operation,Good,Current Data,,,Sensor,True
+427,Chatter_Site,13/11/2023 00:00:04,Off,Good,Current Data,,,Sensor,True
+428,Chatter_Site,13/11/2023 00:00:28,In Operation,Good,Current Data,,,Sensor,True
+429,Chatter_Site,13/11/2023 00:00:24,Off,Good,Current Data,,,Sensor,True
+430,Chatter_Site,13/11/2023 00:00:25,In Operation,Good,Current Data,,,Sensor,True
+431,Chatter_Site,13/11/2023 00:00:09,Off,Good,Current Data,,,Sensor,True
+432,Chatter_Site,13/11/2023 00:00:29,In Operation,Good,Current Data,,,Sensor,True
+433,Chatter_Site,13/11/2023 00:00:26,Off,Good,Current Data,,,Sensor,True
+434,Chatter_Site,14/11/2023 00:00:26,Off,Good,Current Data,,,Sensor,False
+435,Chatter_Site,14/11/2023 00:00:09,In Operation,Good,Current Data,,,Sensor,True
+436,Chatter_Site,14/11/2023 00:00:15,Off,Good,Current Data,,,Sensor,True
+437,Chatter_Site,14/11/2023 00:00:20,In Operation,Good,Current Data,,,Sensor,True
+438,Chatter_Site,14/11/2023 00:00:25,Off,Good,Current Data,,,Sensor,True
+439,Chatter_Site,14/11/2023 00:00:24,In Operation,Good,Current Data,,,Sensor,True
+440,Chatter_Site,14/11/2023 00:00:08,Off,Good,Current Data,,,Sensor,True
+441,Chatter_Site,14/11/2023 00:00:22,In Operation,Good,Current Data,,,Sensor,True
+442,Chatter_Site,14/11/2023 00:00:22,Off,Good,Current Data,,,Sensor,True
+443,Chatter_Site,14/11/2023 00:00:06,In Operation,Good,Current Data,,,Sensor,True
+444,Chatter_Site,14/11/2023 00:00:02,Off,Good,Current Data,,,Sensor,True
+445,Chatter_Site,15/11/2023 00:00:24,Off,Good,Current Data,,,Sensor,False
+446,Chatter_Site,15/11/2023 00:00:25,In Operation,Good,Current Data,,,Sensor,True
+447,Chatter_Site,15/11/2023 00:00:03,Off,Good,Current Data,,,Sensor,True
+448,Chatter_Site,15/11/2023 00:00:01,In Operation,Good,Current Data,,,Sensor,True
+449,Chatter_Site,15/11/2023 00:00:22,Off,Good,Current Data,,,Sensor,True
+450,Chatter_Site,15/11/2023 00:00:22,In Operation,Good,Current Data,,,Sensor,True
+451,Chatter_Site,15/11/2023 00:00:11,Off,Good,Current Data,,,Sensor,True
+452,Chatter_Site,16/11/2023 00:00:12,In Operation,Good,Current Data,,,Sensor,False
+453,Chatter_Site,16/11/2023 00:00:00,Off,Good,Current Data,,,Sensor,True
+454,Chatter_Site,16/11/2023 00:00:03,In Operation,Good,Current Data,,,Sensor,True
+455,Chatter_Site,16/11/2023 00:00:19,Off,Good,Current Data,,,Sensor,True
+456,Chatter_Site,16/11/2023 00:00:21,In Operation,Good,Current Data,,,Sensor,True
+457,Chatter_Site,16/11/2023 00:00:09,Off,Good,Current Data,,,Sensor,True
+458,Chatter_Site,17/11/2023 00:00:00,In Operation,Good,Current Data,,,Sensor,False
+459,Chatter_Site,17/11/2023 00:00:01,Off,Good,Current Data,,,Sensor,True
+460,Chatter_Site,17/11/2023 00:00:05,In Operation,Good,Current Data,,,Sensor,True
+461,Chatter_Site,17/11/2023 00:00:04,Off,Good,Current Data,,,Sensor,True
+462,Chatter_Site,17/11/2023 00:00:03,In Operation,Good,Current Data,,,Sensor,True
+463,Chatter_Site,17/11/2023 00:00:14,Off,Good,Current Data,,,Sensor,True
+464,Chatter_Site,17/11/2023 00:00:27,In Operation,Good,Current Data,,,Sensor,True
+465,Chatter_Site,17/11/2023 00:00:29,Off,Good,Current Data,,,Sensor,True
+466,Chatter_Site,17/11/2023 00:00:16,In Operation,Good,Current Data,,,Sensor,True
+467,Chatter_Site,18/11/2023 00:00:07,In Operation,Good,Current Data,,,Sensor,False
+468,Chatter_Site,18/11/2023 00:00:06,Off,Good,Current Data,,,Sensor,True
+469,Chatter_Site,18/11/2023 00:00:23,In Operation,Good,Current Data,,,Sensor,True
+470,Chatter_Site,18/11/2023 00:00:00,Off,Good,Current Data,,,Sensor,True
+471,Chatter_Site,18/11/2023 00:00:21,In Operation,Good,Current Data,,,Sensor,True
+472,Chatter_Site,18/11/2023 00:00:27,Off,Good,Current Data,,,Sensor,True
+473,Chatter_Site,18/11/2023 00:00:18,In Operation,Good,Current Data,,,Sensor,True
+474,Chatter_Site,18/11/2023 00:00:08,Off,Good,Current Data,,,Sensor,True
+475,Chatter_Site,18/11/2023 00:00:08,In Operation,Good,Current Data,,,Sensor,True
+476,Chatter_Site,19/11/2023 00:00:05,Off,Good,Current Data,,,Sensor,False
+477,Chatter_Site,19/11/2023 00:00:28,In Operation,Good,Current Data,,,Sensor,True
+478,Chatter_Site,19/11/2023 00:00:20,Off,Good,Current Data,,,Sensor,True
+479,Chatter_Site,19/11/2023 00:00:22,In Operation,Good,Current Data,,,Sensor,True
+480,Chatter_Site,19/11/2023 00:00:20,Off,Good,Current Data,,,Sensor,True
+481,Chatter_Site,20/11/2023 00:00:18,In Operation,Good,Current Data,,,Sensor,False
+482,Chatter_Site,20/11/2023 00:00:06,Off,Good,Current Data,,,Sensor,True
+483,Chatter_Site,20/11/2023 00:00:22,In Operation,Good,Current Data,,,Sensor,True
+484,Chatter_Site,20/11/2023 00:00:28,Off,Good,Current Data,,,Sensor,True
+485,Chatter_Site,20/11/2023 00:00:12,In Operation,Good,Current Data,,,Sensor,True
+486,Chatter_Site,20/11/2023 00:00:10,Off,Good,Current Data,,,Sensor,True
+487,Chatter_Site,20/11/2023 00:00:03,In Operation,Good,Current Data,,,Sensor,True
+488,Chatter_Site,20/11/2023 00:00:05,Off,Good,Current Data,,,Sensor,True
+489,Chatter_Site,21/11/2023 00:00:05,In Operation,Good,Current Data,,,Sensor,False
+490,Chatter_Site,21/11/2023 00:00:14,Off,Good,Current Data,,,Sensor,True
+491,Chatter_Site,21/11/2023 00:00:19,In Operation,Good,Current Data,,,Sensor,True
+492,Chatter_Site,21/11/2023 00:00:12,Off,Good,Current Data,,,Sensor,True
+493,Chatter_Site,21/11/2023 00:00:28,In Operation,Good,Current Data,,,Sensor,True
+494,Chatter_Site,21/11/2023 00:00:16,Off,Good,Current Data,,,Sensor,True
+495,Chatter_Site,21/11/2023 00:00:14,In Operation,Good,Current Data,,,Sensor,True
+496,Chatter_Site,21/11/2023 00:00:09,Off,Good,Current Data,,,Sensor,True
+497,Chatter_Site,21/11/2023 00:00:29,In Operation,Good,Current Data,,,Sensor,True
+498,Chatter_Site,21/11/2023 00:00:23,Off,Good,Current Data,,,Sensor,True
+499,Chatter_Site,21/11/2023 00:00:13,In Operation,Good,Current Data,,,Sensor,True
+500,Chatter_Site,21/11/2023 00:00:24,Off,Good,Current Data,,,Sensor,True
+501,Chatter_Site,21/11/2023 00:00:05,In Operation,Good,Current Data,,,Sensor,True
+502,Chatter_Site,21/11/2023 00:00:11,Off,Good,Current Data,,,Sensor,True
+503,Chatter_Site,22/11/2023 00:00:17,In Operation,Good,Current Data,,,Sensor,False
+504,Chatter_Site,22/11/2023 00:00:14,Off,Good,Current Data,,,Sensor,True
+505,Chatter_Site,22/11/2023 00:00:06,In Operation,Good,Current Data,,,Sensor,True
+506,Chatter_Site,22/11/2023 00:00:11,Off,Good,Current Data,,,Sensor,True
+507,Chatter_Site,22/11/2023 00:00:03,In Operation,Good,Current Data,,,Sensor,True
+508,Chatter_Site,22/11/2023 00:00:06,Off,Good,Current Data,,,Sensor,True
+509,Chatter_Site,22/11/2023 00:00:14,In Operation,Good,Current Data,,,Sensor,True
+510,Chatter_Site,22/11/2023 00:00:11,Off,Good,Current Data,,,Sensor,True
+511,Chatter_Site,22/11/2023 00:00:27,In Operation,Good,Current Data,,,Sensor,True
+512,Chatter_Site,22/11/2023 00:00:17,Off,Good,Current Data,,,Sensor,True
+513,Chatter_Site,22/11/2023 00:00:07,In Operation,Good,Current Data,,,Sensor,True
+514,Chatter_Site,23/11/2023 00:00:23,In Operation,Good,Current Data,,,Sensor,False
+515,Chatter_Site,23/11/2023 00:00:08,Off,Good,Current Data,,,Sensor,True
+516,Chatter_Site,23/11/2023 00:00:30,In Operation,Good,Current Data,,,Sensor,True
+517,Chatter_Site,23/11/2023 00:00:02,Off,Good,Current Data,,,Sensor,True
+518,Chatter_Site,23/11/2023 00:00:16,In Operation,Good,Current Data,,,Sensor,True
+519,Chatter_Site,23/11/2023 00:00:08,Off,Good,Current Data,,,Sensor,True
+520,Chatter_Site,24/11/2023 00:00:25,Off,Good,Current Data,,,Sensor,False
+521,Chatter_Site,24/11/2023 00:00:12,In Operation,Good,Current Data,,,Sensor,True
+522,Chatter_Site,24/11/2023 00:00:07,Off,Good,Current Data,,,Sensor,True
+523,Chatter_Site,24/11/2023 00:00:24,In Operation,Good,Current Data,,,Sensor,True
+524,Chatter_Site,24/11/2023 00:00:25,Off,Good,Current Data,,,Sensor,True
+525,Chatter_Site,24/11/2023 00:00:12,In Operation,Good,Current Data,,,Sensor,True
+526,Chatter_Site,24/11/2023 00:00:29,Off,Good,Current Data,,,Sensor,True
+527,Chatter_Site,24/11/2023 00:00:13,In Operation,Good,Current Data,,,Sensor,True
+528,Chatter_Site,24/11/2023 00:00:28,Off,Good,Current Data,,,Sensor,True
+529,Chatter_Site,25/11/2023 00:00:05,Off,Good,Current Data,,,Sensor,False
+530,Chatter_Site,25/11/2023 00:00:01,In Operation,Good,Current Data,,,Sensor,True
+531,Chatter_Site,25/11/2023 00:00:26,Off,Good,Current Data,,,Sensor,True
+532,Chatter_Site,25/11/2023 00:00:02,In Operation,Good,Current Data,,,Sensor,True
+533,Chatter_Site,25/11/2023 00:00:25,Off,Good,Current Data,,,Sensor,True
+534,Chatter_Site,25/11/2023 00:00:18,In Operation,Good,Current Data,,,Sensor,True
+535,Chatter_Site,25/11/2023 00:00:17,Off,Good,Current Data,,,Sensor,True
+536,Chatter_Site,25/11/2023 00:00:17,In Operation,Good,Current Data,,,Sensor,True
+537,Chatter_Site,25/11/2023 00:00:23,Off,Good,Current Data,,,Sensor,True
+538,Chatter_Site,25/11/2023 00:00:22,In Operation,Good,Current Data,,,Sensor,True
+539,Chatter_Site,26/11/2023 00:00:04,In Operation,Good,Current Data,,,Sensor,False
+540,Chatter_Site,26/11/2023 00:00:19,Off,Good,Current Data,,,Sensor,True
+541,Chatter_Site,26/11/2023 00:00:07,In Operation,Good,Current Data,,,Sensor,True
+542,Chatter_Site,26/11/2023 00:00:16,Off,Good,Current Data,,,Sensor,True
+543,Chatter_Site,26/11/2023 00:00:16,In Operation,Good,Current Data,,,Sensor,True
+544,Chatter_Site,26/11/2023 00:00:03,Off,Good,Current Data,,,Sensor,True
+545,Chatter_Site,26/11/2023 00:00:26,In Operation,Good,Current Data,,,Sensor,True
+546,Chatter_Site,26/11/2023 00:00:11,Off,Good,Current Data,,,Sensor,True
+547,Chatter_Site,26/11/2023 00:00:16,In Operation,Good,Current Data,,,Sensor,True
+548,Chatter_Site,26/11/2023 00:00:07,Off,Good,Current Data,,,Sensor,True
+549,Chatter_Site,26/11/2023 00:00:07,In Operation,Good,Current Data,,,Sensor,True
+550,Chatter_Site,26/11/2023 00:00:04,Off,Good,Current Data,,,Sensor,True
+551,Chatter_Site,27/11/2023 00:00:17,In Operation,Good,Current Data,,,Sensor,False
+552,Chatter_Site,27/11/2023 00:00:26,Off,Good,Current Data,,,Sensor,True
+553,Chatter_Site,27/11/2023 00:00:12,In Operation,Good,Current Data,,,Sensor,True
+554,Chatter_Site,27/11/2023 00:00:05,Off,Good,Current Data,,,Sensor,True
+555,Chatter_Site,27/11/2023 00:00:20,In Operation,Good,Current Data,,,Sensor,True
+556,Chatter_Site,27/11/2023 00:00:15,Off,Good,Current Data,,,Sensor,True
+557,Chatter_Site,27/11/2023 00:00:15,In Operation,Good,Current Data,,,Sensor,True
+558,Chatter_Site,27/11/2023 00:00:26,Off,Good,Current Data,,,Sensor,True
+559,Chatter_Site,27/11/2023 00:00:05,In Operation,Good,Current Data,,,Sensor,True
+560,Chatter_Site,27/11/2023 00:00:23,Off,Good,Current Data,,,Sensor,True
+561,Chatter_Site,27/11/2023 00:00:07,In Operation,Good,Current Data,,,Sensor,True
+562,Chatter_Site,28/11/2023 00:00:23,Off,Good,Current Data,,,Sensor,False
+563,Chatter_Site,28/11/2023 00:00:23,In Operation,Good,Current Data,,,Sensor,True
+564,Chatter_Site,28/11/2023 00:00:16,Off,Good,Current Data,,,Sensor,True
+565,Chatter_Site,28/11/2023 00:00:18,In Operation,Good,Current Data,,,Sensor,True
+566,Chatter_Site,28/11/2023 00:00:11,Off,Good,Current Data,,,Sensor,True
+567,Chatter_Site,28/11/2023 00:00:00,In Operation,Good,Current Data,,,Sensor,True
+568,Chatter_Site,28/11/2023 00:00:04,Off,Good,Current Data,,,Sensor,True
+569,Chatter_Site,28/11/2023 00:00:00,In Operation,Good,Current Data,,,Sensor,True
+570,Chatter_Site,28/11/2023 00:00:22,Off,Good,Current Data,,,Sensor,True
+571,Chatter_Site,29/11/2023 00:00:17,Off,Good,Current Data,,,Sensor,False
+572,Chatter_Site,29/11/2023 00:00:15,In Operation,Good,Current Data,,,Sensor,True
+573,Chatter_Site,29/11/2023 00:00:23,Off,Good,Current Data,,,Sensor,True
+574,Chatter_Site,29/11/2023 00:00:24,In Operation,Good,Current Data,,,Sensor,True
+575,Chatter_Site,29/11/2023 00:00:05,Off,Good,Current Data,,,Sensor,True
+576,Chatter_Site,29/11/2023 00:00:10,In Operation,Good,Current Data,,,Sensor,True
+577,Chatter_Site,29/11/2023 00:00:14,Off,Good,Current Data,,,Sensor,True
+578,Chatter_Site,29/11/2023 00:00:28,In Operation,Good,Current Data,,,Sensor,True
+579,Chatter_Site,29/11/2023 00:00:28,Off,Good,Current Data,,,Sensor,True
+580,Chatter_Site,29/11/2023 00:00:11,In Operation,Good,Current Data,,,Sensor,True
+581,Chatter_Site,30/11/2023 00:00:15,Off,Good,Current Data,,,Sensor,False
+582,Chatter_Site,30/11/2023 00:00:03,In Operation,Good,Current Data,,,Sensor,True
+583,Chatter_Site,30/11/2023 00:00:05,Off,Good,Current Data,,,Sensor,True
+584,Chatter_Site,30/11/2023 00:00:09,In Operation,Good,Current Data,,,Sensor,True
+585,Chatter_Site,30/11/2023 00:00:07,Off,Good,Current Data,,,Sensor,True
+586,Chatter_Site,30/11/2023 00:00:19,In Operation,Good,Current Data,,,Sensor,True
+587,Chatter_Site,01/12/2023 00:00:21,In Operation,Good,Current Data,,,Sensor,False
+588,Chatter_Site,01/12/2023 00:00:13,Off,Good,Current Data,,,Sensor,True
+589,Chatter_Site,01/12/2023 00:00:22,In Operation,Good,Current Data,,,Sensor,True
+590,Chatter_Site,01/12/2023 00:00:16,Off,Good,Current Data,,,Sensor,True
+591,Chatter_Site,01/12/2023 00:00:17,In Operation,Good,Current Data,,,Sensor,True
+592,Chatter_Site,01/12/2023 00:00:07,Off,Good,Current Data,,,Sensor,True
+593,Chatter_Site,01/12/2023 00:00:11,In Operation,Good,Current Data,,,Sensor,True
+594,Chatter_Site,02/12/2023 00:00:14,In Operation,Good,Current Data,,,Sensor,False
+595,Chatter_Site,02/12/2023 00:00:06,Off,Good,Current Data,,,Sensor,True
+596,Chatter_Site,02/12/2023 00:00:21,In Operation,Good,Current Data,,,Sensor,True
+597,Chatter_Site,02/12/2023 00:00:06,Off,Good,Current Data,,,Sensor,True
+598,Chatter_Site,02/12/2023 00:00:18,In Operation,Good,Current Data,,,Sensor,True
+599,Chatter_Site,03/12/2023 00:00:10,In Operation,Good,Current Data,,,Sensor,False
+600,Chatter_Site,03/12/2023 00:00:00,Off,Good,Current Data,,,Sensor,True
+601,Chatter_Site,03/12/2023 00:00:00,In Operation,Good,Current Data,,,Sensor,True
+602,Chatter_Site,03/12/2023 00:00:22,Off,Good,Current Data,,,Sensor,True
+603,Chatter_Site,03/12/2023 00:00:02,In Operation,Good,Current Data,,,Sensor,True
+604,Chatter_Site,04/12/2023 00:00:17,In Operation,Good,Current Data,,,Sensor,False
+605,Chatter_Site,04/12/2023 00:00:13,Off,Good,Current Data,,,Sensor,True
+606,Chatter_Site,04/12/2023 00:00:12,In Operation,Good,Current Data,,,Sensor,True
+607,Chatter_Site,04/12/2023 00:00:20,Off,Good,Current Data,,,Sensor,True
+608,Chatter_Site,04/12/2023 00:00:08,In Operation,Good,Current Data,,,Sensor,True
+609,Chatter_Site,04/12/2023 00:00:09,Off,Good,Current Data,,,Sensor,True
+610,Chatter_Site,04/12/2023 00:00:21,In Operation,Good,Current Data,,,Sensor,True
+611,Chatter_Site,04/12/2023 00:00:05,Off,Good,Current Data,,,Sensor,True
+612,Chatter_Site,04/12/2023 00:00:27,In Operation,Good,Current Data,,,Sensor,True
+613,Chatter_Site,04/12/2023 00:00:12,Off,Good,Current Data,,,Sensor,True
+614,Chatter_Site,04/12/2023 00:00:18,In Operation,Good,Current Data,,,Sensor,True
+615,Chatter_Site,04/12/2023 00:00:21,Off,Good,Current Data,,,Sensor,True
+616,Chatter_Site,04/12/2023 00:00:25,In Operation,Good,Current Data,,,Sensor,True
+617,Chatter_Site,05/12/2023 00:00:09,In Operation,Good,Current Data,,,Sensor,False
+618,Chatter_Site,05/12/2023 00:00:11,Off,Good,Current Data,,,Sensor,True
+619,Chatter_Site,05/12/2023 00:00:25,In Operation,Good,Current Data,,,Sensor,True
+620,Chatter_Site,05/12/2023 00:00:13,Off,Good,Current Data,,,Sensor,True
+621,Chatter_Site,05/12/2023 00:00:18,In Operation,Good,Current Data,,,Sensor,True
+622,Chatter_Site,05/12/2023 00:00:27,Off,Good,Current Data,,,Sensor,True
+623,Chatter_Site,05/12/2023 00:00:06,In Operation,Good,Current Data,,,Sensor,True
+624,Chatter_Site,05/12/2023 00:00:03,Off,Good,Current Data,,,Sensor,True
+625,Chatter_Site,05/12/2023 00:00:18,In Operation,Good,Current Data,,,Sensor,True
+626,Chatter_Site,05/12/2023 00:00:03,Off,Good,Current Data,,,Sensor,True
+627,Chatter_Site,05/12/2023 00:00:18,In Operation,Good,Current Data,,,Sensor,True
+628,Chatter_Site,05/12/2023 00:00:19,Off,Good,Current Data,,,Sensor,True
+629,Chatter_Site,05/12/2023 00:00:24,In Operation,Good,Current Data,,,Sensor,True
+630,Chatter_Site,05/12/2023 00:00:27,Off,Good,Current Data,,,Sensor,True
+631,Chatter_Site,05/12/2023 00:00:14,In Operation,Good,Current Data,,,Sensor,True
+632,Chatter_Site,06/12/2023 00:00:12,Off,Good,Current Data,,,Sensor,False
+633,Chatter_Site,06/12/2023 00:00:22,In Operation,Good,Current Data,,,Sensor,True
+634,Chatter_Site,06/12/2023 00:00:03,Off,Good,Current Data,,,Sensor,True
+635,Chatter_Site,06/12/2023 00:00:26,In Operation,Good,Current Data,,,Sensor,True
+636,Chatter_Site,06/12/2023 00:00:16,Off,Good,Current Data,,,Sensor,True
+637,Chatter_Site,06/12/2023 00:00:06,In Operation,Good,Current Data,,,Sensor,True
+638,Chatter_Site,06/12/2023 00:00:08,Off,Good,Current Data,,,Sensor,True
+639,Chatter_Site,06/12/2023 00:00:20,In Operation,Good,Current Data,,,Sensor,True
+640,Chatter_Site,07/12/2023 00:00:23,Off,Good,Current Data,,,Sensor,False
+641,Chatter_Site,07/12/2023 00:00:02,In Operation,Good,Current Data,,,Sensor,True
+642,Chatter_Site,07/12/2023 00:00:16,Off,Good,Current Data,,,Sensor,True
+643,Chatter_Site,07/12/2023 00:00:19,In Operation,Good,Current Data,,,Sensor,True
+644,Chatter_Site,07/12/2023 00:00:10,Off,Good,Current Data,,,Sensor,True
+645,Chatter_Site,08/12/2023 00:00:23,In Operation,Good,Current Data,,,Sensor,False
+646,Chatter_Site,08/12/2023 00:00:05,Off,Good,Current Data,,,Sensor,True
+647,Chatter_Site,08/12/2023 00:00:23,In Operation,Good,Current Data,,,Sensor,True
+648,Chatter_Site,08/12/2023 00:00:20,Off,Good,Current Data,,,Sensor,True
+649,Chatter_Site,08/12/2023 00:00:29,In Operation,Good,Current Data,,,Sensor,True
+650,Chatter_Site,08/12/2023 00:00:25,Off,Good,Current Data,,,Sensor,True
+651,Chatter_Site,08/12/2023 00:00:15,In Operation,Good,Current Data,,,Sensor,True
+652,Chatter_Site,08/12/2023 00:00:14,Off,Good,Current Data,,,Sensor,True
+653,Chatter_Site,08/12/2023 00:00:13,In Operation,Good,Current Data,,,Sensor,True
+654,Chatter_Site,08/12/2023 00:00:18,Off,Good,Current Data,,,Sensor,True
+655,Chatter_Site,08/12/2023 00:00:29,In Operation,Good,Current Data,,,Sensor,True
+656,Chatter_Site,08/12/2023 00:00:05,Off,Good,Current Data,,,Sensor,True
+657,Chatter_Site,08/12/2023 00:00:04,In Operation,Good,Current Data,,,Sensor,True
+658,Chatter_Site,09/12/2023 00:00:23,In Operation,Good,Current Data,,,Sensor,False
+659,Chatter_Site,09/12/2023 00:00:22,Off,Good,Current Data,,,Sensor,True
+660,Chatter_Site,09/12/2023 00:00:24,In Operation,Good,Current Data,,,Sensor,True
+661,Chatter_Site,09/12/2023 00:00:16,Off,Good,Current Data,,,Sensor,True
+662,Chatter_Site,09/12/2023 00:00:30,In Operation,Good,Current Data,,,Sensor,True
+663,Chatter_Site,09/12/2023 00:00:20,Off,Good,Current Data,,,Sensor,True
+664,Chatter_Site,09/12/2023 00:00:11,In Operation,Good,Current Data,,,Sensor,True
+665,Chatter_Site,10/12/2023 00:00:22,In Operation,Good,Current Data,,,Sensor,False
+666,Chatter_Site,10/12/2023 00:00:12,Off,Good,Current Data,,,Sensor,True
+667,Chatter_Site,10/12/2023 00:00:05,In Operation,Good,Current Data,,,Sensor,True
+668,Chatter_Site,10/12/2023 00:00:15,Off,Good,Current Data,,,Sensor,True
+669,Chatter_Site,10/12/2023 00:00:16,In Operation,Good,Current Data,,,Sensor,True
+670,Chatter_Site,10/12/2023 00:00:26,Off,Good,Current Data,,,Sensor,True
+671,Chatter_Site,10/12/2023 00:00:24,In Operation,Good,Current Data,,,Sensor,True
+672,Chatter_Site,10/12/2023 00:00:20,Off,Good,Current Data,,,Sensor,True
+673,Chatter_Site,10/12/2023 00:00:27,In Operation,Good,Current Data,,,Sensor,True
+674,Chatter_Site,11/12/2023 00:00:09,In Operation,Good,Current Data,,,Sensor,False
+675,Chatter_Site,11/12/2023 00:00:05,Off,Good,Current Data,,,Sensor,True
+676,Chatter_Site,11/12/2023 00:00:17,In Operation,Good,Current Data,,,Sensor,True
+677,Chatter_Site,11/12/2023 00:00:14,Off,Good,Current Data,,,Sensor,True
+678,Chatter_Site,11/12/2023 00:00:26,In Operation,Good,Current Data,,,Sensor,True
+679,Chatter_Site,11/12/2023 00:00:23,Off,Good,Current Data,,,Sensor,True
+680,Chatter_Site,12/12/2023 00:00:03,In Operation,Good,Current Data,,,Sensor,False
+681,Chatter_Site,12/12/2023 00:00:11,Off,Good,Current Data,,,Sensor,True
+682,Chatter_Site,12/12/2023 00:00:02,In Operation,Good,Current Data,,,Sensor,True
+683,Chatter_Site,12/12/2023 00:00:21,Off,Good,Current Data,,,Sensor,True
+684,Chatter_Site,12/12/2023 00:00:17,In Operation,Good,Current Data,,,Sensor,True
+685,Chatter_Site,12/12/2023 00:00:24,Off,Good,Current Data,,,Sensor,True
+686,Chatter_Site,12/12/2023 00:00:27,In Operation,Good,Current Data,,,Sensor,True
+687,Chatter_Site,12/12/2023 00:00:05,Off,Good,Current Data,,,Sensor,True
+688,Chatter_Site,12/12/2023 00:00:11,In Operation,Good,Current Data,,,Sensor,True
+689,Chatter_Site,12/12/2023 00:00:12,Off,Good,Current Data,,,Sensor,True
+690,Chatter_Site,12/12/2023 00:00:24,In Operation,Good,Current Data,,,Sensor,True
+691,Chatter_Site,12/12/2023 00:00:04,Off,Good,Current Data,,,Sensor,True
+692,Chatter_Site,12/12/2023 00:00:30,In Operation,Good,Current Data,,,Sensor,True
+693,Chatter_Site,13/12/2023 00:00:30,In Operation,Good,Current Data,,,Sensor,False
+694,Chatter_Site,13/12/2023 00:00:18,Off,Good,Current Data,,,Sensor,True
+695,Chatter_Site,13/12/2023 00:00:16,In Operation,Good,Current Data,,,Sensor,True
+696,Chatter_Site,13/12/2023 00:00:27,Off,Good,Current Data,,,Sensor,True
+697,Chatter_Site,13/12/2023 00:00:08,In Operation,Good,Current Data,,,Sensor,True
+698,Chatter_Site,13/12/2023 00:00:02,Off,Good,Current Data,,,Sensor,True
+699,Chatter_Site,13/12/2023 00:00:17,In Operation,Good,Current Data,,,Sensor,True
+700,Chatter_Site,13/12/2023 00:00:20,Off,Good,Current Data,,,Sensor,True
+701,Chatter_Site,13/12/2023 00:00:13,In Operation,Good,Current Data,,,Sensor,True
+702,Chatter_Site,13/12/2023 00:00:12,Off,Good,Current Data,,,Sensor,True
+703,Chatter_Site,13/12/2023 00:00:28,In Operation,Good,Current Data,,,Sensor,True
+704,Chatter_Site,13/12/2023 00:00:27,Off,Good,Current Data,,,Sensor,True
+705,Chatter_Site,13/12/2023 00:00:20,In Operation,Good,Current Data,,,Sensor,True
+706,Chatter_Site,13/12/2023 00:00:14,Off,Good,Current Data,,,Sensor,True
+707,Chatter_Site,14/12/2023 00:00:09,In Operation,Good,Current Data,,,Sensor,False
+708,Chatter_Site,14/12/2023 00:00:04,Off,Good,Current Data,,,Sensor,True
+709,Chatter_Site,14/12/2023 00:00:09,In Operation,Good,Current Data,,,Sensor,True
+710,Chatter_Site,14/12/2023 00:00:10,Off,Good,Current Data,,,Sensor,True
+711,Chatter_Site,14/12/2023 00:00:23,In Operation,Good,Current Data,,,Sensor,True
+712,Chatter_Site,14/12/2023 00:00:08,Off,Good,Current Data,,,Sensor,True
+713,Chatter_Site,14/12/2023 00:00:18,In Operation,Good,Current Data,,,Sensor,True
+714,Chatter_Site,14/12/2023 00:00:10,Off,Good,Current Data,,,Sensor,True
+715,Chatter_Site,14/12/2023 00:00:13,In Operation,Good,Current Data,,,Sensor,True
+716,Chatter_Site,14/12/2023 00:00:08,Off,Good,Current Data,,,Sensor,True
+717,Chatter_Site,14/12/2023 00:00:05,In Operation,Good,Current Data,,,Sensor,True
+718,Chatter_Site,15/12/2023 00:00:21,In Operation,Good,Current Data,,,Sensor,False
+719,Chatter_Site,15/12/2023 00:00:21,Off,Good,Current Data,,,Sensor,True
+720,Chatter_Site,15/12/2023 00:00:14,In Operation,Good,Current Data,,,Sensor,True
+721,Chatter_Site,15/12/2023 00:00:12,Off,Good,Current Data,,,Sensor,True
+722,Chatter_Site,15/12/2023 00:00:17,In Operation,Good,Current Data,,,Sensor,True
+723,Chatter_Site,15/12/2023 00:00:13,Off,Good,Current Data,,,Sensor,True
+724,Chatter_Site,15/12/2023 00:00:04,In Operation,Good,Current Data,,,Sensor,True
+725,Chatter_Site,15/12/2023 00:00:13,Off,Good,Current Data,,,Sensor,True
+726,Chatter_Site,15/12/2023 00:00:08,In Operation,Good,Current Data,,,Sensor,True
+727,Chatter_Site,15/12/2023 00:00:12,Off,Good,Current Data,,,Sensor,True
+728,Chatter_Site,15/12/2023 00:00:06,In Operation,Good,Current Data,,,Sensor,True
+729,Chatter_Site,15/12/2023 00:00:04,Off,Good,Current Data,,,Sensor,True
+730,Chatter_Site,15/12/2023 00:00:09,In Operation,Good,Current Data,,,Sensor,True
+731,Chatter_Site,16/12/2023 00:00:24,In Operation,Good,Current Data,,,Sensor,False
+732,Chatter_Site,16/12/2023 00:00:26,Off,Good,Current Data,,,Sensor,True
+733,Chatter_Site,16/12/2023 00:00:02,In Operation,Good,Current Data,,,Sensor,True
+734,Chatter_Site,16/12/2023 00:00:18,Off,Good,Current Data,,,Sensor,True
+735,Chatter_Site,16/12/2023 00:00:02,In Operation,Good,Current Data,,,Sensor,True
+736,Chatter_Site,16/12/2023 00:00:28,Off,Good,Current Data,,,Sensor,True
+737,Chatter_Site,16/12/2023 00:00:05,In Operation,Good,Current Data,,,Sensor,True
+738,Chatter_Site,16/12/2023 00:00:28,Off,Good,Current Data,,,Sensor,True
+739,Chatter_Site,16/12/2023 00:00:29,In Operation,Good,Current Data,,,Sensor,True
+740,Chatter_Site,16/12/2023 00:00:21,Off,Good,Current Data,,,Sensor,True
+741,Chatter_Site,16/12/2023 00:00:17,In Operation,Good,Current Data,,,Sensor,True
+742,Chatter_Site,17/12/2023 00:00:25,Off,Good,Current Data,,,Sensor,False
+743,Chatter_Site,17/12/2023 00:00:15,In Operation,Good,Current Data,,,Sensor,True
+744,Chatter_Site,17/12/2023 00:00:11,Off,Good,Current Data,,,Sensor,True
+745,Chatter_Site,17/12/2023 00:00:18,In Operation,Good,Current Data,,,Sensor,True
+746,Chatter_Site,17/12/2023 00:00:04,Off,Good,Current Data,,,Sensor,True
+747,Chatter_Site,17/12/2023 00:00:02,In Operation,Good,Current Data,,,Sensor,True
+748,Chatter_Site,17/12/2023 00:00:24,Off,Good,Current Data,,,Sensor,True
+749,Chatter_Site,17/12/2023 00:00:26,In Operation,Good,Current Data,,,Sensor,True
+750,Chatter_Site,17/12/2023 00:00:21,Off,Good,Current Data,,,Sensor,True
+751,Chatter_Site,17/12/2023 00:00:19,In Operation,Good,Current Data,,,Sensor,True
+752,Chatter_Site,17/12/2023 00:00:12,Off,Good,Current Data,,,Sensor,True
+753,Chatter_Site,17/12/2023 00:00:25,In Operation,Good,Current Data,,,Sensor,True
+754,Chatter_Site,17/12/2023 00:00:06,Off,Good,Current Data,,,Sensor,True
+755,Chatter_Site,17/12/2023 00:00:25,In Operation,Good,Current Data,,,Sensor,True
+756,Chatter_Site,18/12/2023 00:00:00,In Operation,Good,Current Data,,,Sensor,False
+757,Chatter_Site,18/12/2023 00:00:14,Off,Good,Current Data,,,Sensor,True
+758,Chatter_Site,18/12/2023 00:00:18,In Operation,Good,Current Data,,,Sensor,True
+759,Chatter_Site,18/12/2023 00:00:00,Off,Good,Current Data,,,Sensor,True
+760,Chatter_Site,18/12/2023 00:00:15,In Operation,Good,Current Data,,,Sensor,True
+761,Chatter_Site,18/12/2023 00:00:09,Off,Good,Current Data,,,Sensor,True
+762,Chatter_Site,18/12/2023 00:00:17,In Operation,Good,Current Data,,,Sensor,True
+763,Chatter_Site,19/12/2023 00:00:28,In Operation,Good,Current Data,,,Sensor,False
+764,Chatter_Site,19/12/2023 00:00:21,Off,Good,Current Data,,,Sensor,True
+765,Chatter_Site,19/12/2023 00:00:29,In Operation,Good,Current Data,,,Sensor,True
+766,Chatter_Site,19/12/2023 00:00:09,Off,Good,Current Data,,,Sensor,True
+767,Chatter_Site,19/12/2023 00:00:23,In Operation,Good,Current Data,,,Sensor,True
+768,Chatter_Site,19/12/2023 00:00:08,Off,Good,Current Data,,,Sensor,True
+769,Chatter_Site,19/12/2023 00:00:01,In Operation,Good,Current Data,,,Sensor,True
+770,Chatter_Site,19/12/2023 00:00:12,Off,Good,Current Data,,,Sensor,True
+771,Chatter_Site,19/12/2023 00:00:27,In Operation,Good,Current Data,,,Sensor,True
+772,Chatter_Site,19/12/2023 00:00:03,Off,Good,Current Data,,,Sensor,True
+773,Chatter_Site,19/12/2023 00:00:14,In Operation,Good,Current Data,,,Sensor,True
+774,Chatter_Site,19/12/2023 00:00:05,Off,Good,Current Data,,,Sensor,True
+775,Chatter_Site,19/12/2023 00:00:24,In Operation,Good,Current Data,,,Sensor,True
+776,Chatter_Site,19/12/2023 00:00:00,Off,Good,Current Data,,,Sensor,True
+777,Chatter_Site,19/12/2023 00:00:04,In Operation,Good,Current Data,,,Sensor,True
+778,Chatter_Site,20/12/2023 00:00:07,In Operation,Good,Current Data,,,Sensor,False
+779,Chatter_Site,20/12/2023 00:00:16,Off,Good,Current Data,,,Sensor,True
+780,Chatter_Site,20/12/2023 00:00:21,In Operation,Good,Current Data,,,Sensor,True
+781,Chatter_Site,20/12/2023 00:00:23,Off,Good,Current Data,,,Sensor,True
+782,Chatter_Site,20/12/2023 00:00:17,In Operation,Good,Current Data,,,Sensor,True
+783,Chatter_Site,20/12/2023 00:00:27,Off,Good,Current Data,,,Sensor,True
+784,Chatter_Site,20/12/2023 00:00:21,In Operation,Good,Current Data,,,Sensor,True
+785,Chatter_Site,20/12/2023 00:00:05,Off,Good,Current Data,,,Sensor,True
+786,Chatter_Site,20/12/2023 00:00:11,In Operation,Good,Current Data,,,Sensor,True
+787,Chatter_Site,20/12/2023 00:00:05,Off,Good,Current Data,,,Sensor,True
+788,Chatter_Site,20/12/2023 00:00:01,In Operation,Good,Current Data,,,Sensor,True
+789,Chatter_Site,21/12/2023 00:00:20,In Operation,Good,Current Data,,,Sensor,False
+790,Chatter_Site,21/12/2023 00:00:30,Off,Good,Current Data,,,Sensor,True
+791,Chatter_Site,21/12/2023 00:00:14,In Operation,Good,Current Data,,,Sensor,True
+792,Chatter_Site,21/12/2023 00:00:15,Off,Good,Current Data,,,Sensor,True
+793,Chatter_Site,21/12/2023 00:00:06,In Operation,Good,Current Data,,,Sensor,True
+794,Chatter_Site,21/12/2023 00:00:23,Off,Good,Current Data,,,Sensor,True
+795,Chatter_Site,21/12/2023 00:00:18,In Operation,Good,Current Data,,,Sensor,True
+796,Chatter_Site,21/12/2023 00:00:23,Off,Good,Current Data,,,Sensor,True
+797,Chatter_Site,21/12/2023 00:00:03,In Operation,Good,Current Data,,,Sensor,True
+798,Chatter_Site,21/12/2023 00:00:14,Off,Good,Current Data,,,Sensor,True
+799,Chatter_Site,21/12/2023 00:00:12,In Operation,Good,Current Data,,,Sensor,True
+800,Chatter_Site,21/12/2023 00:00:01,Off,Good,Current Data,,,Sensor,True
+801,Chatter_Site,21/12/2023 00:00:16,In Operation,Good,Current Data,,,Sensor,True
+802,Chatter_Site,21/12/2023 00:00:00,Off,Good,Current Data,,,Sensor,True
+803,Chatter_Site,21/12/2023 00:00:03,In Operation,Good,Current Data,,,Sensor,True
+804,Chatter_Site,22/12/2023 00:00:04,In Operation,Good,Current Data,,,Sensor,False
+805,Chatter_Site,22/12/2023 00:00:18,Off,Good,Current Data,,,Sensor,True
+806,Chatter_Site,22/12/2023 00:00:09,In Operation,Good,Current Data,,,Sensor,True
+807,Chatter_Site,22/12/2023 00:00:20,Off,Good,Current Data,,,Sensor,True
+808,Chatter_Site,22/12/2023 00:00:12,In Operation,Good,Current Data,,,Sensor,True
+809,Chatter_Site,22/12/2023 00:00:14,Off,Good,Current Data,,,Sensor,True
+810,Chatter_Site,23/12/2023 00:00:06,In Operation,Good,Current Data,,,Sensor,False
+811,Chatter_Site,23/12/2023 00:00:18,Off,Good,Current Data,,,Sensor,True
+812,Chatter_Site,23/12/2023 00:00:05,In Operation,Good,Current Data,,,Sensor,True
+813,Chatter_Site,23/12/2023 00:00:04,Off,Good,Current Data,,,Sensor,True
+814,Chatter_Site,23/12/2023 00:00:02,In Operation,Good,Current Data,,,Sensor,True
+815,Chatter_Site,23/12/2023 00:00:06,Off,Good,Current Data,,,Sensor,True
+816,Chatter_Site,23/12/2023 00:00:06,In Operation,Good,Current Data,,,Sensor,True
+817,Chatter_Site,23/12/2023 00:00:22,Off,Good,Current Data,,,Sensor,True
+818,Chatter_Site,23/12/2023 00:00:24,In Operation,Good,Current Data,,,Sensor,True
+819,Chatter_Site,23/12/2023 00:00:09,Off,Good,Current Data,,,Sensor,True
+820,Chatter_Site,23/12/2023 00:00:30,In Operation,Good,Current Data,,,Sensor,True
+821,Chatter_Site,23/12/2023 00:00:25,Off,Good,Current Data,,,Sensor,True
+822,Chatter_Site,23/12/2023 00:00:18,In Operation,Good,Current Data,,,Sensor,True
+823,Chatter_Site,23/12/2023 00:00:25,Off,Good,Current Data,,,Sensor,True
+824,Chatter_Site,24/12/2023 00:00:04,Off,Good,Current Data,,,Sensor,False
+825,Chatter_Site,24/12/2023 00:00:03,In Operation,Good,Current Data,,,Sensor,True
+826,Chatter_Site,24/12/2023 00:00:21,Off,Good,Current Data,,,Sensor,True
+827,Chatter_Site,24/12/2023 00:00:07,In Operation,Good,Current Data,,,Sensor,True
+828,Chatter_Site,24/12/2023 00:00:19,Off,Good,Current Data,,,Sensor,True
+829,Chatter_Site,24/12/2023 00:00:18,In Operation,Good,Current Data,,,Sensor,True
+830,Chatter_Site,24/12/2023 00:00:14,Off,Good,Current Data,,,Sensor,True
+831,Chatter_Site,24/12/2023 00:00:30,In Operation,Good,Current Data,,,Sensor,True
+832,Chatter_Site,24/12/2023 00:00:07,Off,Good,Current Data,,,Sensor,True
+833,Chatter_Site,24/12/2023 00:00:04,In Operation,Good,Current Data,,,Sensor,True
+834,Chatter_Site,24/12/2023 00:00:29,Off,Good,Current Data,,,Sensor,True
+835,Chatter_Site,24/12/2023 00:00:19,In Operation,Good,Current Data,,,Sensor,True
+836,Chatter_Site,24/12/2023 00:00:28,Off,Good,Current Data,,,Sensor,True
+837,Chatter_Site,24/12/2023 00:00:25,In Operation,Good,Current Data,,,Sensor,True
+838,Chatter_Site,25/12/2023 00:00:02,In Operation,Good,Current Data,,,Sensor,False
+839,Chatter_Site,25/12/2023 00:00:30,Off,Good,Current Data,,,Sensor,True
+840,Chatter_Site,25/12/2023 00:00:16,In Operation,Good,Current Data,,,Sensor,True
+841,Chatter_Site,25/12/2023 00:00:05,Off,Good,Current Data,,,Sensor,True
+842,Chatter_Site,25/12/2023 00:00:16,In Operation,Good,Current Data,,,Sensor,True
+843,Chatter_Site,25/12/2023 00:00:13,Off,Good,Current Data,,,Sensor,True
+844,Chatter_Site,25/12/2023 00:00:13,In Operation,Good,Current Data,,,Sensor,True
+845,Chatter_Site,25/12/2023 00:00:29,Off,Good,Current Data,,,Sensor,True
+846,Chatter_Site,25/12/2023 00:00:15,In Operation,Good,Current Data,,,Sensor,True
+847,Chatter_Site,25/12/2023 00:00:24,Off,Good,Current Data,,,Sensor,True
+848,Chatter_Site,25/12/2023 00:00:05,In Operation,Good,Current Data,,,Sensor,True
+849,Chatter_Site,25/12/2023 00:00:12,Off,Good,Current Data,,,Sensor,True
+850,Chatter_Site,25/12/2023 00:00:14,In Operation,Good,Current Data,,,Sensor,True
+851,Chatter_Site,25/12/2023 00:00:09,Off,Good,Current Data,,,Sensor,True
+852,Chatter_Site,25/12/2023 00:00:03,In Operation,Good,Current Data,,,Sensor,True
+853,Chatter_Site,26/12/2023 00:00:09,In Operation,Good,Current Data,,,Sensor,False
+854,Chatter_Site,26/12/2023 00:00:14,Off,Good,Current Data,,,Sensor,True
+855,Chatter_Site,26/12/2023 00:00:05,In Operation,Good,Current Data,,,Sensor,True
+856,Chatter_Site,26/12/2023 00:00:17,Off,Good,Current Data,,,Sensor,True
+857,Chatter_Site,26/12/2023 00:00:27,In Operation,Good,Current Data,,,Sensor,True
+858,Chatter_Site,26/12/2023 00:00:03,Off,Good,Current Data,,,Sensor,True
+859,Chatter_Site,26/12/2023 00:00:03,In Operation,Good,Current Data,,,Sensor,True
+860,Chatter_Site,27/12/2023 00:00:01,Off,Good,Current Data,,,Sensor,False
+861,Chatter_Site,27/12/2023 00:00:07,In Operation,Good,Current Data,,,Sensor,True
+862,Chatter_Site,27/12/2023 00:00:15,Off,Good,Current Data,,,Sensor,True
+863,Chatter_Site,27/12/2023 00:00:03,In Operation,Good,Current Data,,,Sensor,True
+864,Chatter_Site,27/12/2023 00:00:01,Off,Good,Current Data,,,Sensor,True
+865,Chatter_Site,27/12/2023 00:00:01,In Operation,Good,Current Data,,,Sensor,True
+866,Chatter_Site,27/12/2023 00:00:21,Off,Good,Current Data,,,Sensor,True
+867,Chatter_Site,27/12/2023 00:00:15,In Operation,Good,Current Data,,,Sensor,True
+868,Chatter_Site,27/12/2023 00:00:14,Off,Good,Current Data,,,Sensor,True
+869,Chatter_Site,27/12/2023 00:00:21,In Operation,Good,Current Data,,,Sensor,True
+870,Chatter_Site,28/12/2023 00:00:13,In Operation,Good,Current Data,,,Sensor,False
+871,Chatter_Site,28/12/2023 00:00:23,Off,Good,Current Data,,,Sensor,True
+872,Chatter_Site,28/12/2023 00:00:24,In Operation,Good,Current Data,,,Sensor,True
+873,Chatter_Site,28/12/2023 00:00:07,Off,Good,Current Data,,,Sensor,True
+874,Chatter_Site,28/12/2023 00:00:20,In Operation,Good,Current Data,,,Sensor,True
+875,Chatter_Site,28/12/2023 00:00:09,Off,Good,Current Data,,,Sensor,True
+876,Chatter_Site,28/12/2023 00:00:15,In Operation,Good,Current Data,,,Sensor,True
+877,Chatter_Site,29/12/2023 00:00:04,In Operation,Good,Current Data,,,Sensor,False
+878,Chatter_Site,29/12/2023 00:00:26,Off,Good,Current Data,,,Sensor,True
+879,Chatter_Site,29/12/2023 00:00:29,In Operation,Good,Current Data,,,Sensor,True
+880,Chatter_Site,29/12/2023 00:00:24,Off,Good,Current Data,,,Sensor,True
+881,Chatter_Site,29/12/2023 00:00:02,In Operation,Good,Current Data,,,Sensor,True
+882,Chatter_Site,29/12/2023 00:00:08,Off,Good,Current Data,,,Sensor,True
+883,Chatter_Site,29/12/2023 00:00:25,In Operation,Good,Current Data,,,Sensor,True
+884,Chatter_Site,29/12/2023 00:00:16,Off,Good,Current Data,,,Sensor,True
+885,Chatter_Site,29/12/2023 00:00:09,In Operation,Good,Current Data,,,Sensor,True
+886,Chatter_Site,29/12/2023 00:00:00,Off,Good,Current Data,,,Sensor,True
+887,Chatter_Site,29/12/2023 00:00:02,In Operation,Good,Current Data,,,Sensor,True
+888,Chatter_Site,29/12/2023 00:00:25,Off,Good,Current Data,,,Sensor,True
+889,Chatter_Site,30/12/2023 00:00:08,In Operation,Good,Current Data,,,Sensor,False
+890,Chatter_Site,30/12/2023 00:00:27,Off,Good,Current Data,,,Sensor,True
+891,Chatter_Site,30/12/2023 00:00:30,In Operation,Good,Current Data,,,Sensor,True
+892,Chatter_Site,30/12/2023 00:00:03,Off,Good,Current Data,,,Sensor,True
+893,Chatter_Site,30/12/2023 00:00:05,In Operation,Good,Current Data,,,Sensor,True
+894,Chatter_Site,30/12/2023 00:00:07,Off,Good,Current Data,,,Sensor,True
+895,Chatter_Site,30/12/2023 00:00:02,In Operation,Good,Current Data,,,Sensor,True
+896,Chatter_Site,30/12/2023 00:00:01,Off,Good,Current Data,,,Sensor,True
+897,Chatter_Site,30/12/2023 00:00:21,In Operation,Good,Current Data,,,Sensor,True
+898,Chatter_Site,30/12/2023 00:00:18,Off,Good,Current Data,,,Sensor,True
+899,Chatter_Site,30/12/2023 00:00:18,In Operation,Good,Current Data,,,Sensor,True
+900,Chatter_Site,30/12/2023 00:00:30,Off,Good,Current Data,,,Sensor,True
+901,Chatter_Site,30/12/2023 00:00:00,In Operation,Good,Current Data,,,Sensor,True
+902,Chatter_Site,30/12/2023 00:00:01,Off,Good,Current Data,,,Sensor,True
+903,Chatter_Site,30/12/2023 00:00:12,In Operation,Good,Current Data,,,Sensor,True
+904,Chatter_Site,31/12/2023 00:00:15,In Operation,Good,Current Data,,,Sensor,False
+905,Chatter_Site,31/12/2023 00:00:26,Off,Good,Current Data,,,Sensor,True
+906,Chatter_Site,31/12/2023 00:00:26,In Operation,Good,Current Data,,,Sensor,True
+907,Chatter_Site,31/12/2023 00:00:29,Off,Good,Current Data,,,Sensor,True
+908,Chatter_Site,31/12/2023 00:00:13,In Operation,Good,Current Data,,,Sensor,True
+909,Chatter_Site,31/12/2023 00:00:01,Off,Good,Current Data,,,Sensor,True
+910,Chatter_Site,31/12/2023 00:00:02,In Operation,Good,Current Data,,,Sensor,True
+911,Chatter_Site,01/01/2024 00:00:13,In Operation,Good,Current Data,,,Sensor,False
+912,Chatter_Site,01/01/2024 00:00:08,Off,Good,Current Data,,,Sensor,True
+913,Chatter_Site,01/01/2024 00:00:01,In Operation,Good,Current Data,,,Sensor,True
+914,Chatter_Site,01/01/2024 00:00:12,Off,Good,Current Data,,,Sensor,True
+915,Chatter_Site,01/01/2024 00:00:08,In Operation,Good,Current Data,,,Sensor,True
+916,Chatter_Site,01/01/2024 00:00:25,Off,Good,Current Data,,,Sensor,True
+917,Chatter_Site,01/01/2024 00:00:06,In Operation,Good,Current Data,,,Sensor,True
+918,Chatter_Site,01/01/2024 00:00:14,Off,Good,Current Data,,,Sensor,True
+919,Chatter_Site,02/01/2024 00:00:10,Off,Good,Current Data,,,Sensor,False
+920,Chatter_Site,02/01/2024 00:00:01,In Operation,Good,Current Data,,,Sensor,True
+921,Chatter_Site,02/01/2024 00:00:18,Off,Good,Current Data,,,Sensor,True
+922,Chatter_Site,02/01/2024 00:00:19,In Operation,Good,Current Data,,,Sensor,True
+923,Chatter_Site,02/01/2024 00:00:08,Off,Good,Current Data,,,Sensor,True
+924,Chatter_Site,02/01/2024 00:00:14,In Operation,Good,Current Data,,,Sensor,True
+925,Chatter_Site,02/01/2024 00:00:06,Off,Good,Current Data,,,Sensor,True
+926,Chatter_Site,02/01/2024 00:00:08,In Operation,Good,Current Data,,,Sensor,True
+927,Chatter_Site,03/01/2024 00:00:20,In Operation,Good,Current Data,,,Sensor,False
+928,Chatter_Site,03/01/2024 00:00:07,Off,Good,Current Data,,,Sensor,True
+929,Chatter_Site,03/01/2024 00:00:06,In Operation,Good,Current Data,,,Sensor,True
+930,Chatter_Site,03/01/2024 00:00:10,Off,Good,Current Data,,,Sensor,True
+931,Chatter_Site,03/01/2024 00:00:18,In Operation,Good,Current Data,,,Sensor,True
+932,Chatter_Site,03/01/2024 00:00:00,Off,Good,Current Data,,,Sensor,True
+933,Chatter_Site,03/01/2024 00:00:10,In Operation,Good,Current Data,,,Sensor,True
+934,Chatter_Site,03/01/2024 00:00:30,Off,Good,Current Data,,,Sensor,True
+935,Chatter_Site,03/01/2024 00:00:02,In Operation,Good,Current Data,,,Sensor,True
+936,Chatter_Site,03/01/2024 00:00:30,Off,Good,Current Data,,,Sensor,True
+937,Chatter_Site,03/01/2024 00:00:18,In Operation,Good,Current Data,,,Sensor,True
+938,Chatter_Site,03/01/2024 00:00:21,Off,Good,Current Data,,,Sensor,True
+939,Chatter_Site,03/01/2024 00:00:27,In Operation,Good,Current Data,,,Sensor,True
+940,Chatter_Site,03/01/2024 00:00:30,Off,Good,Current Data,,,Sensor,True
+941,Chatter_Site,04/01/2024 00:00:10,Off,Good,Current Data,,,Sensor,False
+942,Chatter_Site,04/01/2024 00:00:11,In Operation,Good,Current Data,,,Sensor,True
+943,Chatter_Site,04/01/2024 00:00:07,Off,Good,Current Data,,,Sensor,True
+944,Chatter_Site,04/01/2024 00:00:26,In Operation,Good,Current Data,,,Sensor,True
+945,Chatter_Site,04/01/2024 00:00:17,Off,Good,Current Data,,,Sensor,True
+946,Chatter_Site,05/01/2024 00:00:30,In Operation,Good,Current Data,,,Sensor,False
+947,Chatter_Site,05/01/2024 00:00:05,Off,Good,Current Data,,,Sensor,True
+948,Chatter_Site,05/01/2024 00:00:02,In Operation,Good,Current Data,,,Sensor,True
+949,Chatter_Site,05/01/2024 00:00:11,Off,Good,Current Data,,,Sensor,True
+950,Chatter_Site,05/01/2024 00:00:09,In Operation,Good,Current Data,,,Sensor,True
+951,Chatter_Site,05/01/2024 00:00:07,Off,Good,Current Data,,,Sensor,True
+952,Chatter_Site,05/01/2024 00:00:04,In Operation,Good,Current Data,,,Sensor,True
+953,Chatter_Site,05/01/2024 00:00:17,Off,Good,Current Data,,,Sensor,True
+954,Chatter_Site,06/01/2024 00:00:20,In Operation,Good,Current Data,,,Sensor,False
+955,Chatter_Site,06/01/2024 00:00:02,Off,Good,Current Data,,,Sensor,True
+956,Chatter_Site,06/01/2024 00:00:10,In Operation,Good,Current Data,,,Sensor,True
+957,Chatter_Site,06/01/2024 00:00:22,Off,Good,Current Data,,,Sensor,True
+958,Chatter_Site,06/01/2024 00:00:19,In Operation,Good,Current Data,,,Sensor,True
+959,Chatter_Site,07/01/2024 00:00:26,Off,Good,Current Data,,,Sensor,False
+960,Chatter_Site,07/01/2024 00:00:25,In Operation,Good,Current Data,,,Sensor,True
+961,Chatter_Site,07/01/2024 00:00:17,Off,Good,Current Data,,,Sensor,True
+962,Chatter_Site,07/01/2024 00:00:18,In Operation,Good,Current Data,,,Sensor,True
+963,Chatter_Site,07/01/2024 00:00:01,Off,Good,Current Data,,,Sensor,True
+964,Chatter_Site,07/01/2024 00:00:23,In Operation,Good,Current Data,,,Sensor,True
+965,Chatter_Site,07/01/2024 00:00:20,Off,Good,Current Data,,,Sensor,True
+966,Chatter_Site,07/01/2024 00:00:26,In Operation,Good,Current Data,,,Sensor,True
+967,Chatter_Site,07/01/2024 00:00:28,Off,Good,Current Data,,,Sensor,True
+968,Chatter_Site,07/01/2024 00:00:21,In Operation,Good,Current Data,,,Sensor,True
+969,Chatter_Site,07/01/2024 00:00:15,Off,Good,Current Data,,,Sensor,True
+970,Chatter_Site,07/01/2024 00:00:10,In Operation,Good,Current Data,,,Sensor,True
+971,Chatter_Site,07/01/2024 00:00:07,Off,Good,Current Data,,,Sensor,True
+972,Chatter_Site,07/01/2024 00:00:02,In Operation,Good,Current Data,,,Sensor,True
+973,Chatter_Site,07/01/2024 00:00:02,Off,Good,Current Data,,,Sensor,True
+974,Chatter_Site,08/01/2024 00:00:25,Off,Good,Current Data,,,Sensor,False
+975,Chatter_Site,08/01/2024 00:00:16,In Operation,Good,Current Data,,,Sensor,True
+976,Chatter_Site,08/01/2024 00:00:29,Off,Good,Current Data,,,Sensor,True
+977,Chatter_Site,08/01/2024 00:00:20,In Operation,Good,Current Data,,,Sensor,True
+978,Chatter_Site,08/01/2024 00:00:23,Off,Good,Current Data,,,Sensor,True
+979,Chatter_Site,08/01/2024 00:00:28,In Operation,Good,Current Data,,,Sensor,True
+980,Chatter_Site,08/01/2024 00:00:08,Off,Good,Current Data,,,Sensor,True
+981,Chatter_Site,08/01/2024 00:00:06,In Operation,Good,Current Data,,,Sensor,True
+982,Chatter_Site,08/01/2024 00:00:28,Off,Good,Current Data,,,Sensor,True
+983,Chatter_Site,09/01/2024 00:00:11,Off,Good,Current Data,,,Sensor,False
+984,Chatter_Site,09/01/2024 00:00:01,In Operation,Good,Current Data,,,Sensor,True
+985,Chatter_Site,09/01/2024 00:00:21,Off,Good,Current Data,,,Sensor,True
+986,Chatter_Site,09/01/2024 00:00:10,In Operation,Good,Current Data,,,Sensor,True
+987,Chatter_Site,09/01/2024 00:00:24,Off,Good,Current Data,,,Sensor,True
+988,Chatter_Site,09/01/2024 00:00:00,In Operation,Good,Current Data,,,Sensor,True
+989,Chatter_Site,09/01/2024 00:00:24,Off,Good,Current Data,,,Sensor,True
+990,Chatter_Site,09/01/2024 00:00:18,In Operation,Good,Current Data,,,Sensor,True
+991,Chatter_Site,09/01/2024 00:00:13,Off,Good,Current Data,,,Sensor,True
+992,Chatter_Site,09/01/2024 00:00:19,In Operation,Good,Current Data,,,Sensor,True
+993,Chatter_Site,09/01/2024 00:00:04,Off,Good,Current Data,,,Sensor,True
+994,Chatter_Site,10/01/2024 00:00:24,Off,Good,Current Data,,,Sensor,False
+995,Chatter_Site,10/01/2024 00:00:03,In Operation,Good,Current Data,,,Sensor,True
+996,Chatter_Site,10/01/2024 00:00:29,Off,Good,Current Data,,,Sensor,True
+997,Chatter_Site,10/01/2024 00:00:20,In Operation,Good,Current Data,,,Sensor,True
+998,Chatter_Site,10/01/2024 00:00:21,Off,Good,Current Data,,,Sensor,True
+999,Chatter_Site,10/01/2024 00:00:16,In Operation,Good,Current Data,,,Sensor,True
+1000,Chatter_Site,10/01/2024 00:00:27,Off,Good,Current Data,,,Sensor,True
+1001,Chatter_Site,10/01/2024 00:00:05,In Operation,Good,Current Data,,,Sensor,True
+1002,Chatter_Site,10/01/2024 00:00:12,Off,Good,Current Data,,,Sensor,True
+1003,Chatter_Site,10/01/2024 00:00:11,In Operation,Good,Current Data,,,Sensor,True
+1004,Chatter_Site,10/01/2024 00:00:11,Off,Good,Current Data,,,Sensor,True
+1005,Chatter_Site,10/01/2024 00:00:14,In Operation,Good,Current Data,,,Sensor,True
+1006,Chatter_Site,11/01/2024 00:00:00,Off,Good,Current Data,,,Sensor,False
+1007,Chatter_Site,11/01/2024 00:00:13,In Operation,Good,Current Data,,,Sensor,True
+1008,Chatter_Site,11/01/2024 00:00:27,Off,Good,Current Data,,,Sensor,True
+1009,Chatter_Site,11/01/2024 00:00:20,In Operation,Good,Current Data,,,Sensor,True
+1010,Chatter_Site,11/01/2024 00:00:25,Off,Good,Current Data,,,Sensor,True
+1011,Chatter_Site,11/01/2024 00:00:21,In Operation,Good,Current Data,,,Sensor,True
+1012,Chatter_Site,11/01/2024 00:00:01,Off,Good,Current Data,,,Sensor,True
+1013,Chatter_Site,11/01/2024 00:00:27,In Operation,Good,Current Data,,,Sensor,True
+1014,Chatter_Site,12/01/2024 00:00:28,Off,Good,Current Data,,,Sensor,False
+1015,Chatter_Site,12/01/2024 00:00:15,In Operation,Good,Current Data,,,Sensor,True
+1016,Chatter_Site,12/01/2024 00:00:15,Off,Good,Current Data,,,Sensor,True
+1017,Chatter_Site,12/01/2024 00:00:09,In Operation,Good,Current Data,,,Sensor,True
+1018,Chatter_Site,12/01/2024 00:00:02,Off,Good,Current Data,,,Sensor,True
+1019,Chatter_Site,12/01/2024 00:00:26,In Operation,Good,Current Data,,,Sensor,True
+1020,Chatter_Site,12/01/2024 00:00:28,Off,Good,Current Data,,,Sensor,True
+1021,Chatter_Site,12/01/2024 00:00:20,In Operation,Good,Current Data,,,Sensor,True
+1022,Chatter_Site,12/01/2024 00:00:13,Off,Good,Current Data,,,Sensor,True
+1023,Chatter_Site,12/01/2024 00:00:18,In Operation,Good,Current Data,,,Sensor,True
+1024,Chatter_Site,12/01/2024 00:00:30,Off,Good,Current Data,,,Sensor,True
+1025,Chatter_Site,12/01/2024 00:00:28,In Operation,Good,Current Data,,,Sensor,True
+1026,Chatter_Site,12/01/2024 00:00:16,Off,Good,Current Data,,,Sensor,True
+1027,Chatter_Site,12/01/2024 00:00:23,In Operation,Good,Current Data,,,Sensor,True
+1028,Chatter_Site,13/01/2024 00:00:03,Off,Good,Current Data,,,Sensor,False
+1029,Chatter_Site,13/01/2024 00:00:09,In Operation,Good,Current Data,,,Sensor,True
+1030,Chatter_Site,13/01/2024 00:00:02,Off,Good,Current Data,,,Sensor,True
+1031,Chatter_Site,13/01/2024 00:00:08,In Operation,Good,Current Data,,,Sensor,True
+1032,Chatter_Site,13/01/2024 00:00:17,Off,Good,Current Data,,,Sensor,True
+1033,Chatter_Site,13/01/2024 00:00:12,In Operation,Good,Current Data,,,Sensor,True
+1034,Chatter_Site,13/01/2024 00:00:13,Off,Good,Current Data,,,Sensor,True
+1035,Chatter_Site,13/01/2024 00:00:11,In Operation,Good,Current Data,,,Sensor,True
+1036,Chatter_Site,13/01/2024 00:00:12,Off,Good,Current Data,,,Sensor,True
+1037,Chatter_Site,13/01/2024 00:00:29,In Operation,Good,Current Data,,,Sensor,True
+1038,Chatter_Site,13/01/2024 00:00:03,Off,Good,Current Data,,,Sensor,True
+1039,Chatter_Site,13/01/2024 00:00:15,In Operation,Good,Current Data,,,Sensor,True
+1040,Chatter_Site,13/01/2024 00:00:22,Off,Good,Current Data,,,Sensor,True
+1041,Chatter_Site,13/01/2024 00:00:12,In Operation,Good,Current Data,,,Sensor,True
+1042,Chatter_Site,13/01/2024 00:00:29,Off,Good,Current Data,,,Sensor,True
+1043,Chatter_Site,14/01/2024 00:00:11,Off,Good,Current Data,,,Sensor,False
+1044,Chatter_Site,14/01/2024 00:00:25,In Operation,Good,Current Data,,,Sensor,True
+1045,Chatter_Site,14/01/2024 00:00:00,Off,Good,Current Data,,,Sensor,True
+1046,Chatter_Site,14/01/2024 00:00:30,In Operation,Good,Current Data,,,Sensor,True
+1047,Chatter_Site,14/01/2024 00:00:22,Off,Good,Current Data,,,Sensor,True
+1048,Chatter_Site,14/01/2024 00:00:21,In Operation,Good,Current Data,,,Sensor,True
+1049,Chatter_Site,15/01/2024 00:00:18,Off,Good,Current Data,,,Sensor,False
+1050,Chatter_Site,15/01/2024 00:00:05,In Operation,Good,Current Data,,,Sensor,True
+1051,Chatter_Site,15/01/2024 00:00:07,Off,Good,Current Data,,,Sensor,True
+1052,Chatter_Site,15/01/2024 00:00:00,In Operation,Good,Current Data,,,Sensor,True
+1053,Chatter_Site,15/01/2024 00:00:04,Off,Good,Current Data,,,Sensor,True
+1054,Chatter_Site,15/01/2024 00:00:01,In Operation,Good,Current Data,,,Sensor,True
+1055,Chatter_Site,15/01/2024 00:00:00,Off,Good,Current Data,,,Sensor,True
+1056,Chatter_Site,16/01/2024 00:00:24,Off,Good,Current Data,,,Sensor,False
+1057,Chatter_Site,16/01/2024 00:00:03,In Operation,Good,Current Data,,,Sensor,True
+1058,Chatter_Site,16/01/2024 00:00:26,Off,Good,Current Data,,,Sensor,True
+1059,Chatter_Site,16/01/2024 00:00:24,In Operation,Good,Current Data,,,Sensor,True
+1060,Chatter_Site,16/01/2024 00:00:03,Off,Good,Current Data,,,Sensor,True
+1061,Chatter_Site,16/01/2024 00:00:04,In Operation,Good,Current Data,,,Sensor,True
+1062,Chatter_Site,16/01/2024 00:00:10,Off,Good,Current Data,,,Sensor,True
+1063,Chatter_Site,16/01/2024 00:00:12,In Operation,Good,Current Data,,,Sensor,True
+1064,Chatter_Site,16/01/2024 00:00:11,Off,Good,Current Data,,,Sensor,True
+1065,Chatter_Site,16/01/2024 00:00:22,In Operation,Good,Current Data,,,Sensor,True
+1066,Chatter_Site,16/01/2024 00:00:09,Off,Good,Current Data,,,Sensor,True
+1067,Chatter_Site,16/01/2024 00:00:28,In Operation,Good,Current Data,,,Sensor,True
+1068,Chatter_Site,16/01/2024 00:00:24,Off,Good,Current Data,,,Sensor,True
+1069,Chatter_Site,17/01/2024 00:00:06,Off,Good,Current Data,,,Sensor,False
+1070,Chatter_Site,17/01/2024 00:00:04,In Operation,Good,Current Data,,,Sensor,True
+1071,Chatter_Site,17/01/2024 00:00:03,Off,Good,Current Data,,,Sensor,True
+1072,Chatter_Site,17/01/2024 00:00:30,In Operation,Good,Current Data,,,Sensor,True
+1073,Chatter_Site,17/01/2024 00:00:07,Off,Good,Current Data,,,Sensor,True
+1074,Chatter_Site,17/01/2024 00:00:26,In Operation,Good,Current Data,,,Sensor,True
+1075,Chatter_Site,17/01/2024 00:00:12,Off,Good,Current Data,,,Sensor,True
+1076,Chatter_Site,17/01/2024 00:00:14,In Operation,Good,Current Data,,,Sensor,True
+1077,Chatter_Site,17/01/2024 00:00:17,Off,Good,Current Data,,,Sensor,True
+1078,Chatter_Site,17/01/2024 00:00:01,In Operation,Good,Current Data,,,Sensor,True
+1079,Chatter_Site,17/01/2024 00:00:00,Off,Good,Current Data,,,Sensor,True
+1080,Chatter_Site,17/01/2024 00:00:09,In Operation,Good,Current Data,,,Sensor,True
+1081,Chatter_Site,17/01/2024 00:00:21,Off,Good,Current Data,,,Sensor,True
+1082,Chatter_Site,18/01/2024 00:00:00,In Operation,Good,Current Data,,,Sensor,False
+1083,Chatter_Site,18/01/2024 00:00:22,Off,Good,Current Data,,,Sensor,True
+1084,Chatter_Site,18/01/2024 00:00:14,In Operation,Good,Current Data,,,Sensor,True
+1085,Chatter_Site,18/01/2024 00:00:00,Off,Good,Current Data,,,Sensor,True
+1086,Chatter_Site,18/01/2024 00:00:00,In Operation,Good,Current Data,,,Sensor,True
+1087,Chatter_Site,18/01/2024 00:00:21,Off,Good,Current Data,,,Sensor,True
+1088,Chatter_Site,19/01/2024 00:00:03,In Operation,Good,Current Data,,,Sensor,False
+1089,Chatter_Site,19/01/2024 00:00:16,Off,Good,Current Data,,,Sensor,True
+1090,Chatter_Site,19/01/2024 00:00:14,In Operation,Good,Current Data,,,Sensor,True
+1091,Chatter_Site,19/01/2024 00:00:12,Off,Good,Current Data,,,Sensor,True
+1092,Chatter_Site,19/01/2024 00:00:09,In Operation,Good,Current Data,,,Sensor,True
+1093,Chatter_Site,20/01/2024 00:00:18,Off,Good,Current Data,,,Sensor,False
+1094,Chatter_Site,20/01/2024 00:00:15,In Operation,Good,Current Data,,,Sensor,True
+1095,Chatter_Site,20/01/2024 00:00:24,Off,Good,Current Data,,,Sensor,True
+1096,Chatter_Site,20/01/2024 00:00:07,In Operation,Good,Current Data,,,Sensor,True
+1097,Chatter_Site,20/01/2024 00:00:22,Off,Good,Current Data,,,Sensor,True
+1098,Chatter_Site,20/01/2024 00:00:08,In Operation,Good,Current Data,,,Sensor,True
+1099,Chatter_Site,20/01/2024 00:00:22,Off,Good,Current Data,,,Sensor,True
+1100,Chatter_Site,20/01/2024 00:00:21,In Operation,Good,Current Data,,,Sensor,True
+1101,Chatter_Site,20/01/2024 00:00:28,Off,Good,Current Data,,,Sensor,True
+1102,Chatter_Site,20/01/2024 00:00:29,In Operation,Good,Current Data,,,Sensor,True
+1103,Chatter_Site,20/01/2024 00:00:19,Off,Good,Current Data,,,Sensor,True
+1104,Chatter_Site,20/01/2024 00:00:23,In Operation,Good,Current Data,,,Sensor,True
+1105,Chatter_Site,20/01/2024 00:00:14,Off,Good,Current Data,,,Sensor,True
+1106,Chatter_Site,20/01/2024 00:00:15,In Operation,Good,Current Data,,,Sensor,True
+1107,Chatter_Site,20/01/2024 00:00:20,Off,Good,Current Data,,,Sensor,True
+1108,Chatter_Site,21/01/2024 00:00:08,Off,Good,Current Data,,,Sensor,False
+1109,Chatter_Site,21/01/2024 00:00:24,In Operation,Good,Current Data,,,Sensor,True
+1110,Chatter_Site,21/01/2024 00:00:21,Off,Good,Current Data,,,Sensor,True
+1111,Chatter_Site,21/01/2024 00:00:22,In Operation,Good,Current Data,,,Sensor,True
+1112,Chatter_Site,21/01/2024 00:00:02,Off,Good,Current Data,,,Sensor,True
+1113,Chatter_Site,21/01/2024 00:00:30,In Operation,Good,Current Data,,,Sensor,True
+1114,Chatter_Site,21/01/2024 00:00:01,Off,Good,Current Data,,,Sensor,True
+1115,Chatter_Site,21/01/2024 00:00:26,In Operation,Good,Current Data,,,Sensor,True
+1116,Chatter_Site,21/01/2024 00:00:12,Off,Good,Current Data,,,Sensor,True
+1117,Chatter_Site,21/01/2024 00:00:16,In Operation,Good,Current Data,,,Sensor,True
+1118,Chatter_Site,21/01/2024 00:00:28,Off,Good,Current Data,,,Sensor,True
+1119,Chatter_Site,22/01/2024 00:00:10,In Operation,Good,Current Data,,,Sensor,False
+1120,Chatter_Site,22/01/2024 00:00:11,Off,Good,Current Data,,,Sensor,True
+1121,Chatter_Site,22/01/2024 00:00:16,In Operation,Good,Current Data,,,Sensor,True
+1122,Chatter_Site,22/01/2024 00:00:09,Off,Good,Current Data,,,Sensor,True
+1123,Chatter_Site,22/01/2024 00:00:10,In Operation,Good,Current Data,,,Sensor,True
+1124,Chatter_Site,22/01/2024 00:00:15,Off,Good,Current Data,,,Sensor,True
+1125,Chatter_Site,22/01/2024 00:00:08,In Operation,Good,Current Data,,,Sensor,True
+1126,Chatter_Site,22/01/2024 00:00:05,Off,Good,Current Data,,,Sensor,True
+1127,Chatter_Site,22/01/2024 00:00:08,In Operation,Good,Current Data,,,Sensor,True
+1128,Chatter_Site,22/01/2024 00:00:02,Off,Good,Current Data,,,Sensor,True
+1129,Chatter_Site,22/01/2024 00:00:14,In Operation,Good,Current Data,,,Sensor,True
+1130,Chatter_Site,23/01/2024 00:00:24,Off,Good,Current Data,,,Sensor,False
+1131,Chatter_Site,23/01/2024 00:00:28,In Operation,Good,Current Data,,,Sensor,True
+1132,Chatter_Site,23/01/2024 00:00:21,Off,Good,Current Data,,,Sensor,True
+1133,Chatter_Site,23/01/2024 00:00:28,In Operation,Good,Current Data,,,Sensor,True
+1134,Chatter_Site,23/01/2024 00:00:26,Off,Good,Current Data,,,Sensor,True
+1135,Chatter_Site,24/01/2024 00:00:15,In Operation,Good,Current Data,,,Sensor,False
+1136,Chatter_Site,24/01/2024 00:00:01,Off,Good,Current Data,,,Sensor,True
+1137,Chatter_Site,24/01/2024 00:00:28,In Operation,Good,Current Data,,,Sensor,True
+1138,Chatter_Site,24/01/2024 00:00:26,Off,Good,Current Data,,,Sensor,True
+1139,Chatter_Site,24/01/2024 00:00:15,In Operation,Good,Current Data,,,Sensor,True
+1140,Chatter_Site,24/01/2024 00:00:12,Off,Good,Current Data,,,Sensor,True
+1141,Chatter_Site,24/01/2024 00:00:05,In Operation,Good,Current Data,,,Sensor,True
+1142,Chatter_Site,24/01/2024 00:00:06,Off,Good,Current Data,,,Sensor,True
+1143,Chatter_Site,24/01/2024 00:00:24,In Operation,Good,Current Data,,,Sensor,True
+1144,Chatter_Site,24/01/2024 00:00:27,Off,Good,Current Data,,,Sensor,True
+1145,Chatter_Site,24/01/2024 00:00:23,In Operation,Good,Current Data,,,Sensor,True
+1146,Chatter_Site,24/01/2024 00:00:06,Off,Good,Current Data,,,Sensor,True
+1147,Chatter_Site,24/01/2024 00:00:27,In Operation,Good,Current Data,,,Sensor,True
+1148,Chatter_Site,24/01/2024 00:00:24,Off,Good,Current Data,,,Sensor,True
+1149,Chatter_Site,25/01/2024 00:00:04,Off,Good,Current Data,,,Sensor,False
+1150,Chatter_Site,25/01/2024 00:00:01,In Operation,Good,Current Data,,,Sensor,True
+1151,Chatter_Site,25/01/2024 00:00:10,Off,Good,Current Data,,,Sensor,True
+1152,Chatter_Site,25/01/2024 00:00:23,In Operation,Good,Current Data,,,Sensor,True
+1153,Chatter_Site,25/01/2024 00:00:06,Off,Good,Current Data,,,Sensor,True
+1154,Chatter_Site,25/01/2024 00:00:10,In Operation,Good,Current Data,,,Sensor,True
+1155,Chatter_Site,25/01/2024 00:00:00,Off,Good,Current Data,,,Sensor,True
+1156,Chatter_Site,25/01/2024 00:00:00,In Operation,Good,Current Data,,,Sensor,True
+1157,Chatter_Site,25/01/2024 00:00:11,Off,Good,Current Data,,,Sensor,True
+1158,Chatter_Site,26/01/2024 00:00:15,In Operation,Good,Current Data,,,Sensor,False
+1159,Chatter_Site,26/01/2024 00:00:09,Off,Good,Current Data,,,Sensor,True
+1160,Chatter_Site,26/01/2024 00:00:20,In Operation,Good,Current Data,,,Sensor,True
+1161,Chatter_Site,26/01/2024 00:00:11,Off,Good,Current Data,,,Sensor,True
+1162,Chatter_Site,26/01/2024 00:00:15,In Operation,Good,Current Data,,,Sensor,True
+1163,Chatter_Site,26/01/2024 00:00:22,Off,Good,Current Data,,,Sensor,True
+1164,Chatter_Site,26/01/2024 00:00:11,In Operation,Good,Current Data,,,Sensor,True
+1165,Chatter_Site,26/01/2024 00:00:16,Off,Good,Current Data,,,Sensor,True
+1166,Chatter_Site,26/01/2024 00:00:27,In Operation,Good,Current Data,,,Sensor,True
+1167,Chatter_Site,26/01/2024 00:00:29,Off,Good,Current Data,,,Sensor,True
+1168,Chatter_Site,26/01/2024 00:00:28,In Operation,Good,Current Data,,,Sensor,True
+1169,Chatter_Site,26/01/2024 00:00:26,Off,Good,Current Data,,,Sensor,True
+1170,Chatter_Site,26/01/2024 00:00:02,In Operation,Good,Current Data,,,Sensor,True
+1171,Chatter_Site,26/01/2024 00:00:07,Off,Good,Current Data,,,Sensor,True
+1172,Chatter_Site,26/01/2024 00:00:02,In Operation,Good,Current Data,,,Sensor,True
+1173,Chatter_Site,27/01/2024 00:00:30,Off,Good,Current Data,,,Sensor,False
+1174,Chatter_Site,27/01/2024 00:00:30,In Operation,Good,Current Data,,,Sensor,True
+1175,Chatter_Site,27/01/2024 00:00:28,Off,Good,Current Data,,,Sensor,True
+1176,Chatter_Site,27/01/2024 00:00:13,In Operation,Good,Current Data,,,Sensor,True
+1177,Chatter_Site,27/01/2024 00:00:13,Off,Good,Current Data,,,Sensor,True
+1178,Chatter_Site,27/01/2024 00:00:07,In Operation,Good,Current Data,,,Sensor,True
+1179,Chatter_Site,28/01/2024 00:00:05,Off,Good,Current Data,,,Sensor,False
+1180,Chatter_Site,28/01/2024 00:00:20,In Operation,Good,Current Data,,,Sensor,True
+1181,Chatter_Site,28/01/2024 00:00:05,Off,Good,Current Data,,,Sensor,True
+1182,Chatter_Site,28/01/2024 00:00:12,In Operation,Good,Current Data,,,Sensor,True
+1183,Chatter_Site,28/01/2024 00:00:14,Off,Good,Current Data,,,Sensor,True
+1184,Chatter_Site,28/01/2024 00:00:10,In Operation,Good,Current Data,,,Sensor,True
+1185,Chatter_Site,28/01/2024 00:00:09,Off,Good,Current Data,,,Sensor,True
+1186,Chatter_Site,28/01/2024 00:00:18,In Operation,Good,Current Data,,,Sensor,True
+1187,Chatter_Site,28/01/2024 00:00:06,Off,Good,Current Data,,,Sensor,True
+1188,Chatter_Site,28/01/2024 00:00:29,In Operation,Good,Current Data,,,Sensor,True
+1189,Chatter_Site,28/01/2024 00:00:28,Off,Good,Current Data,,,Sensor,True
+1190,Chatter_Site,28/01/2024 00:00:29,In Operation,Good,Current Data,,,Sensor,True
+1191,Chatter_Site,29/01/2024 00:00:23,Off,Good,Current Data,,,Sensor,False
+1192,Chatter_Site,29/01/2024 00:00:27,In Operation,Good,Current Data,,,Sensor,True
+1193,Chatter_Site,29/01/2024 00:00:00,Off,Good,Current Data,,,Sensor,True
+1194,Chatter_Site,29/01/2024 00:00:28,In Operation,Good,Current Data,,,Sensor,True
+1195,Chatter_Site,29/01/2024 00:00:29,Off,Good,Current Data,,,Sensor,True
+1196,Chatter_Site,30/01/2024 00:00:13,In Operation,Good,Current Data,,,Sensor,False
+1197,Chatter_Site,30/01/2024 00:00:07,Off,Good,Current Data,,,Sensor,True
+1198,Chatter_Site,30/01/2024 00:00:22,In Operation,Good,Current Data,,,Sensor,True
+1199,Chatter_Site,30/01/2024 00:00:25,Off,Good,Current Data,,,Sensor,True
+1200,Chatter_Site,30/01/2024 00:00:19,In Operation,Good,Current Data,,,Sensor,True
+1201,Chatter_Site,30/01/2024 00:00:21,Off,Good,Current Data,,,Sensor,True
+1202,Chatter_Site,30/01/2024 00:00:14,In Operation,Good,Current Data,,,Sensor,True
+1203,Chatter_Site,30/01/2024 00:00:08,Off,Good,Current Data,,,Sensor,True
+1204,Chatter_Site,30/01/2024 00:00:09,In Operation,Good,Current Data,,,Sensor,True
+1205,Chatter_Site,30/01/2024 00:00:07,Off,Good,Current Data,,,Sensor,True
+1206,Chatter_Site,30/01/2024 00:00:30,In Operation,Good,Current Data,,,Sensor,True
+1207,Chatter_Site,30/01/2024 00:00:13,Off,Good,Current Data,,,Sensor,True
+1208,Chatter_Site,30/01/2024 00:00:04,In Operation,Good,Current Data,,,Sensor,True
+1209,Chatter_Site,31/01/2024 00:00:02,In Operation,Good,Current Data,,,Sensor,False
+1210,Chatter_Site,31/01/2024 00:00:19,Off,Good,Current Data,,,Sensor,True
+1211,Chatter_Site,31/01/2024 00:00:05,In Operation,Good,Current Data,,,Sensor,True
+1212,Chatter_Site,31/01/2024 00:00:18,Off,Good,Current Data,,,Sensor,True
+1213,Chatter_Site,31/01/2024 00:00:06,In Operation,Good,Current Data,,,Sensor,True
+1214,Chatter_Site,31/01/2024 00:00:15,Off,Good,Current Data,,,Sensor,True
+1215,Chatter_Site,31/01/2024 00:00:24,In Operation,Good,Current Data,,,Sensor,True
+1216,Chatter_Site,31/01/2024 00:00:23,Off,Good,Current Data,,,Sensor,True
+1217,Chatter_Site,31/01/2024 00:00:19,In Operation,Good,Current Data,,,Sensor,True
+1218,Chatter_Site,31/01/2024 00:00:19,Off,Good,Current Data,,,Sensor,True
+1219,Chatter_Site,31/01/2024 00:00:03,In Operation,Good,Current Data,,,Sensor,True
+1220,Chatter_Site,31/01/2024 00:00:25,Off,Good,Current Data,,,Sensor,True
+1221,Chatter_Site,31/01/2024 00:00:24,In Operation,Good,Current Data,,,Sensor,True
+1222,Chatter_Site,31/01/2024 00:00:07,Off,Good,Current Data,,,Sensor,True
+1223,Chatter_Site,31/01/2024 00:00:05,In Operation,Good,Current Data,,,Sensor,True
+1224,Chatter_Site,01/02/2024 00:00:20,Off,Good,Current Data,,,Sensor,False
+1225,Chatter_Site,01/02/2024 00:00:04,In Operation,Good,Current Data,,,Sensor,True
+1226,Chatter_Site,01/02/2024 00:00:20,Off,Good,Current Data,,,Sensor,True
+1227,Chatter_Site,01/02/2024 00:00:11,In Operation,Good,Current Data,,,Sensor,True
+1228,Chatter_Site,01/02/2024 00:00:21,Off,Good,Current Data,,,Sensor,True
+1229,Chatter_Site,01/02/2024 00:00:00,In Operation,Good,Current Data,,,Sensor,True
+1230,Chatter_Site,01/02/2024 00:00:19,Off,Good,Current Data,,,Sensor,True
+1231,Chatter_Site,01/02/2024 00:00:24,In Operation,Good,Current Data,,,Sensor,True
+1232,Chatter_Site,01/02/2024 00:00:02,Off,Good,Current Data,,,Sensor,True
+1233,Chatter_Site,01/02/2024 00:00:30,In Operation,Good,Current Data,,,Sensor,True
+1234,Chatter_Site,01/02/2024 00:00:19,Off,Good,Current Data,,,Sensor,True
+1235,Chatter_Site,02/02/2024 00:00:00,Off,Good,Current Data,,,Sensor,False
+1236,Chatter_Site,02/02/2024 00:00:24,In Operation,Good,Current Data,,,Sensor,True
+1237,Chatter_Site,02/02/2024 00:00:17,Off,Good,Current Data,,,Sensor,True
+1238,Chatter_Site,02/02/2024 00:00:21,In Operation,Good,Current Data,,,Sensor,True
+1239,Chatter_Site,02/02/2024 00:00:30,Off,Good,Current Data,,,Sensor,True
+1240,Chatter_Site,02/02/2024 00:00:21,In Operation,Good,Current Data,,,Sensor,True
+1241,Chatter_Site,02/02/2024 00:00:17,Off,Good,Current Data,,,Sensor,True
+1242,Chatter_Site,02/02/2024 00:00:01,In Operation,Good,Current Data,,,Sensor,True
+1243,Chatter_Site,02/02/2024 00:00:13,Off,Good,Current Data,,,Sensor,True
+1244,Chatter_Site,02/02/2024 00:00:27,In Operation,Good,Current Data,,,Sensor,True
+1245,Chatter_Site,02/02/2024 00:00:25,Off,Good,Current Data,,,Sensor,True
+1246,Chatter_Site,02/02/2024 00:00:30,In Operation,Good,Current Data,,,Sensor,True
+1247,Chatter_Site,03/02/2024 00:00:29,Off,Good,Current Data,,,Sensor,False
+1248,Chatter_Site,03/02/2024 00:00:07,In Operation,Good,Current Data,,,Sensor,True
+1249,Chatter_Site,03/02/2024 00:00:30,Off,Good,Current Data,,,Sensor,True
+1250,Chatter_Site,03/02/2024 00:00:14,In Operation,Good,Current Data,,,Sensor,True
+1251,Chatter_Site,03/02/2024 00:00:21,Off,Good,Current Data,,,Sensor,True
+1252,Chatter_Site,03/02/2024 00:00:30,In Operation,Good,Current Data,,,Sensor,True
+1253,Chatter_Site,03/02/2024 00:00:29,Off,Good,Current Data,,,Sensor,True
+1254,Chatter_Site,03/02/2024 00:00:13,In Operation,Good,Current Data,,,Sensor,True
+1255,Chatter_Site,03/02/2024 00:00:25,Off,Good,Current Data,,,Sensor,True
+1256,Chatter_Site,04/02/2024 00:00:26,In Operation,Good,Current Data,,,Sensor,False
+1257,Chatter_Site,04/02/2024 00:00:30,Off,Good,Current Data,,,Sensor,True
+1258,Chatter_Site,04/02/2024 00:00:05,In Operation,Good,Current Data,,,Sensor,True
+1259,Chatter_Site,04/02/2024 00:00:03,Off,Good,Current Data,,,Sensor,True
+1260,Chatter_Site,04/02/2024 00:00:06,In Operation,Good,Current Data,,,Sensor,True
+1261,Chatter_Site,04/02/2024 00:00:17,Off,Good,Current Data,,,Sensor,True
+1262,Chatter_Site,04/02/2024 00:00:17,In Operation,Good,Current Data,,,Sensor,True
+1263,Chatter_Site,04/02/2024 00:00:22,Off,Good,Current Data,,,Sensor,True
+1264,Chatter_Site,05/02/2024 00:00:15,Off,Good,Current Data,,,Sensor,False
+1265,Chatter_Site,05/02/2024 00:00:26,In Operation,Good,Current Data,,,Sensor,True
+1266,Chatter_Site,05/02/2024 00:00:04,Off,Good,Current Data,,,Sensor,True
+1267,Chatter_Site,05/02/2024 00:00:30,In Operation,Good,Current Data,,,Sensor,True
+1268,Chatter_Site,05/02/2024 00:00:17,Off,Good,Current Data,,,Sensor,True
+1269,Chatter_Site,05/02/2024 00:00:11,In Operation,Good,Current Data,,,Sensor,True
+1270,Chatter_Site,05/02/2024 00:00:14,Off,Good,Current Data,,,Sensor,True
+1271,Chatter_Site,06/02/2024 00:00:24,Off,Good,Current Data,,,Sensor,False
+1272,Chatter_Site,06/02/2024 00:00:03,In Operation,Good,Current Data,,,Sensor,True
+1273,Chatter_Site,06/02/2024 00:00:30,Off,Good,Current Data,,,Sensor,True
+1274,Chatter_Site,06/02/2024 00:00:26,In Operation,Good,Current Data,,,Sensor,True
+1275,Chatter_Site,06/02/2024 00:00:12,Off,Good,Current Data,,,Sensor,True
+1276,Chatter_Site,06/02/2024 00:00:08,In Operation,Good,Current Data,,,Sensor,True
+1277,Chatter_Site,06/02/2024 00:00:30,Off,Good,Current Data,,,Sensor,True
+1278,Chatter_Site,06/02/2024 00:00:16,In Operation,Good,Current Data,,,Sensor,True
+1279,Chatter_Site,06/02/2024 00:00:06,Off,Good,Current Data,,,Sensor,True
+1280,Chatter_Site,06/02/2024 00:00:09,In Operation,Good,Current Data,,,Sensor,True
+1281,Chatter_Site,06/02/2024 00:00:10,Off,Good,Current Data,,,Sensor,True
+1282,Chatter_Site,07/02/2024 00:00:29,Off,Good,Current Data,,,Sensor,False
+1283,Chatter_Site,07/02/2024 00:00:25,In Operation,Good,Current Data,,,Sensor,True
+1284,Chatter_Site,07/02/2024 00:00:21,Off,Good,Current Data,,,Sensor,True
+1285,Chatter_Site,07/02/2024 00:00:09,In Operation,Good,Current Data,,,Sensor,True
+1286,Chatter_Site,07/02/2024 00:00:01,Off,Good,Current Data,,,Sensor,True
+1287,Chatter_Site,07/02/2024 00:00:30,In Operation,Good,Current Data,,,Sensor,True
+1288,Chatter_Site,07/02/2024 00:00:14,Off,Good,Current Data,,,Sensor,True
+1289,Chatter_Site,08/02/2024 00:00:06,In Operation,Good,Current Data,,,Sensor,False
+1290,Chatter_Site,08/02/2024 00:00:02,Off,Good,Current Data,,,Sensor,True
+1291,Chatter_Site,08/02/2024 00:00:15,In Operation,Good,Current Data,,,Sensor,True
+1292,Chatter_Site,08/02/2024 00:00:27,Off,Good,Current Data,,,Sensor,True
+1293,Chatter_Site,08/02/2024 00:00:04,In Operation,Good,Current Data,,,Sensor,True
+1294,Chatter_Site,08/02/2024 00:00:20,Off,Good,Current Data,,,Sensor,True
+1295,Chatter_Site,08/02/2024 00:00:21,In Operation,Good,Current Data,,,Sensor,True
+1296,Chatter_Site,08/02/2024 00:00:05,Off,Good,Current Data,,,Sensor,True
+1297,Chatter_Site,08/02/2024 00:00:26,In Operation,Good,Current Data,,,Sensor,True
+1298,Chatter_Site,08/02/2024 00:00:13,Off,Good,Current Data,,,Sensor,True
+1299,Chatter_Site,08/02/2024 00:00:08,In Operation,Good,Current Data,,,Sensor,True
+1300,Chatter_Site,08/02/2024 00:00:08,Off,Good,Current Data,,,Sensor,True
+1301,Chatter_Site,08/02/2024 00:00:06,In Operation,Good,Current Data,,,Sensor,True
+1302,Chatter_Site,08/02/2024 00:00:20,Off,Good,Current Data,,,Sensor,True
+1303,Chatter_Site,08/02/2024 00:00:27,In Operation,Good,Current Data,,,Sensor,True
+1304,Chatter_Site,09/02/2024 00:00:10,In Operation,Good,Current Data,,,Sensor,False
+1305,Chatter_Site,09/02/2024 00:00:14,Off,Good,Current Data,,,Sensor,True
+1306,Chatter_Site,09/02/2024 00:00:19,In Operation,Good,Current Data,,,Sensor,True
+1307,Chatter_Site,09/02/2024 00:00:08,Off,Good,Current Data,,,Sensor,True
+1308,Chatter_Site,09/02/2024 00:00:11,In Operation,Good,Current Data,,,Sensor,True
+1309,Chatter_Site,09/02/2024 00:00:09,Off,Good,Current Data,,,Sensor,True
+1310,Chatter_Site,09/02/2024 00:00:00,In Operation,Good,Current Data,,,Sensor,True
+1311,Chatter_Site,09/02/2024 00:00:04,Off,Good,Current Data,,,Sensor,True
+1312,Chatter_Site,09/02/2024 00:00:22,In Operation,Good,Current Data,,,Sensor,True
+1313,Chatter_Site,09/02/2024 00:00:05,Off,Good,Current Data,,,Sensor,True
+1314,Chatter_Site,09/02/2024 00:00:27,In Operation,Good,Current Data,,,Sensor,True
+1315,Chatter_Site,09/02/2024 00:00:24,Off,Good,Current Data,,,Sensor,True
+1316,Chatter_Site,09/02/2024 00:00:12,In Operation,Good,Current Data,,,Sensor,True
+1317,Chatter_Site,09/02/2024 00:00:15,Off,Good,Current Data,,,Sensor,True
+1318,Chatter_Site,10/02/2024 00:00:17,In Operation,Good,Current Data,,,Sensor,False
+1319,Chatter_Site,10/02/2024 00:00:13,Off,Good,Current Data,,,Sensor,True
+1320,Chatter_Site,10/02/2024 00:00:19,In Operation,Good,Current Data,,,Sensor,True
+1321,Chatter_Site,10/02/2024 00:00:17,Off,Good,Current Data,,,Sensor,True
+1322,Chatter_Site,10/02/2024 00:00:25,In Operation,Good,Current Data,,,Sensor,True
+1323,Chatter_Site,10/02/2024 00:00:25,Off,Good,Current Data,,,Sensor,True
+1324,Chatter_Site,10/02/2024 00:00:24,In Operation,Good,Current Data,,,Sensor,True
+1325,Chatter_Site,10/02/2024 00:00:29,Off,Good,Current Data,,,Sensor,True
+1326,Chatter_Site,10/02/2024 00:00:24,In Operation,Good,Current Data,,,Sensor,True
+1327,Chatter_Site,10/02/2024 00:00:08,Off,Good,Current Data,,,Sensor,True
+1328,Chatter_Site,10/02/2024 00:00:04,In Operation,Good,Current Data,,,Sensor,True
+1329,Chatter_Site,10/02/2024 00:00:23,Off,Good,Current Data,,,Sensor,True
+1330,Chatter_Site,11/02/2024 00:00:13,Off,Good,Current Data,,,Sensor,False
+1331,Chatter_Site,11/02/2024 00:00:15,In Operation,Good,Current Data,,,Sensor,True
+1332,Chatter_Site,11/02/2024 00:00:10,Off,Good,Current Data,,,Sensor,True
+1333,Chatter_Site,11/02/2024 00:00:23,In Operation,Good,Current Data,,,Sensor,True
+1334,Chatter_Site,11/02/2024 00:00:12,Off,Good,Current Data,,,Sensor,True
+1335,Chatter_Site,11/02/2024 00:00:27,In Operation,Good,Current Data,,,Sensor,True
+1336,Chatter_Site,11/02/2024 00:00:15,Off,Good,Current Data,,,Sensor,True
+1337,Chatter_Site,11/02/2024 00:00:18,In Operation,Good,Current Data,,,Sensor,True
+1338,Chatter_Site,11/02/2024 00:00:07,Off,Good,Current Data,,,Sensor,True
+1339,Chatter_Site,11/02/2024 00:00:02,In Operation,Good,Current Data,,,Sensor,True
+1340,Chatter_Site,11/02/2024 00:00:06,Off,Good,Current Data,,,Sensor,True
+1341,Chatter_Site,11/02/2024 00:00:14,In Operation,Good,Current Data,,,Sensor,True
+1342,Chatter_Site,12/02/2024 00:00:09,Off,Good,Current Data,,,Sensor,False
+1343,Chatter_Site,12/02/2024 00:00:19,In Operation,Good,Current Data,,,Sensor,True
+1344,Chatter_Site,12/02/2024 00:00:24,Off,Good,Current Data,,,Sensor,True
+1345,Chatter_Site,12/02/2024 00:00:27,In Operation,Good,Current Data,,,Sensor,True
+1346,Chatter_Site,12/02/2024 00:00:24,Off,Good,Current Data,,,Sensor,True
+1347,Chatter_Site,13/02/2024 00:00:04,In Operation,Good,Current Data,,,Sensor,False
+1348,Chatter_Site,13/02/2024 00:00:26,Off,Good,Current Data,,,Sensor,True
+1349,Chatter_Site,13/02/2024 00:00:20,In Operation,Good,Current Data,,,Sensor,True
+1350,Chatter_Site,13/02/2024 00:00:28,Off,Good,Current Data,,,Sensor,True
+1351,Chatter_Site,13/02/2024 00:00:20,In Operation,Good,Current Data,,,Sensor,True
+1352,Chatter_Site,13/02/2024 00:00:13,Off,Good,Current Data,,,Sensor,True
+1353,Chatter_Site,13/02/2024 00:00:29,In Operation,Good,Current Data,,,Sensor,True
+1354,Chatter_Site,14/02/2024 00:00:07,Off,Good,Current Data,,,Sensor,False
+1355,Chatter_Site,14/02/2024 00:00:22,In Operation,Good,Current Data,,,Sensor,True
+1356,Chatter_Site,14/02/2024 00:00:01,Off,Good,Current Data,,,Sensor,True
+1357,Chatter_Site,14/02/2024 00:00:16,In Operation,Good,Current Data,,,Sensor,True
+1358,Chatter_Site,14/02/2024 00:00:18,Off,Good,Current Data,,,Sensor,True
+1359,Chatter_Site,14/02/2024 00:00:11,In Operation,Good,Current Data,,,Sensor,True
+1360,Chatter_Site,14/02/2024 00:00:27,Off,Good,Current Data,,,Sensor,True
+1361,Chatter_Site,14/02/2024 00:00:16,In Operation,Good,Current Data,,,Sensor,True
+1362,Chatter_Site,14/02/2024 00:00:09,Off,Good,Current Data,,,Sensor,True
+1363,Chatter_Site,14/02/2024 00:00:21,In Operation,Good,Current Data,,,Sensor,True
+1364,Chatter_Site,15/02/2024 00:00:04,Off,Good,Current Data,,,Sensor,False
+1365,Chatter_Site,15/02/2024 00:00:30,In Operation,Good,Current Data,,,Sensor,True
+1366,Chatter_Site,15/02/2024 00:00:24,Off,Good,Current Data,,,Sensor,True
+1367,Chatter_Site,15/02/2024 00:00:30,In Operation,Good,Current Data,,,Sensor,True
+1368,Chatter_Site,15/02/2024 00:00:07,Off,Good,Current Data,,,Sensor,True
+1369,Chatter_Site,15/02/2024 00:00:19,In Operation,Good,Current Data,,,Sensor,True
+1370,Chatter_Site,15/02/2024 00:00:17,Off,Good,Current Data,,,Sensor,True
+1371,Chatter_Site,15/02/2024 00:00:28,In Operation,Good,Current Data,,,Sensor,True
+1372,Chatter_Site,16/02/2024 00:00:03,In Operation,Good,Current Data,,,Sensor,False
+1373,Chatter_Site,16/02/2024 00:00:23,Off,Good,Current Data,,,Sensor,True
+1374,Chatter_Site,16/02/2024 00:00:13,In Operation,Good,Current Data,,,Sensor,True
+1375,Chatter_Site,16/02/2024 00:00:22,Off,Good,Current Data,,,Sensor,True
+1376,Chatter_Site,16/02/2024 00:00:27,In Operation,Good,Current Data,,,Sensor,True
+1377,Chatter_Site,16/02/2024 00:00:03,Off,Good,Current Data,,,Sensor,True
+1378,Chatter_Site,16/02/2024 00:00:06,In Operation,Good,Current Data,,,Sensor,True
+1379,Chatter_Site,17/02/2024 00:00:23,Off,Good,Current Data,,,Sensor,False
+1380,Chatter_Site,17/02/2024 00:00:04,In Operation,Good,Current Data,,,Sensor,True
+1381,Chatter_Site,17/02/2024 00:00:23,Off,Good,Current Data,,,Sensor,True
+1382,Chatter_Site,17/02/2024 00:00:23,In Operation,Good,Current Data,,,Sensor,True
+1383,Chatter_Site,17/02/2024 00:00:13,Off,Good,Current Data,,,Sensor,True
+1384,Chatter_Site,17/02/2024 00:00:01,In Operation,Good,Current Data,,,Sensor,True
+1385,Chatter_Site,17/02/2024 00:00:14,Off,Good,Current Data,,,Sensor,True
+1386,Chatter_Site,17/02/2024 00:00:14,In Operation,Good,Current Data,,,Sensor,True
+1387,Chatter_Site,18/02/2024 00:00:06,Off,Good,Current Data,,,Sensor,False
+1388,Chatter_Site,18/02/2024 00:00:11,In Operation,Good,Current Data,,,Sensor,True
+1389,Chatter_Site,18/02/2024 00:00:19,Off,Good,Current Data,,,Sensor,True
+1390,Chatter_Site,18/02/2024 00:00:17,In Operation,Good,Current Data,,,Sensor,True
+1391,Chatter_Site,18/02/2024 00:00:26,Off,Good,Current Data,,,Sensor,True
+1392,Chatter_Site,18/02/2024 00:00:10,In Operation,Good,Current Data,,,Sensor,True
+1393,Chatter_Site,18/02/2024 00:00:29,Off,Good,Current Data,,,Sensor,True
+1394,Chatter_Site,18/02/2024 00:00:09,In Operation,Good,Current Data,,,Sensor,True
+1395,Chatter_Site,18/02/2024 00:00:06,Off,Good,Current Data,,,Sensor,True
+1396,Chatter_Site,18/02/2024 00:00:25,In Operation,Good,Current Data,,,Sensor,True
+1397,Chatter_Site,18/02/2024 00:00:03,Off,Good,Current Data,,,Sensor,True
+1398,Chatter_Site,18/02/2024 00:00:16,In Operation,Good,Current Data,,,Sensor,True
+1399,Chatter_Site,18/02/2024 00:00:10,Off,Good,Current Data,,,Sensor,True
+1400,Chatter_Site,19/02/2024 00:00:02,Off,Good,Current Data,,,Sensor,False
+1401,Chatter_Site,19/02/2024 00:00:30,In Operation,Good,Current Data,,,Sensor,True
+1402,Chatter_Site,19/02/2024 00:00:11,Off,Good,Current Data,,,Sensor,True
+1403,Chatter_Site,19/02/2024 00:00:30,In Operation,Good,Current Data,,,Sensor,True
+1404,Chatter_Site,19/02/2024 00:00:19,Off,Good,Current Data,,,Sensor,True
+1405,Chatter_Site,19/02/2024 00:00:02,In Operation,Good,Current Data,,,Sensor,True
+1406,Chatter_Site,19/02/2024 00:00:28,Off,Good,Current Data,,,Sensor,True
+1407,Chatter_Site,19/02/2024 00:00:08,In Operation,Good,Current Data,,,Sensor,True
+1408,Chatter_Site,19/02/2024 00:00:24,Off,Good,Current Data,,,Sensor,True
+1409,Chatter_Site,19/02/2024 00:00:02,In Operation,Good,Current Data,,,Sensor,True
+1410,Chatter_Site,19/02/2024 00:00:27,Off,Good,Current Data,,,Sensor,True
+1411,Chatter_Site,20/02/2024 00:00:13,Off,Good,Current Data,,,Sensor,False
+1412,Chatter_Site,20/02/2024 00:00:04,In Operation,Good,Current Data,,,Sensor,True
+1413,Chatter_Site,20/02/2024 00:00:29,Off,Good,Current Data,,,Sensor,True
+1414,Chatter_Site,20/02/2024 00:00:07,In Operation,Good,Current Data,,,Sensor,True
+1415,Chatter_Site,20/02/2024 00:00:23,Off,Good,Current Data,,,Sensor,True
+1416,Chatter_Site,20/02/2024 00:00:26,In Operation,Good,Current Data,,,Sensor,True
+1417,Chatter_Site,20/02/2024 00:00:15,Off,Good,Current Data,,,Sensor,True
+1418,Chatter_Site,20/02/2024 00:00:20,In Operation,Good,Current Data,,,Sensor,True
+1419,Chatter_Site,20/02/2024 00:00:28,Off,Good,Current Data,,,Sensor,True
+1420,Chatter_Site,20/02/2024 00:00:26,In Operation,Good,Current Data,,,Sensor,True
+1421,Chatter_Site,20/02/2024 00:00:05,Off,Good,Current Data,,,Sensor,True
+1422,Chatter_Site,20/02/2024 00:00:17,In Operation,Good,Current Data,,,Sensor,True
+1423,Chatter_Site,20/02/2024 00:00:15,Off,Good,Current Data,,,Sensor,True
+1424,Chatter_Site,20/02/2024 00:00:16,In Operation,Good,Current Data,,,Sensor,True
+1425,Chatter_Site,20/02/2024 00:00:30,Off,Good,Current Data,,,Sensor,True
+1426,Chatter_Site,21/02/2024 00:00:04,Off,Good,Current Data,,,Sensor,False
+1427,Chatter_Site,21/02/2024 00:00:02,In Operation,Good,Current Data,,,Sensor,True
+1428,Chatter_Site,21/02/2024 00:00:13,Off,Good,Current Data,,,Sensor,True
+1429,Chatter_Site,21/02/2024 00:00:23,In Operation,Good,Current Data,,,Sensor,True
+1430,Chatter_Site,21/02/2024 00:00:24,Off,Good,Current Data,,,Sensor,True
+1431,Chatter_Site,21/02/2024 00:00:01,In Operation,Good,Current Data,,,Sensor,True
+1432,Chatter_Site,21/02/2024 00:00:04,Off,Good,Current Data,,,Sensor,True
+1433,Chatter_Site,21/02/2024 00:00:19,In Operation,Good,Current Data,,,Sensor,True
+1434,Chatter_Site,21/02/2024 00:00:16,Off,Good,Current Data,,,Sensor,True
+1435,Chatter_Site,22/02/2024 00:00:25,Off,Good,Current Data,,,Sensor,False
+1436,Chatter_Site,22/02/2024 00:00:25,In Operation,Good,Current Data,,,Sensor,True
+1437,Chatter_Site,22/02/2024 00:00:25,Off,Good,Current Data,,,Sensor,True
+1438,Chatter_Site,22/02/2024 00:00:27,In Operation,Good,Current Data,,,Sensor,True
+1439,Chatter_Site,22/02/2024 00:00:11,Off,Good,Current Data,,,Sensor,True
+1440,Chatter_Site,22/02/2024 00:00:08,In Operation,Good,Current Data,,,Sensor,True
+1441,Chatter_Site,22/02/2024 00:00:12,Off,Good,Current Data,,,Sensor,True
+1442,Chatter_Site,22/02/2024 00:00:16,In Operation,Good,Current Data,,,Sensor,True
+1443,Chatter_Site,22/02/2024 00:00:16,Off,Good,Current Data,,,Sensor,True
+1444,Chatter_Site,22/02/2024 00:00:16,In Operation,Good,Current Data,,,Sensor,True
+1445,Chatter_Site,22/02/2024 00:00:23,Off,Good,Current Data,,,Sensor,True
+1446,Chatter_Site,22/02/2024 00:00:12,In Operation,Good,Current Data,,,Sensor,True
+1447,Chatter_Site,23/02/2024 00:00:15,In Operation,Good,Current Data,,,Sensor,False
+1448,Chatter_Site,23/02/2024 00:00:06,Off,Good,Current Data,,,Sensor,True
+1449,Chatter_Site,23/02/2024 00:00:01,In Operation,Good,Current Data,,,Sensor,True
+1450,Chatter_Site,23/02/2024 00:00:16,Off,Good,Current Data,,,Sensor,True
+1451,Chatter_Site,23/02/2024 00:00:20,In Operation,Good,Current Data,,,Sensor,True
+1452,Chatter_Site,23/02/2024 00:00:05,Off,Good,Current Data,,,Sensor,True
+1453,Chatter_Site,23/02/2024 00:00:23,In Operation,Good,Current Data,,,Sensor,True
+1454,Chatter_Site,23/02/2024 00:00:15,Off,Good,Current Data,,,Sensor,True
+1455,Chatter_Site,23/02/2024 00:00:27,In Operation,Good,Current Data,,,Sensor,True
+1456,Chatter_Site,23/02/2024 00:00:03,Off,Good,Current Data,,,Sensor,True
+1457,Chatter_Site,24/02/2024 00:00:27,In Operation,Good,Current Data,,,Sensor,False
+1458,Chatter_Site,24/02/2024 00:00:00,Off,Good,Current Data,,,Sensor,True
+1459,Chatter_Site,24/02/2024 00:00:11,In Operation,Good,Current Data,,,Sensor,True
+1460,Chatter_Site,24/02/2024 00:00:29,Off,Good,Current Data,,,Sensor,True
+1461,Chatter_Site,24/02/2024 00:00:00,In Operation,Good,Current Data,,,Sensor,True
+1462,Chatter_Site,24/02/2024 00:00:28,Off,Good,Current Data,,,Sensor,True
+1463,Chatter_Site,24/02/2024 00:00:22,In Operation,Good,Current Data,,,Sensor,True
+1464,Chatter_Site,24/02/2024 00:00:15,Off,Good,Current Data,,,Sensor,True
+1465,Chatter_Site,25/02/2024 00:00:05,Off,Good,Current Data,,,Sensor,False
+1466,Chatter_Site,25/02/2024 00:00:25,In Operation,Good,Current Data,,,Sensor,True
+1467,Chatter_Site,25/02/2024 00:00:21,Off,Good,Current Data,,,Sensor,True
+1468,Chatter_Site,25/02/2024 00:00:20,In Operation,Good,Current Data,,,Sensor,True
+1469,Chatter_Site,25/02/2024 00:00:05,Off,Good,Current Data,,,Sensor,True
+1470,Chatter_Site,25/02/2024 00:00:14,In Operation,Good,Current Data,,,Sensor,True
+1471,Chatter_Site,25/02/2024 00:00:26,Off,Good,Current Data,,,Sensor,True
+1472,Chatter_Site,25/02/2024 00:00:30,In Operation,Good,Current Data,,,Sensor,True
+1473,Chatter_Site,26/02/2024 00:00:13,Off,Good,Current Data,,,Sensor,False
+1474,Chatter_Site,26/02/2024 00:00:27,In Operation,Good,Current Data,,,Sensor,True
+1475,Chatter_Site,26/02/2024 00:00:01,Off,Good,Current Data,,,Sensor,True
+1476,Chatter_Site,26/02/2024 00:00:09,In Operation,Good,Current Data,,,Sensor,True
+1477,Chatter_Site,26/02/2024 00:00:00,Off,Good,Current Data,,,Sensor,True
+1478,Chatter_Site,26/02/2024 00:00:04,In Operation,Good,Current Data,,,Sensor,True
+1479,Chatter_Site,26/02/2024 00:00:08,Off,Good,Current Data,,,Sensor,True
+1480,Chatter_Site,26/02/2024 00:00:29,In Operation,Good,Current Data,,,Sensor,True
+1481,Chatter_Site,26/02/2024 00:00:02,Off,Good,Current Data,,,Sensor,True
+1482,Chatter_Site,26/02/2024 00:00:14,In Operation,Good,Current Data,,,Sensor,True
+1483,Chatter_Site,26/02/2024 00:00:11,Off,Good,Current Data,,,Sensor,True
+1484,Chatter_Site,26/02/2024 00:00:21,In Operation,Good,Current Data,,,Sensor,True
+1485,Chatter_Site,26/02/2024 00:00:28,Off,Good,Current Data,,,Sensor,True
+1486,Chatter_Site,26/02/2024 00:00:24,In Operation,Good,Current Data,,,Sensor,True
+1487,Chatter_Site,26/02/2024 00:00:20,Off,Good,Current Data,,,Sensor,True
+1488,Chatter_Site,27/02/2024 00:00:00,Off,Good,Current Data,,,Sensor,False
+1489,Chatter_Site,27/02/2024 00:00:23,In Operation,Good,Current Data,,,Sensor,True
+1490,Chatter_Site,27/02/2024 00:00:02,Off,Good,Current Data,,,Sensor,True
+1491,Chatter_Site,27/02/2024 00:00:13,In Operation,Good,Current Data,,,Sensor,True
+1492,Chatter_Site,27/02/2024 00:00:06,Off,Good,Current Data,,,Sensor,True
+1493,Chatter_Site,27/02/2024 00:00:20,In Operation,Good,Current Data,,,Sensor,True
+1494,Chatter_Site,27/02/2024 00:00:11,Off,Good,Current Data,,,Sensor,True
+1495,Chatter_Site,28/02/2024 00:00:14,Off,Good,Current Data,,,Sensor,False
+1496,Chatter_Site,28/02/2024 00:00:29,In Operation,Good,Current Data,,,Sensor,True
+1497,Chatter_Site,28/02/2024 00:00:01,Off,Good,Current Data,,,Sensor,True
+1498,Chatter_Site,28/02/2024 00:00:21,In Operation,Good,Current Data,,,Sensor,True
+1499,Chatter_Site,28/02/2024 00:00:03,Off,Good,Current Data,,,Sensor,True
+1500,Chatter_Site,28/02/2024 00:00:16,In Operation,Good,Current Data,,,Sensor,True
+1501,Chatter_Site,28/02/2024 00:00:10,Off,Good,Current Data,,,Sensor,True
+1502,Chatter_Site,28/02/2024 00:00:03,In Operation,Good,Current Data,,,Sensor,True
+1503,Chatter_Site,28/02/2024 00:00:26,Off,Good,Current Data,,,Sensor,True
+1504,Chatter_Site,28/02/2024 00:00:04,In Operation,Good,Current Data,,,Sensor,True
+1505,Chatter_Site,28/02/2024 00:00:15,Off,Good,Current Data,,,Sensor,True
+1506,Chatter_Site,28/02/2024 00:00:03,In Operation,Good,Current Data,,,Sensor,True
+1507,Chatter_Site,28/02/2024 00:00:03,Off,Good,Current Data,,,Sensor,True
+1508,Chatter_Site,29/02/2024 00:00:12,In Operation,Good,Current Data,,,Sensor,False
+1509,Chatter_Site,29/02/2024 00:00:10,Off,Good,Current Data,,,Sensor,True
+1510,Chatter_Site,29/02/2024 00:00:26,In Operation,Good,Current Data,,,Sensor,True
+1511,Chatter_Site,29/02/2024 00:00:24,Off,Good,Current Data,,,Sensor,True
+1512,Chatter_Site,29/02/2024 00:00:01,In Operation,Good,Current Data,,,Sensor,True
+1513,Chatter_Site,29/02/2024 00:00:18,Off,Good,Current Data,,,Sensor,True
+1514,Chatter_Site,29/02/2024 00:00:15,In Operation,Good,Current Data,,,Sensor,True
+1515,Chatter_Site,01/03/2024 00:00:04,Off,Good,Current Data,,,Sensor,False
+1516,Chatter_Site,01/03/2024 00:00:01,In Operation,Good,Current Data,,,Sensor,True
+1517,Chatter_Site,01/03/2024 00:00:00,Off,Good,Current Data,,,Sensor,True
+1518,Chatter_Site,01/03/2024 00:00:06,In Operation,Good,Current Data,,,Sensor,True
+1519,Chatter_Site,01/03/2024 00:00:10,Off,Good,Current Data,,,Sensor,True
+1520,Chatter_Site,02/03/2024 00:00:11,In Operation,Good,Current Data,,,Sensor,False
+1521,Chatter_Site,02/03/2024 00:00:11,Off,Good,Current Data,,,Sensor,True
+1522,Chatter_Site,02/03/2024 00:00:13,In Operation,Good,Current Data,,,Sensor,True
+1523,Chatter_Site,02/03/2024 00:00:02,Off,Good,Current Data,,,Sensor,True
+1524,Chatter_Site,02/03/2024 00:00:07,In Operation,Good,Current Data,,,Sensor,True
+1525,Chatter_Site,02/03/2024 00:00:16,Off,Good,Current Data,,,Sensor,True
+1526,Chatter_Site,02/03/2024 00:00:16,In Operation,Good,Current Data,,,Sensor,True
+1527,Chatter_Site,02/03/2024 00:00:06,Off,Good,Current Data,,,Sensor,True
+1528,Chatter_Site,02/03/2024 00:00:13,In Operation,Good,Current Data,,,Sensor,True
+1529,Chatter_Site,02/03/2024 00:00:21,Off,Good,Current Data,,,Sensor,True
+1530,Chatter_Site,02/03/2024 00:00:17,In Operation,Good,Current Data,,,Sensor,True
+1531,Chatter_Site,03/03/2024 00:00:13,Off,Good,Current Data,,,Sensor,False
+1532,Chatter_Site,03/03/2024 00:00:00,In Operation,Good,Current Data,,,Sensor,True
+1533,Chatter_Site,03/03/2024 00:00:24,Off,Good,Current Data,,,Sensor,True
+1534,Chatter_Site,03/03/2024 00:00:27,In Operation,Good,Current Data,,,Sensor,True
+1535,Chatter_Site,03/03/2024 00:00:05,Off,Good,Current Data,,,Sensor,True
+1536,Chatter_Site,03/03/2024 00:00:01,In Operation,Good,Current Data,,,Sensor,True
+1537,Chatter_Site,03/03/2024 00:00:28,Off,Good,Current Data,,,Sensor,True
+1538,Chatter_Site,03/03/2024 00:00:00,In Operation,Good,Current Data,,,Sensor,True
+1539,Chatter_Site,03/03/2024 00:00:04,Off,Good,Current Data,,,Sensor,True
+1540,Chatter_Site,03/03/2024 00:00:09,In Operation,Good,Current Data,,,Sensor,True
+1541,Chatter_Site,04/03/2024 00:00:12,Off,Good,Current Data,,,Sensor,False
+1542,Chatter_Site,04/03/2024 00:00:15,In Operation,Good,Current Data,,,Sensor,True
+1543,Chatter_Site,04/03/2024 00:00:20,Off,Good,Current Data,,,Sensor,True
+1544,Chatter_Site,04/03/2024 00:00:02,In Operation,Good,Current Data,,,Sensor,True
+1545,Chatter_Site,04/03/2024 00:00:24,Off,Good,Current Data,,,Sensor,True
+1546,Chatter_Site,05/03/2024 00:00:03,Off,Good,Current Data,,,Sensor,False
+1547,Chatter_Site,05/03/2024 00:00:03,In Operation,Good,Current Data,,,Sensor,True
+1548,Chatter_Site,05/03/2024 00:00:09,Off,Good,Current Data,,,Sensor,True
+1549,Chatter_Site,05/03/2024 00:00:07,In Operation,Good,Current Data,,,Sensor,True
+1550,Chatter_Site,05/03/2024 00:00:20,Off,Good,Current Data,,,Sensor,True
+1551,Chatter_Site,05/03/2024 00:00:08,In Operation,Good,Current Data,,,Sensor,True
+1552,Chatter_Site,05/03/2024 00:00:06,Off,Good,Current Data,,,Sensor,True
+1553,Chatter_Site,05/03/2024 00:00:09,In Operation,Good,Current Data,,,Sensor,True
+1554,Chatter_Site,05/03/2024 00:00:13,Off,Good,Current Data,,,Sensor,True
+1555,Chatter_Site,06/03/2024 00:00:10,Off,Good,Current Data,,,Sensor,False
+1556,Chatter_Site,06/03/2024 00:00:05,In Operation,Good,Current Data,,,Sensor,True
+1557,Chatter_Site,06/03/2024 00:00:22,Off,Good,Current Data,,,Sensor,True
+1558,Chatter_Site,06/03/2024 00:00:20,In Operation,Good,Current Data,,,Sensor,True
+1559,Chatter_Site,06/03/2024 00:00:03,Off,Good,Current Data,,,Sensor,True
+1560,Chatter_Site,06/03/2024 00:00:10,In Operation,Good,Current Data,,,Sensor,True
+1561,Chatter_Site,06/03/2024 00:00:06,Off,Good,Current Data,,,Sensor,True
+1562,Chatter_Site,06/03/2024 00:00:00,In Operation,Good,Current Data,,,Sensor,True
+1563,Chatter_Site,06/03/2024 00:00:14,Off,Good,Current Data,,,Sensor,True
+1564,Chatter_Site,07/03/2024 00:00:21,Off,Good,Current Data,,,Sensor,False
+1565,Chatter_Site,07/03/2024 00:00:00,In Operation,Good,Current Data,,,Sensor,True
+1566,Chatter_Site,07/03/2024 00:00:14,Off,Good,Current Data,,,Sensor,True
+1567,Chatter_Site,07/03/2024 00:00:12,In Operation,Good,Current Data,,,Sensor,True
+1568,Chatter_Site,07/03/2024 00:00:07,Off,Good,Current Data,,,Sensor,True
+1569,Chatter_Site,07/03/2024 00:00:28,In Operation,Good,Current Data,,,Sensor,True
+1570,Chatter_Site,07/03/2024 00:00:06,Off,Good,Current Data,,,Sensor,True
+1571,Chatter_Site,08/03/2024 00:00:05,Off,Good,Current Data,,,Sensor,False
+1572,Chatter_Site,08/03/2024 00:00:24,In Operation,Good,Current Data,,,Sensor,True
+1573,Chatter_Site,08/03/2024 00:00:09,Off,Good,Current Data,,,Sensor,True
+1574,Chatter_Site,08/03/2024 00:00:21,In Operation,Good,Current Data,,,Sensor,True
+1575,Chatter_Site,08/03/2024 00:00:18,Off,Good,Current Data,,,Sensor,True
+1576,Chatter_Site,08/03/2024 00:00:09,In Operation,Good,Current Data,,,Sensor,True
+1577,Chatter_Site,08/03/2024 00:00:29,Off,Good,Current Data,,,Sensor,True
+1578,Chatter_Site,08/03/2024 00:00:18,In Operation,Good,Current Data,,,Sensor,True
+1579,Chatter_Site,08/03/2024 00:00:26,Off,Good,Current Data,,,Sensor,True
+1580,Chatter_Site,08/03/2024 00:00:29,In Operation,Good,Current Data,,,Sensor,True
+1581,Chatter_Site,08/03/2024 00:00:20,Off,Good,Current Data,,,Sensor,True
+1582,Chatter_Site,09/03/2024 00:00:16,In Operation,Good,Current Data,,,Sensor,False
+1583,Chatter_Site,09/03/2024 00:00:14,Off,Good,Current Data,,,Sensor,True
+1584,Chatter_Site,09/03/2024 00:00:23,In Operation,Good,Current Data,,,Sensor,True
+1585,Chatter_Site,09/03/2024 00:00:22,Off,Good,Current Data,,,Sensor,True
+1586,Chatter_Site,09/03/2024 00:00:03,In Operation,Good,Current Data,,,Sensor,True
+1587,Chatter_Site,10/03/2024 00:00:07,In Operation,Good,Current Data,,,Sensor,False
+1588,Chatter_Site,10/03/2024 00:00:27,Off,Good,Current Data,,,Sensor,True
+1589,Chatter_Site,10/03/2024 00:00:12,In Operation,Good,Current Data,,,Sensor,True
+1590,Chatter_Site,10/03/2024 00:00:25,Off,Good,Current Data,,,Sensor,True
+1591,Chatter_Site,10/03/2024 00:00:23,In Operation,Good,Current Data,,,Sensor,True
+1592,Chatter_Site,10/03/2024 00:00:14,Off,Good,Current Data,,,Sensor,True
+1593,Chatter_Site,10/03/2024 00:00:07,In Operation,Good,Current Data,,,Sensor,True
+1594,Chatter_Site,10/03/2024 00:00:26,Off,Good,Current Data,,,Sensor,True
+1595,Chatter_Site,10/03/2024 00:00:15,In Operation,Good,Current Data,,,Sensor,True
+1596,Chatter_Site,10/03/2024 00:00:02,Off,Good,Current Data,,,Sensor,True
+1597,Chatter_Site,10/03/2024 00:00:18,In Operation,Good,Current Data,,,Sensor,True
+1598,Chatter_Site,10/03/2024 00:00:13,Off,Good,Current Data,,,Sensor,True
+1599,Chatter_Site,10/03/2024 00:00:02,In Operation,Good,Current Data,,,Sensor,True
+1600,Chatter_Site,11/03/2024 00:00:26,Off,Good,Current Data,,,Sensor,False
+1601,Chatter_Site,11/03/2024 00:00:30,In Operation,Good,Current Data,,,Sensor,True
+1602,Chatter_Site,11/03/2024 00:00:28,Off,Good,Current Data,,,Sensor,True
+1603,Chatter_Site,11/03/2024 00:00:07,In Operation,Good,Current Data,,,Sensor,True
+1604,Chatter_Site,11/03/2024 00:00:05,Off,Good,Current Data,,,Sensor,True
+1605,Chatter_Site,11/03/2024 00:00:21,In Operation,Good,Current Data,,,Sensor,True
+1606,Chatter_Site,12/03/2024 00:00:06,Off,Good,Current Data,,,Sensor,False
+1607,Chatter_Site,12/03/2024 00:00:03,In Operation,Good,Current Data,,,Sensor,True
+1608,Chatter_Site,12/03/2024 00:00:25,Off,Good,Current Data,,,Sensor,True
+1609,Chatter_Site,12/03/2024 00:00:04,In Operation,Good,Current Data,,,Sensor,True
+1610,Chatter_Site,12/03/2024 00:00:30,Off,Good,Current Data,,,Sensor,True
+1611,Chatter_Site,12/03/2024 00:00:22,In Operation,Good,Current Data,,,Sensor,True
+1612,Chatter_Site,12/03/2024 00:00:02,Off,Good,Current Data,,,Sensor,True
+1613,Chatter_Site,12/03/2024 00:00:29,In Operation,Good,Current Data,,,Sensor,True
+1614,Chatter_Site,12/03/2024 00:00:27,Off,Good,Current Data,,,Sensor,True
+1615,Chatter_Site,12/03/2024 00:00:30,In Operation,Good,Current Data,,,Sensor,True
+1616,Chatter_Site,12/03/2024 00:00:08,Off,Good,Current Data,,,Sensor,True
+1617,Chatter_Site,12/03/2024 00:00:17,In Operation,Good,Current Data,,,Sensor,True
+1618,Chatter_Site,13/03/2024 00:00:28,In Operation,Good,Current Data,,,Sensor,False
+1619,Chatter_Site,13/03/2024 00:00:16,Off,Good,Current Data,,,Sensor,True
+1620,Chatter_Site,13/03/2024 00:00:18,In Operation,Good,Current Data,,,Sensor,True
+1621,Chatter_Site,13/03/2024 00:00:13,Off,Good,Current Data,,,Sensor,True
+1622,Chatter_Site,13/03/2024 00:00:26,In Operation,Good,Current Data,,,Sensor,True
+1623,Chatter_Site,13/03/2024 00:00:21,Off,Good,Current Data,,,Sensor,True
+1624,Chatter_Site,13/03/2024 00:00:02,In Operation,Good,Current Data,,,Sensor,True
+1625,Chatter_Site,13/03/2024 00:00:00,Off,Good,Current Data,,,Sensor,True
+1626,Chatter_Site,13/03/2024 00:00:15,In Operation,Good,Current Data,,,Sensor,True
+1627,Chatter_Site,13/03/2024 00:00:13,Off,Good,Current Data,,,Sensor,True
+1628,Chatter_Site,13/03/2024 00:00:01,In Operation,Good,Current Data,,,Sensor,True
+1629,Chatter_Site,13/03/2024 00:00:18,Off,Good,Current Data,,,Sensor,True
+1630,Chatter_Site,14/03/2024 00:00:08,In Operation,Good,Current Data,,,Sensor,False
+1631,Chatter_Site,14/03/2024 00:00:20,Off,Good,Current Data,,,Sensor,True
+1632,Chatter_Site,14/03/2024 00:00:26,In Operation,Good,Current Data,,,Sensor,True
+1633,Chatter_Site,14/03/2024 00:00:27,Off,Good,Current Data,,,Sensor,True
+1634,Chatter_Site,14/03/2024 00:00:18,In Operation,Good,Current Data,,,Sensor,True
+1635,Chatter_Site,14/03/2024 00:00:24,Off,Good,Current Data,,,Sensor,True
+1636,Chatter_Site,14/03/2024 00:00:10,In Operation,Good,Current Data,,,Sensor,True
+1637,Chatter_Site,14/03/2024 00:00:19,Off,Good,Current Data,,,Sensor,True
+1638,Chatter_Site,14/03/2024 00:00:02,In Operation,Good,Current Data,,,Sensor,True
+1639,Chatter_Site,14/03/2024 00:00:30,Off,Good,Current Data,,,Sensor,True
+1640,Chatter_Site,14/03/2024 00:00:27,In Operation,Good,Current Data,,,Sensor,True
+1641,Chatter_Site,14/03/2024 00:00:11,Off,Good,Current Data,,,Sensor,True
+1642,Chatter_Site,14/03/2024 00:00:03,In Operation,Good,Current Data,,,Sensor,True
+1643,Chatter_Site,14/03/2024 00:00:24,Off,Good,Current Data,,,Sensor,True
+1644,Chatter_Site,14/03/2024 00:00:09,In Operation,Good,Current Data,,,Sensor,True
+1645,Chatter_Site,15/03/2024 00:00:08,In Operation,Good,Current Data,,,Sensor,False
+1646,Chatter_Site,15/03/2024 00:00:04,Off,Good,Current Data,,,Sensor,True
+1647,Chatter_Site,15/03/2024 00:00:01,In Operation,Good,Current Data,,,Sensor,True
+1648,Chatter_Site,15/03/2024 00:00:12,Off,Good,Current Data,,,Sensor,True
+1649,Chatter_Site,15/03/2024 00:00:03,In Operation,Good,Current Data,,,Sensor,True
+1650,Chatter_Site,15/03/2024 00:00:13,Off,Good,Current Data,,,Sensor,True
+1651,Chatter_Site,16/03/2024 00:00:11,In Operation,Good,Current Data,,,Sensor,False
+1652,Chatter_Site,16/03/2024 00:00:27,Off,Good,Current Data,,,Sensor,True
+1653,Chatter_Site,16/03/2024 00:00:05,In Operation,Good,Current Data,,,Sensor,True
+1654,Chatter_Site,16/03/2024 00:00:24,Off,Good,Current Data,,,Sensor,True
+1655,Chatter_Site,16/03/2024 00:00:00,In Operation,Good,Current Data,,,Sensor,True
+1656,Chatter_Site,16/03/2024 00:00:08,Off,Good,Current Data,,,Sensor,True
+1657,Chatter_Site,16/03/2024 00:00:17,In Operation,Good,Current Data,,,Sensor,True
+1658,Chatter_Site,17/03/2024 00:00:30,In Operation,Good,Current Data,,,Sensor,False
+1659,Chatter_Site,17/03/2024 00:00:04,Off,Good,Current Data,,,Sensor,True
+1660,Chatter_Site,17/03/2024 00:00:09,In Operation,Good,Current Data,,,Sensor,True
+1661,Chatter_Site,17/03/2024 00:00:21,Off,Good,Current Data,,,Sensor,True
+1662,Chatter_Site,17/03/2024 00:00:27,In Operation,Good,Current Data,,,Sensor,True
+1663,Chatter_Site,17/03/2024 00:00:15,Off,Good,Current Data,,,Sensor,True
+1664,Chatter_Site,17/03/2024 00:00:01,In Operation,Good,Current Data,,,Sensor,True
+1665,Chatter_Site,17/03/2024 00:00:14,Off,Good,Current Data,,,Sensor,True
+1666,Chatter_Site,17/03/2024 00:00:07,In Operation,Good,Current Data,,,Sensor,True
+1667,Chatter_Site,17/03/2024 00:00:14,Off,Good,Current Data,,,Sensor,True
+1668,Chatter_Site,17/03/2024 00:00:17,In Operation,Good,Current Data,,,Sensor,True
+1669,Chatter_Site,17/03/2024 00:00:26,Off,Good,Current Data,,,Sensor,True
+1670,Chatter_Site,17/03/2024 00:00:02,In Operation,Good,Current Data,,,Sensor,True
+1671,Chatter_Site,17/03/2024 00:00:14,Off,Good,Current Data,,,Sensor,True
+1672,Chatter_Site,17/03/2024 00:00:15,In Operation,Good,Current Data,,,Sensor,True
+1673,Chatter_Site,18/03/2024 00:00:04,In Operation,Good,Current Data,,,Sensor,False
+1674,Chatter_Site,18/03/2024 00:00:09,Off,Good,Current Data,,,Sensor,True
+1675,Chatter_Site,18/03/2024 00:00:03,In Operation,Good,Current Data,,,Sensor,True
+1676,Chatter_Site,18/03/2024 00:00:21,Off,Good,Current Data,,,Sensor,True
+1677,Chatter_Site,18/03/2024 00:00:09,In Operation,Good,Current Data,,,Sensor,True
+1678,Chatter_Site,18/03/2024 00:00:00,Off,Good,Current Data,,,Sensor,True
+1679,Chatter_Site,18/03/2024 00:00:08,In Operation,Good,Current Data,,,Sensor,True
+1680,Chatter_Site,18/03/2024 00:00:05,Off,Good,Current Data,,,Sensor,True
+1681,Chatter_Site,18/03/2024 00:00:05,In Operation,Good,Current Data,,,Sensor,True
+1682,Chatter_Site,18/03/2024 00:00:11,Off,Good,Current Data,,,Sensor,True
+1683,Chatter_Site,18/03/2024 00:00:06,In Operation,Good,Current Data,,,Sensor,True
+1684,Chatter_Site,19/03/2024 00:00:28,In Operation,Good,Current Data,,,Sensor,False
+1685,Chatter_Site,19/03/2024 00:00:22,Off,Good,Current Data,,,Sensor,True
+1686,Chatter_Site,19/03/2024 00:00:04,In Operation,Good,Current Data,,,Sensor,True
+1687,Chatter_Site,19/03/2024 00:00:15,Off,Good,Current Data,,,Sensor,True
+1688,Chatter_Site,19/03/2024 00:00:02,In Operation,Good,Current Data,,,Sensor,True
+1689,Chatter_Site,19/03/2024 00:00:27,Off,Good,Current Data,,,Sensor,True
+1690,Chatter_Site,19/03/2024 00:00:26,In Operation,Good,Current Data,,,Sensor,True
+1691,Chatter_Site,19/03/2024 00:00:03,Off,Good,Current Data,,,Sensor,True
+1692,Chatter_Site,19/03/2024 00:00:13,In Operation,Good,Current Data,,,Sensor,True
+1693,Chatter_Site,19/03/2024 00:00:23,Off,Good,Current Data,,,Sensor,True
+1694,Chatter_Site,19/03/2024 00:00:28,In Operation,Good,Current Data,,,Sensor,True
+1695,Chatter_Site,19/03/2024 00:00:13,Off,Good,Current Data,,,Sensor,True
+1696,Chatter_Site,19/03/2024 00:00:29,In Operation,Good,Current Data,,,Sensor,True
+1697,Chatter_Site,19/03/2024 00:00:17,Off,Good,Current Data,,,Sensor,True
+1698,Chatter_Site,19/03/2024 00:00:04,In Operation,Good,Current Data,,,Sensor,True
+1699,Chatter_Site,20/03/2024 00:00:30,In Operation,Good,Current Data,,,Sensor,False
+1700,Chatter_Site,20/03/2024 00:00:21,Off,Good,Current Data,,,Sensor,True
+1701,Chatter_Site,20/03/2024 00:00:24,In Operation,Good,Current Data,,,Sensor,True
+1702,Chatter_Site,20/03/2024 00:00:13,Off,Good,Current Data,,,Sensor,True
+1703,Chatter_Site,20/03/2024 00:00:11,In Operation,Good,Current Data,,,Sensor,True
+1704,Chatter_Site,20/03/2024 00:00:11,Off,Good,Current Data,,,Sensor,True
+1705,Chatter_Site,20/03/2024 00:00:09,In Operation,Good,Current Data,,,Sensor,True
+1706,Chatter_Site,20/03/2024 00:00:28,Off,Good,Current Data,,,Sensor,True
+1707,Chatter_Site,20/03/2024 00:00:14,In Operation,Good,Current Data,,,Sensor,True
+1708,Chatter_Site,20/03/2024 00:00:08,Off,Good,Current Data,,,Sensor,True
+1709,Chatter_Site,20/03/2024 00:00:12,In Operation,Good,Current Data,,,Sensor,True
+1710,Chatter_Site,20/03/2024 00:00:00,Off,Good,Current Data,,,Sensor,True
+1711,Chatter_Site,21/03/2024 00:00:21,In Operation,Good,Current Data,,,Sensor,False
+1712,Chatter_Site,21/03/2024 00:00:26,Off,Good,Current Data,,,Sensor,True
+1713,Chatter_Site,21/03/2024 00:00:30,In Operation,Good,Current Data,,,Sensor,True
+1714,Chatter_Site,21/03/2024 00:00:29,Off,Good,Current Data,,,Sensor,True
+1715,Chatter_Site,21/03/2024 00:00:12,In Operation,Good,Current Data,,,Sensor,True
+1716,Chatter_Site,21/03/2024 00:00:00,Off,Good,Current Data,,,Sensor,True
+1717,Chatter_Site,21/03/2024 00:00:03,In Operation,Good,Current Data,,,Sensor,True
+1718,Chatter_Site,21/03/2024 00:00:24,Off,Good,Current Data,,,Sensor,True
+1719,Chatter_Site,21/03/2024 00:00:00,In Operation,Good,Current Data,,,Sensor,True
+1720,Chatter_Site,21/03/2024 00:00:29,Off,Good,Current Data,,,Sensor,True
+1721,Chatter_Site,21/03/2024 00:00:04,In Operation,Good,Current Data,,,Sensor,True
+1722,Chatter_Site,21/03/2024 00:00:09,Off,Good,Current Data,,,Sensor,True
+1723,Chatter_Site,21/03/2024 00:00:20,In Operation,Good,Current Data,,,Sensor,True
+1724,Chatter_Site,21/03/2024 00:00:15,Off,Good,Current Data,,,Sensor,True
+1725,Chatter_Site,21/03/2024 00:00:13,In Operation,Good,Current Data,,,Sensor,True
+1726,Chatter_Site,22/03/2024 00:00:19,Off,Good,Current Data,,,Sensor,False
+1727,Chatter_Site,22/03/2024 00:00:21,In Operation,Good,Current Data,,,Sensor,True
+1728,Chatter_Site,22/03/2024 00:00:07,Off,Good,Current Data,,,Sensor,True
+1729,Chatter_Site,22/03/2024 00:00:11,In Operation,Good,Current Data,,,Sensor,True
+1730,Chatter_Site,22/03/2024 00:00:15,Off,Good,Current Data,,,Sensor,True
+1731,Chatter_Site,22/03/2024 00:00:08,In Operation,Good,Current Data,,,Sensor,True
+1732,Chatter_Site,22/03/2024 00:00:28,Off,Good,Current Data,,,Sensor,True
+1733,Chatter_Site,22/03/2024 00:00:04,In Operation,Good,Current Data,,,Sensor,True
+1734,Chatter_Site,22/03/2024 00:00:16,Off,Good,Current Data,,,Sensor,True
+1735,Chatter_Site,22/03/2024 00:00:10,In Operation,Good,Current Data,,,Sensor,True
+1736,Chatter_Site,23/03/2024 00:00:19,Off,Good,Current Data,,,Sensor,False
+1737,Chatter_Site,23/03/2024 00:00:28,In Operation,Good,Current Data,,,Sensor,True
+1738,Chatter_Site,23/03/2024 00:00:21,Off,Good,Current Data,,,Sensor,True
+1739,Chatter_Site,23/03/2024 00:00:10,In Operation,Good,Current Data,,,Sensor,True
+1740,Chatter_Site,23/03/2024 00:00:19,Off,Good,Current Data,,,Sensor,True
+1741,Chatter_Site,23/03/2024 00:00:23,In Operation,Good,Current Data,,,Sensor,True
+1742,Chatter_Site,23/03/2024 00:00:19,Off,Good,Current Data,,,Sensor,True
+1743,Chatter_Site,23/03/2024 00:00:21,In Operation,Good,Current Data,,,Sensor,True
+1744,Chatter_Site,23/03/2024 00:00:03,Off,Good,Current Data,,,Sensor,True
+1745,Chatter_Site,23/03/2024 00:00:11,In Operation,Good,Current Data,,,Sensor,True
+1746,Chatter_Site,24/03/2024 00:00:11,In Operation,Good,Current Data,,,Sensor,False
+1747,Chatter_Site,24/03/2024 00:00:13,Off,Good,Current Data,,,Sensor,True
+1748,Chatter_Site,24/03/2024 00:00:22,In Operation,Good,Current Data,,,Sensor,True
+1749,Chatter_Site,24/03/2024 00:00:17,Off,Good,Current Data,,,Sensor,True
+1750,Chatter_Site,24/03/2024 00:00:25,In Operation,Good,Current Data,,,Sensor,True
+1751,Chatter_Site,24/03/2024 00:00:08,Off,Good,Current Data,,,Sensor,True
+1752,Chatter_Site,24/03/2024 00:00:26,In Operation,Good,Current Data,,,Sensor,True
+1753,Chatter_Site,25/03/2024 00:00:17,In Operation,Good,Current Data,,,Sensor,False
+1754,Chatter_Site,25/03/2024 00:00:18,Off,Good,Current Data,,,Sensor,True
+1755,Chatter_Site,25/03/2024 00:00:02,In Operation,Good,Current Data,,,Sensor,True
+1756,Chatter_Site,25/03/2024 00:00:09,Off,Good,Current Data,,,Sensor,True
+1757,Chatter_Site,25/03/2024 00:00:00,In Operation,Good,Current Data,,,Sensor,True
+1758,Chatter_Site,25/03/2024 00:00:26,Off,Good,Current Data,,,Sensor,True
+1759,Chatter_Site,25/03/2024 00:00:03,In Operation,Good,Current Data,,,Sensor,True
+1760,Chatter_Site,25/03/2024 00:00:30,Off,Good,Current Data,,,Sensor,True
+1761,Chatter_Site,25/03/2024 00:00:27,In Operation,Good,Current Data,,,Sensor,True
+1762,Chatter_Site,26/03/2024 00:00:05,Off,Good,Current Data,,,Sensor,False
+1763,Chatter_Site,26/03/2024 00:00:26,In Operation,Good,Current Data,,,Sensor,True
+1764,Chatter_Site,26/03/2024 00:00:11,Off,Good,Current Data,,,Sensor,True
+1765,Chatter_Site,26/03/2024 00:00:26,In Operation,Good,Current Data,,,Sensor,True
+1766,Chatter_Site,26/03/2024 00:00:09,Off,Good,Current Data,,,Sensor,True
+1767,Chatter_Site,26/03/2024 00:00:29,In Operation,Good,Current Data,,,Sensor,True
+1768,Chatter_Site,26/03/2024 00:00:10,Off,Good,Current Data,,,Sensor,True
+1769,Chatter_Site,26/03/2024 00:00:06,In Operation,Good,Current Data,,,Sensor,True
+1770,Chatter_Site,26/03/2024 00:00:28,Off,Good,Current Data,,,Sensor,True
+1771,Chatter_Site,27/03/2024 00:00:16,In Operation,Good,Current Data,,,Sensor,False
+1772,Chatter_Site,27/03/2024 00:00:22,Off,Good,Current Data,,,Sensor,True
+1773,Chatter_Site,27/03/2024 00:00:11,In Operation,Good,Current Data,,,Sensor,True
+1774,Chatter_Site,27/03/2024 00:00:26,Off,Good,Current Data,,,Sensor,True
+1775,Chatter_Site,27/03/2024 00:00:21,In Operation,Good,Current Data,,,Sensor,True
+1776,Chatter_Site,27/03/2024 00:00:04,Off,Good,Current Data,,,Sensor,True
+1777,Chatter_Site,27/03/2024 00:00:26,In Operation,Good,Current Data,,,Sensor,True
+1778,Chatter_Site,27/03/2024 00:00:21,Off,Good,Current Data,,,Sensor,True
+1779,Chatter_Site,27/03/2024 00:00:20,In Operation,Good,Current Data,,,Sensor,True
+1780,Chatter_Site,28/03/2024 00:00:15,In Operation,Good,Current Data,,,Sensor,False
+1781,Chatter_Site,28/03/2024 00:00:08,Off,Good,Current Data,,,Sensor,True
+1782,Chatter_Site,28/03/2024 00:00:15,In Operation,Good,Current Data,,,Sensor,True
+1783,Chatter_Site,28/03/2024 00:00:10,Off,Good,Current Data,,,Sensor,True
+1784,Chatter_Site,28/03/2024 00:00:11,In Operation,Good,Current Data,,,Sensor,True
+1785,Chatter_Site,28/03/2024 00:00:21,Off,Good,Current Data,,,Sensor,True
+1786,Chatter_Site,28/03/2024 00:00:20,In Operation,Good,Current Data,,,Sensor,True
+1787,Chatter_Site,28/03/2024 00:00:27,Off,Good,Current Data,,,Sensor,True
+1788,Chatter_Site,28/03/2024 00:00:12,In Operation,Good,Current Data,,,Sensor,True
+1789,Chatter_Site,28/03/2024 00:00:26,Off,Good,Current Data,,,Sensor,True
+1790,Chatter_Site,28/03/2024 00:00:17,In Operation,Good,Current Data,,,Sensor,True
+1791,Chatter_Site,28/03/2024 00:00:28,Off,Good,Current Data,,,Sensor,True
+1792,Chatter_Site,29/03/2024 00:00:03,In Operation,Good,Current Data,,,Sensor,False
+1793,Chatter_Site,29/03/2024 00:00:19,Off,Good,Current Data,,,Sensor,True
+1794,Chatter_Site,29/03/2024 00:00:30,In Operation,Good,Current Data,,,Sensor,True
+1795,Chatter_Site,29/03/2024 00:00:21,Off,Good,Current Data,,,Sensor,True
+1796,Chatter_Site,29/03/2024 00:00:02,In Operation,Good,Current Data,,,Sensor,True
+1797,Chatter_Site,29/03/2024 00:00:26,Off,Good,Current Data,,,Sensor,True
+1798,Chatter_Site,29/03/2024 00:00:16,In Operation,Good,Current Data,,,Sensor,True
+1799,Chatter_Site,29/03/2024 00:00:03,Off,Good,Current Data,,,Sensor,True
+1800,Chatter_Site,29/03/2024 00:00:12,In Operation,Good,Current Data,,,Sensor,True
+1801,Chatter_Site,29/03/2024 00:00:18,Off,Good,Current Data,,,Sensor,True
+1802,Chatter_Site,29/03/2024 00:00:09,In Operation,Good,Current Data,,,Sensor,True
+1803,Chatter_Site,29/03/2024 00:00:02,Off,Good,Current Data,,,Sensor,True
+1804,Chatter_Site,30/03/2024 00:00:11,Off,Good,Current Data,,,Sensor,False
+1805,Chatter_Site,30/03/2024 00:00:06,In Operation,Good,Current Data,,,Sensor,True
+1806,Chatter_Site,30/03/2024 00:00:30,Off,Good,Current Data,,,Sensor,True
+1807,Chatter_Site,30/03/2024 00:00:20,In Operation,Good,Current Data,,,Sensor,True
+1808,Chatter_Site,30/03/2024 00:00:15,Off,Good,Current Data,,,Sensor,True
+1809,Chatter_Site,30/03/2024 00:00:03,In Operation,Good,Current Data,,,Sensor,True
+1810,Chatter_Site,30/03/2024 00:00:08,Off,Good,Current Data,,,Sensor,True
+1811,Chatter_Site,30/03/2024 00:00:13,In Operation,Good,Current Data,,,Sensor,True
+1812,Chatter_Site,31/03/2024 00:00:13,In Operation,Good,Current Data,,,Sensor,False
+1813,Chatter_Site,31/03/2024 00:00:15,Off,Good,Current Data,,,Sensor,True
+1814,Chatter_Site,31/03/2024 00:00:19,In Operation,Good,Current Data,,,Sensor,True
+1815,Chatter_Site,31/03/2024 00:00:04,Off,Good,Current Data,,,Sensor,True
+1816,Chatter_Site,31/03/2024 00:00:10,In Operation,Good,Current Data,,,Sensor,True
+1817,Chatter_Site,31/03/2024 00:00:05,Off,Good,Current Data,,,Sensor,True
+1818,Chatter_Site,31/03/2024 00:00:12,In Operation,Good,Current Data,,,Sensor,True
+1819,Chatter_Site,31/03/2024 00:00:15,Off,Good,Current Data,,,Sensor,True
+1820,Chatter_Site,31/03/2024 00:00:09,In Operation,Good,Current Data,,,Sensor,True
+1821,Chatter_Site,01/04/2024 00:00:07,In Operation,Good,Current Data,,,Sensor,False
+1822,Chatter_Site,01/04/2024 00:00:20,Off,Good,Current Data,,,Sensor,True
+1823,Chatter_Site,01/04/2024 00:00:08,In Operation,Good,Current Data,,,Sensor,True
+1824,Chatter_Site,01/04/2024 00:00:00,Off,Good,Current Data,,,Sensor,True
+1825,Chatter_Site,01/04/2024 00:00:12,In Operation,Good,Current Data,,,Sensor,True
+1826,Chatter_Site,01/04/2024 00:00:12,Off,Good,Current Data,,,Sensor,True
+1827,Chatter_Site,01/04/2024 00:00:08,In Operation,Good,Current Data,,,Sensor,True
+1828,Chatter_Site,01/04/2024 00:00:05,Off,Good,Current Data,,,Sensor,True
+1829,Chatter_Site,01/04/2024 00:00:30,In Operation,Good,Current Data,,,Sensor,True
+1830,Chatter_Site,01/04/2024 00:00:26,Off,Good,Current Data,,,Sensor,True
+1831,Chatter_Site,01/04/2024 00:00:17,In Operation,Good,Current Data,,,Sensor,True
+1832,Chatter_Site,01/04/2024 00:00:00,Off,Good,Current Data,,,Sensor,True
+1833,Chatter_Site,01/04/2024 00:00:25,In Operation,Good,Current Data,,,Sensor,True
+1834,Chatter_Site,01/04/2024 00:00:09,Off,Good,Current Data,,,Sensor,True
+1835,Chatter_Site,01/04/2024 00:00:22,In Operation,Good,Current Data,,,Sensor,True
+1836,Chatter_Site,02/04/2024 00:00:30,Off,Good,Current Data,,,Sensor,False
+1837,Chatter_Site,02/04/2024 00:00:22,In Operation,Good,Current Data,,,Sensor,True
+1838,Chatter_Site,02/04/2024 00:00:28,Off,Good,Current Data,,,Sensor,True
+1839,Chatter_Site,02/04/2024 00:00:29,In Operation,Good,Current Data,,,Sensor,True
+1840,Chatter_Site,02/04/2024 00:00:06,Off,Good,Current Data,,,Sensor,True
+1841,Chatter_Site,02/04/2024 00:00:28,In Operation,Good,Current Data,,,Sensor,True
+1842,Chatter_Site,02/04/2024 00:00:15,Off,Good,Current Data,,,Sensor,True
+1843,Chatter_Site,02/04/2024 00:00:14,In Operation,Good,Current Data,,,Sensor,True
+1844,Chatter_Site,02/04/2024 00:00:15,Off,Good,Current Data,,,Sensor,True
+1845,Chatter_Site,03/04/2024 00:00:15,In Operation,Good,Current Data,,,Sensor,False
+1846,Chatter_Site,03/04/2024 00:00:00,Off,Good,Current Data,,,Sensor,True
+1847,Chatter_Site,03/04/2024 00:00:19,In Operation,Good,Current Data,,,Sensor,True
+1848,Chatter_Site,03/04/2024 00:00:17,Off,Good,Current Data,,,Sensor,True
+1849,Chatter_Site,03/04/2024 00:00:04,In Operation,Good,Current Data,,,Sensor,True
+1850,Chatter_Site,03/04/2024 00:00:27,Off,Good,Current Data,,,Sensor,True
+1851,Chatter_Site,03/04/2024 00:00:10,In Operation,Good,Current Data,,,Sensor,True
+1852,Chatter_Site,03/04/2024 00:00:14,Off,Good,Current Data,,,Sensor,True
+1853,Chatter_Site,03/04/2024 00:00:30,In Operation,Good,Current Data,,,Sensor,True
+1854,Chatter_Site,03/04/2024 00:00:12,Off,Good,Current Data,,,Sensor,True
+1855,Chatter_Site,03/04/2024 00:00:19,In Operation,Good,Current Data,,,Sensor,True
+1856,Chatter_Site,03/04/2024 00:00:19,Off,Good,Current Data,,,Sensor,True
+1857,Chatter_Site,03/04/2024 00:00:26,In Operation,Good,Current Data,,,Sensor,True
+1858,Chatter_Site,04/04/2024 00:00:16,Off,Good,Current Data,,,Sensor,False
+1859,Chatter_Site,04/04/2024 00:00:25,In Operation,Good,Current Data,,,Sensor,True
+1860,Chatter_Site,04/04/2024 00:00:24,Off,Good,Current Data,,,Sensor,True
+1861,Chatter_Site,04/04/2024 00:00:00,In Operation,Good,Current Data,,,Sensor,True
+1862,Chatter_Site,04/04/2024 00:00:25,Off,Good,Current Data,,,Sensor,True
+1863,Chatter_Site,04/04/2024 00:00:05,In Operation,Good,Current Data,,,Sensor,True
+1864,Chatter_Site,04/04/2024 00:00:24,Off,Good,Current Data,,,Sensor,True
+1865,Chatter_Site,04/04/2024 00:00:23,In Operation,Good,Current Data,,,Sensor,True
+1866,Chatter_Site,04/04/2024 00:00:23,Off,Good,Current Data,,,Sensor,True
+1867,Chatter_Site,04/04/2024 00:00:10,In Operation,Good,Current Data,,,Sensor,True
+1868,Chatter_Site,04/04/2024 00:00:08,Off,Good,Current Data,,,Sensor,True
+1869,Chatter_Site,04/04/2024 00:00:13,In Operation,Good,Current Data,,,Sensor,True
+1870,Chatter_Site,04/04/2024 00:00:18,Off,Good,Current Data,,,Sensor,True
+1871,Chatter_Site,05/04/2024 00:00:00,In Operation,Good,Current Data,,,Sensor,False
+1872,Chatter_Site,05/04/2024 00:00:15,Off,Good,Current Data,,,Sensor,True
+1873,Chatter_Site,05/04/2024 00:00:28,In Operation,Good,Current Data,,,Sensor,True
+1874,Chatter_Site,05/04/2024 00:00:21,Off,Good,Current Data,,,Sensor,True
+1875,Chatter_Site,05/04/2024 00:00:22,In Operation,Good,Current Data,,,Sensor,True
+1876,Chatter_Site,05/04/2024 00:00:18,Off,Good,Current Data,,,Sensor,True
+1877,Chatter_Site,05/04/2024 00:00:00,In Operation,Good,Current Data,,,Sensor,True
+1878,Chatter_Site,05/04/2024 00:00:15,Off,Good,Current Data,,,Sensor,True
+1879,Chatter_Site,05/04/2024 00:00:00,In Operation,Good,Current Data,,,Sensor,True
+1880,Chatter_Site,05/04/2024 00:00:16,Off,Good,Current Data,,,Sensor,True
+1881,Chatter_Site,05/04/2024 00:00:01,In Operation,Good,Current Data,,,Sensor,True
+1882,Chatter_Site,06/04/2024 00:00:07,Off,Good,Current Data,,,Sensor,False
+1883,Chatter_Site,06/04/2024 00:00:08,In Operation,Good,Current Data,,,Sensor,True
+1884,Chatter_Site,06/04/2024 00:00:24,Off,Good,Current Data,,,Sensor,True
+1885,Chatter_Site,06/04/2024 00:00:24,In Operation,Good,Current Data,,,Sensor,True
+1886,Chatter_Site,06/04/2024 00:00:06,Off,Good,Current Data,,,Sensor,True
+1887,Chatter_Site,06/04/2024 00:00:16,In Operation,Good,Current Data,,,Sensor,True
+1888,Chatter_Site,06/04/2024 00:00:22,Off,Good,Current Data,,,Sensor,True
+1889,Chatter_Site,06/04/2024 00:00:02,In Operation,Good,Current Data,,,Sensor,True
+1890,Chatter_Site,06/04/2024 00:00:21,Off,Good,Current Data,,,Sensor,True
+1891,Chatter_Site,06/04/2024 00:00:02,In Operation,Good,Current Data,,,Sensor,True
+1892,Chatter_Site,06/04/2024 00:00:22,Off,Good,Current Data,,,Sensor,True
+1893,Chatter_Site,06/04/2024 00:00:04,In Operation,Good,Current Data,,,Sensor,True
+1894,Chatter_Site,07/04/2024 00:00:25,Off,Good,Current Data,,,Sensor,False
+1895,Chatter_Site,07/04/2024 00:00:10,In Operation,Good,Current Data,,,Sensor,True
+1896,Chatter_Site,07/04/2024 00:00:19,Off,Good,Current Data,,,Sensor,True
+1897,Chatter_Site,07/04/2024 00:00:05,In Operation,Good,Current Data,,,Sensor,True
+1898,Chatter_Site,07/04/2024 00:00:12,Off,Good,Current Data,,,Sensor,True
+1899,Chatter_Site,07/04/2024 00:00:17,In Operation,Good,Current Data,,,Sensor,True
+1900,Chatter_Site,07/04/2024 00:00:03,Off,Good,Current Data,,,Sensor,True
+1901,Chatter_Site,07/04/2024 00:00:07,In Operation,Good,Current Data,,,Sensor,True
+1902,Chatter_Site,07/04/2024 00:00:30,Off,Good,Current Data,,,Sensor,True
+1903,Chatter_Site,07/04/2024 00:00:15,In Operation,Good,Current Data,,,Sensor,True
+1904,Chatter_Site,07/04/2024 00:00:02,Off,Good,Current Data,,,Sensor,True
+1905,Chatter_Site,07/04/2024 00:00:20,In Operation,Good,Current Data,,,Sensor,True
+1906,Chatter_Site,07/04/2024 00:00:17,Off,Good,Current Data,,,Sensor,True
+1907,Chatter_Site,07/04/2024 00:00:04,In Operation,Good,Current Data,,,Sensor,True
+1908,Chatter_Site,08/04/2024 00:00:07,Off,Good,Current Data,,,Sensor,False
+1909,Chatter_Site,08/04/2024 00:00:09,In Operation,Good,Current Data,,,Sensor,True
+1910,Chatter_Site,08/04/2024 00:00:19,Off,Good,Current Data,,,Sensor,True
+1911,Chatter_Site,08/04/2024 00:00:15,In Operation,Good,Current Data,,,Sensor,True
+1912,Chatter_Site,08/04/2024 00:00:17,Off,Good,Current Data,,,Sensor,True
+1913,Chatter_Site,08/04/2024 00:00:19,In Operation,Good,Current Data,,,Sensor,True
+1914,Chatter_Site,09/04/2024 00:00:10,Off,Good,Current Data,,,Sensor,False
+1915,Chatter_Site,09/04/2024 00:00:06,In Operation,Good,Current Data,,,Sensor,True
+1916,Chatter_Site,09/04/2024 00:00:02,Off,Good,Current Data,,,Sensor,True
+1917,Chatter_Site,09/04/2024 00:00:01,In Operation,Good,Current Data,,,Sensor,True
+1918,Chatter_Site,09/04/2024 00:00:28,Off,Good,Current Data,,,Sensor,True
+1919,Chatter_Site,09/04/2024 00:00:06,In Operation,Good,Current Data,,,Sensor,True
+1920,Chatter_Site,09/04/2024 00:00:19,Off,Good,Current Data,,,Sensor,True
+1921,Chatter_Site,09/04/2024 00:00:21,In Operation,Good,Current Data,,,Sensor,True
+1922,Chatter_Site,10/04/2024 00:00:19,In Operation,Good,Current Data,,,Sensor,False
+1923,Chatter_Site,10/04/2024 00:00:17,Off,Good,Current Data,,,Sensor,True
+1924,Chatter_Site,10/04/2024 00:00:16,In Operation,Good,Current Data,,,Sensor,True
+1925,Chatter_Site,10/04/2024 00:00:28,Off,Good,Current Data,,,Sensor,True
+1926,Chatter_Site,10/04/2024 00:00:21,In Operation,Good,Current Data,,,Sensor,True
+1927,Chatter_Site,10/04/2024 00:00:14,Off,Good,Current Data,,,Sensor,True
+1928,Chatter_Site,10/04/2024 00:00:22,In Operation,Good,Current Data,,,Sensor,True
+1929,Chatter_Site,10/04/2024 00:00:10,Off,Good,Current Data,,,Sensor,True
+1930,Chatter_Site,10/04/2024 00:00:15,In Operation,Good,Current Data,,,Sensor,True
+1931,Chatter_Site,10/04/2024 00:00:00,Off,Good,Current Data,,,Sensor,True
+1932,Chatter_Site,10/04/2024 00:00:02,In Operation,Good,Current Data,,,Sensor,True
+1933,Chatter_Site,11/04/2024 00:00:21,Off,Good,Current Data,,,Sensor,False
+1934,Chatter_Site,11/04/2024 00:00:26,In Operation,Good,Current Data,,,Sensor,True
+1935,Chatter_Site,11/04/2024 00:00:30,Off,Good,Current Data,,,Sensor,True
+1936,Chatter_Site,11/04/2024 00:00:24,In Operation,Good,Current Data,,,Sensor,True
+1937,Chatter_Site,11/04/2024 00:00:10,Off,Good,Current Data,,,Sensor,True
+1938,Chatter_Site,11/04/2024 00:00:25,In Operation,Good,Current Data,,,Sensor,True
+1939,Chatter_Site,11/04/2024 00:00:15,Off,Good,Current Data,,,Sensor,True
+1940,Chatter_Site,11/04/2024 00:00:23,In Operation,Good,Current Data,,,Sensor,True
+1941,Chatter_Site,11/04/2024 00:00:23,Off,Good,Current Data,,,Sensor,True
+1942,Chatter_Site,11/04/2024 00:00:12,In Operation,Good,Current Data,,,Sensor,True
+1943,Chatter_Site,11/04/2024 00:00:27,Off,Good,Current Data,,,Sensor,True
+1944,Chatter_Site,11/04/2024 00:00:28,In Operation,Good,Current Data,,,Sensor,True
+1945,Chatter_Site,12/04/2024 00:00:18,Off,Good,Current Data,,,Sensor,False
+1946,Chatter_Site,12/04/2024 00:00:17,In Operation,Good,Current Data,,,Sensor,True
+1947,Chatter_Site,12/04/2024 00:00:06,Off,Good,Current Data,,,Sensor,True
+1948,Chatter_Site,12/04/2024 00:00:01,In Operation,Good,Current Data,,,Sensor,True
+1949,Chatter_Site,12/04/2024 00:00:22,Off,Good,Current Data,,,Sensor,True
+1950,Chatter_Site,12/04/2024 00:00:02,In Operation,Good,Current Data,,,Sensor,True
+1951,Chatter_Site,12/04/2024 00:00:22,Off,Good,Current Data,,,Sensor,True
+1952,Chatter_Site,12/04/2024 00:00:04,In Operation,Good,Current Data,,,Sensor,True
+1953,Chatter_Site,12/04/2024 00:00:13,Off,Good,Current Data,,,Sensor,True
+1954,Chatter_Site,12/04/2024 00:00:30,In Operation,Good,Current Data,,,Sensor,True
+1955,Chatter_Site,13/04/2024 00:00:08,In Operation,Good,Current Data,,,Sensor,False
+1956,Chatter_Site,13/04/2024 00:00:04,Off,Good,Current Data,,,Sensor,True
+1957,Chatter_Site,13/04/2024 00:00:29,In Operation,Good,Current Data,,,Sensor,True
+1958,Chatter_Site,13/04/2024 00:00:10,Off,Good,Current Data,,,Sensor,True
+1959,Chatter_Site,13/04/2024 00:00:16,In Operation,Good,Current Data,,,Sensor,True
+1960,Chatter_Site,13/04/2024 00:00:14,Off,Good,Current Data,,,Sensor,True
+1961,Chatter_Site,13/04/2024 00:00:23,In Operation,Good,Current Data,,,Sensor,True
+1962,Chatter_Site,13/04/2024 00:00:22,Off,Good,Current Data,,,Sensor,True
+1963,Chatter_Site,13/04/2024 00:00:27,In Operation,Good,Current Data,,,Sensor,True
+1964,Chatter_Site,13/04/2024 00:00:28,Off,Good,Current Data,,,Sensor,True
+1965,Chatter_Site,13/04/2024 00:00:25,In Operation,Good,Current Data,,,Sensor,True
+1966,Chatter_Site,13/04/2024 00:00:11,Off,Good,Current Data,,,Sensor,True
+1967,Chatter_Site,13/04/2024 00:00:15,In Operation,Good,Current Data,,,Sensor,True
+1968,Chatter_Site,14/04/2024 00:00:30,In Operation,Good,Current Data,,,Sensor,False
+1969,Chatter_Site,14/04/2024 00:00:09,Off,Good,Current Data,,,Sensor,True
+1970,Chatter_Site,14/04/2024 00:00:21,In Operation,Good,Current Data,,,Sensor,True
+1971,Chatter_Site,14/04/2024 00:00:27,Off,Good,Current Data,,,Sensor,True
+1972,Chatter_Site,14/04/2024 00:00:21,In Operation,Good,Current Data,,,Sensor,True
+1973,Chatter_Site,14/04/2024 00:00:17,Off,Good,Current Data,,,Sensor,True
+1974,Chatter_Site,14/04/2024 00:00:17,In Operation,Good,Current Data,,,Sensor,True
+1975,Chatter_Site,14/04/2024 00:00:07,Off,Good,Current Data,,,Sensor,True
+1976,Chatter_Site,14/04/2024 00:00:06,In Operation,Good,Current Data,,,Sensor,True
+1977,Chatter_Site,14/04/2024 00:00:20,Off,Good,Current Data,,,Sensor,True
+1978,Chatter_Site,14/04/2024 00:00:21,In Operation,Good,Current Data,,,Sensor,True
+1979,Chatter_Site,15/04/2024 00:00:08,Off,Good,Current Data,,,Sensor,False
+1980,Chatter_Site,15/04/2024 00:00:28,In Operation,Good,Current Data,,,Sensor,True
+1981,Chatter_Site,15/04/2024 00:00:30,Off,Good,Current Data,,,Sensor,True
+1982,Chatter_Site,15/04/2024 00:00:20,In Operation,Good,Current Data,,,Sensor,True
+1983,Chatter_Site,15/04/2024 00:00:05,Off,Good,Current Data,,,Sensor,True
+1984,Chatter_Site,15/04/2024 00:00:24,In Operation,Good,Current Data,,,Sensor,True
+1985,Chatter_Site,15/04/2024 00:00:16,Off,Good,Current Data,,,Sensor,True
+1986,Chatter_Site,15/04/2024 00:00:12,In Operation,Good,Current Data,,,Sensor,True
+1987,Chatter_Site,15/04/2024 00:00:01,Off,Good,Current Data,,,Sensor,True
+1988,Chatter_Site,15/04/2024 00:00:22,In Operation,Good,Current Data,,,Sensor,True
+1989,Chatter_Site,15/04/2024 00:00:16,Off,Good,Current Data,,,Sensor,True
+1990,Chatter_Site,16/04/2024 00:00:25,Off,Good,Current Data,,,Sensor,False
+1991,Chatter_Site,16/04/2024 00:00:04,In Operation,Good,Current Data,,,Sensor,True
+1992,Chatter_Site,16/04/2024 00:00:09,Off,Good,Current Data,,,Sensor,True
+1993,Chatter_Site,16/04/2024 00:00:27,In Operation,Good,Current Data,,,Sensor,True
+1994,Chatter_Site,16/04/2024 00:00:24,Off,Good,Current Data,,,Sensor,True
+1995,Chatter_Site,16/04/2024 00:00:22,In Operation,Good,Current Data,,,Sensor,True
+1996,Chatter_Site,16/04/2024 00:00:00,Off,Good,Current Data,,,Sensor,True
+1997,Chatter_Site,16/04/2024 00:00:26,In Operation,Good,Current Data,,,Sensor,True
+1998,Chatter_Site,16/04/2024 00:00:14,Off,Good,Current Data,,,Sensor,True
+1999,Chatter_Site,16/04/2024 00:00:06,In Operation,Good,Current Data,,,Sensor,True
+2000,Chatter_Site,16/04/2024 00:00:30,Off,Good,Current Data,,,Sensor,True
+2001,Chatter_Site,16/04/2024 00:00:15,In Operation,Good,Current Data,,,Sensor,True
+2002,Chatter_Site,16/04/2024 00:00:12,Off,Good,Current Data,,,Sensor,True
+2003,Chatter_Site,16/04/2024 00:00:02,In Operation,Good,Current Data,,,Sensor,True
+2004,Chatter_Site,16/04/2024 00:00:20,Off,Good,Current Data,,,Sensor,True
+2005,Chatter_Site,17/04/2024 00:00:24,In Operation,Good,Current Data,,,Sensor,False
+2006,Chatter_Site,17/04/2024 00:00:01,Off,Good,Current Data,,,Sensor,True
+2007,Chatter_Site,17/04/2024 00:00:22,In Operation,Good,Current Data,,,Sensor,True
+2008,Chatter_Site,17/04/2024 00:00:01,Off,Good,Current Data,,,Sensor,True
+2009,Chatter_Site,17/04/2024 00:00:13,In Operation,Good,Current Data,,,Sensor,True
+2010,Chatter_Site,17/04/2024 00:00:11,Off,Good,Current Data,,,Sensor,True
+2011,Chatter_Site,17/04/2024 00:00:14,In Operation,Good,Current Data,,,Sensor,True
+2012,Chatter_Site,18/04/2024 00:00:20,Off,Good,Current Data,,,Sensor,False
+2013,Chatter_Site,18/04/2024 00:00:20,In Operation,Good,Current Data,,,Sensor,True
+2014,Chatter_Site,18/04/2024 00:00:16,Off,Good,Current Data,,,Sensor,True
+2015,Chatter_Site,18/04/2024 00:00:08,In Operation,Good,Current Data,,,Sensor,True
+2016,Chatter_Site,18/04/2024 00:00:03,Off,Good,Current Data,,,Sensor,True
+2017,Chatter_Site,18/04/2024 00:00:00,In Operation,Good,Current Data,,,Sensor,True
+2018,Chatter_Site,18/04/2024 00:00:17,Off,Good,Current Data,,,Sensor,True
+2019,Chatter_Site,18/04/2024 00:00:28,In Operation,Good,Current Data,,,Sensor,True
+2020,Chatter_Site,18/04/2024 00:00:14,Off,Good,Current Data,,,Sensor,True
+2021,Chatter_Site,18/04/2024 00:00:12,In Operation,Good,Current Data,,,Sensor,True
+2022,Chatter_Site,18/04/2024 00:00:17,Off,Good,Current Data,,,Sensor,True
+2023,Chatter_Site,18/04/2024 00:00:22,In Operation,Good,Current Data,,,Sensor,True
+2024,Chatter_Site,19/04/2024 00:00:03,In Operation,Good,Current Data,,,Sensor,False
+2025,Chatter_Site,19/04/2024 00:00:29,Off,Good,Current Data,,,Sensor,True
+2026,Chatter_Site,19/04/2024 00:00:06,In Operation,Good,Current Data,,,Sensor,True
+2027,Chatter_Site,19/04/2024 00:00:17,Off,Good,Current Data,,,Sensor,True
+2028,Chatter_Site,19/04/2024 00:00:17,In Operation,Good,Current Data,,,Sensor,True
+2029,Chatter_Site,19/04/2024 00:00:16,Off,Good,Current Data,,,Sensor,True
+2030,Chatter_Site,19/04/2024 00:00:02,In Operation,Good,Current Data,,,Sensor,True
+2031,Chatter_Site,19/04/2024 00:00:23,Off,Good,Current Data,,,Sensor,True
+2032,Chatter_Site,19/04/2024 00:00:15,In Operation,Good,Current Data,,,Sensor,True
+2033,Chatter_Site,19/04/2024 00:00:17,Off,Good,Current Data,,,Sensor,True
+2034,Chatter_Site,20/04/2024 00:00:08,Off,Good,Current Data,,,Sensor,False
+2035,Chatter_Site,20/04/2024 00:00:06,In Operation,Good,Current Data,,,Sensor,True
+2036,Chatter_Site,20/04/2024 00:00:12,Off,Good,Current Data,,,Sensor,True
+2037,Chatter_Site,20/04/2024 00:00:18,In Operation,Good,Current Data,,,Sensor,True
+2038,Chatter_Site,20/04/2024 00:00:11,Off,Good,Current Data,,,Sensor,True
+2039,Chatter_Site,20/04/2024 00:00:00,In Operation,Good,Current Data,,,Sensor,True
+2040,Chatter_Site,21/04/2024 00:00:28,In Operation,Good,Current Data,,,Sensor,False
+2041,Chatter_Site,21/04/2024 00:00:00,Off,Good,Current Data,,,Sensor,True
+2042,Chatter_Site,21/04/2024 00:00:14,In Operation,Good,Current Data,,,Sensor,True
+2043,Chatter_Site,21/04/2024 00:00:19,Off,Good,Current Data,,,Sensor,True
+2044,Chatter_Site,21/04/2024 00:00:03,In Operation,Good,Current Data,,,Sensor,True
+2045,Chatter_Site,21/04/2024 00:00:28,Off,Good,Current Data,,,Sensor,True
+2046,Chatter_Site,21/04/2024 00:00:03,In Operation,Good,Current Data,,,Sensor,True
+2047,Chatter_Site,21/04/2024 00:00:05,Off,Good,Current Data,,,Sensor,True
+2048,Chatter_Site,21/04/2024 00:00:03,In Operation,Good,Current Data,,,Sensor,True
+2049,Chatter_Site,21/04/2024 00:00:26,Off,Good,Current Data,,,Sensor,True
+2050,Chatter_Site,21/04/2024 00:00:11,In Operation,Good,Current Data,,,Sensor,True
+2051,Chatter_Site,21/04/2024 00:00:30,Off,Good,Current Data,,,Sensor,True
+2052,Chatter_Site,21/04/2024 00:00:09,In Operation,Good,Current Data,,,Sensor,True
+2053,Chatter_Site,21/04/2024 00:00:21,Off,Good,Current Data,,,Sensor,True
+2054,Chatter_Site,21/04/2024 00:00:14,In Operation,Good,Current Data,,,Sensor,True
+2055,Chatter_Site,22/04/2024 00:00:23,In Operation,Good,Current Data,,,Sensor,False
+2056,Chatter_Site,22/04/2024 00:00:26,Off,Good,Current Data,,,Sensor,True
+2057,Chatter_Site,22/04/2024 00:00:11,In Operation,Good,Current Data,,,Sensor,True
+2058,Chatter_Site,22/04/2024 00:00:09,Off,Good,Current Data,,,Sensor,True
+2059,Chatter_Site,22/04/2024 00:00:09,In Operation,Good,Current Data,,,Sensor,True
+2060,Chatter_Site,22/04/2024 00:00:14,Off,Good,Current Data,,,Sensor,True
+2061,Chatter_Site,23/04/2024 00:00:21,In Operation,Good,Current Data,,,Sensor,False
+2062,Chatter_Site,23/04/2024 00:00:03,Off,Good,Current Data,,,Sensor,True
+2063,Chatter_Site,23/04/2024 00:00:25,In Operation,Good,Current Data,,,Sensor,True
+2064,Chatter_Site,23/04/2024 00:00:07,Off,Good,Current Data,,,Sensor,True
+2065,Chatter_Site,23/04/2024 00:00:29,In Operation,Good,Current Data,,,Sensor,True
+2066,Chatter_Site,23/04/2024 00:00:06,Off,Good,Current Data,,,Sensor,True
+2067,Chatter_Site,23/04/2024 00:00:13,In Operation,Good,Current Data,,,Sensor,True
+2068,Chatter_Site,23/04/2024 00:00:23,Off,Good,Current Data,,,Sensor,True
+2069,Chatter_Site,23/04/2024 00:00:04,In Operation,Good,Current Data,,,Sensor,True
+2070,Chatter_Site,23/04/2024 00:00:26,Off,Good,Current Data,,,Sensor,True
+2071,Chatter_Site,23/04/2024 00:00:15,In Operation,Good,Current Data,,,Sensor,True
+2072,Chatter_Site,24/04/2024 00:00:16,Off,Good,Current Data,,,Sensor,False
+2073,Chatter_Site,24/04/2024 00:00:10,In Operation,Good,Current Data,,,Sensor,True
+2074,Chatter_Site,24/04/2024 00:00:22,Off,Good,Current Data,,,Sensor,True
+2075,Chatter_Site,24/04/2024 00:00:01,In Operation,Good,Current Data,,,Sensor,True
+2076,Chatter_Site,24/04/2024 00:00:17,Off,Good,Current Data,,,Sensor,True
+2077,Chatter_Site,24/04/2024 00:00:23,In Operation,Good,Current Data,,,Sensor,True
+2078,Chatter_Site,24/04/2024 00:00:28,Off,Good,Current Data,,,Sensor,True
+2079,Chatter_Site,24/04/2024 00:00:05,In Operation,Good,Current Data,,,Sensor,True
+2080,Chatter_Site,24/04/2024 00:00:12,Off,Good,Current Data,,,Sensor,True
+2081,Chatter_Site,24/04/2024 00:00:04,In Operation,Good,Current Data,,,Sensor,True
+2082,Chatter_Site,24/04/2024 00:00:17,Off,Good,Current Data,,,Sensor,True
+2083,Chatter_Site,25/04/2024 00:00:26,Off,Good,Current Data,,,Sensor,False
+2084,Chatter_Site,25/04/2024 00:00:26,In Operation,Good,Current Data,,,Sensor,True
+2085,Chatter_Site,25/04/2024 00:00:00,Off,Good,Current Data,,,Sensor,True
+2086,Chatter_Site,25/04/2024 00:00:12,In Operation,Good,Current Data,,,Sensor,True
+2087,Chatter_Site,25/04/2024 00:00:18,Off,Good,Current Data,,,Sensor,True
+2088,Chatter_Site,25/04/2024 00:00:07,In Operation,Good,Current Data,,,Sensor,True
+2089,Chatter_Site,25/04/2024 00:00:16,Off,Good,Current Data,,,Sensor,True
+2090,Chatter_Site,25/04/2024 00:00:12,In Operation,Good,Current Data,,,Sensor,True
+2091,Chatter_Site,25/04/2024 00:00:17,Off,Good,Current Data,,,Sensor,True
+2092,Chatter_Site,25/04/2024 00:00:22,In Operation,Good,Current Data,,,Sensor,True
+2093,Chatter_Site,25/04/2024 00:00:14,Off,Good,Current Data,,,Sensor,True
+2094,Chatter_Site,25/04/2024 00:00:11,In Operation,Good,Current Data,,,Sensor,True
+2095,Chatter_Site,26/04/2024 00:00:18,Off,Good,Current Data,,,Sensor,False
+2096,Chatter_Site,26/04/2024 00:00:24,In Operation,Good,Current Data,,,Sensor,True
+2097,Chatter_Site,26/04/2024 00:00:16,Off,Good,Current Data,,,Sensor,True
+2098,Chatter_Site,26/04/2024 00:00:21,In Operation,Good,Current Data,,,Sensor,True
+2099,Chatter_Site,26/04/2024 00:00:27,Off,Good,Current Data,,,Sensor,True
+2100,Chatter_Site,26/04/2024 00:00:10,In Operation,Good,Current Data,,,Sensor,True
+2101,Chatter_Site,26/04/2024 00:00:22,Off,Good,Current Data,,,Sensor,True
+2102,Chatter_Site,26/04/2024 00:00:19,In Operation,Good,Current Data,,,Sensor,True
+2103,Chatter_Site,26/04/2024 00:00:19,Off,Good,Current Data,,,Sensor,True
+2104,Chatter_Site,26/04/2024 00:00:16,In Operation,Good,Current Data,,,Sensor,True
+2105,Chatter_Site,26/04/2024 00:00:01,Off,Good,Current Data,,,Sensor,True
+2106,Chatter_Site,26/04/2024 00:00:15,In Operation,Good,Current Data,,,Sensor,True
+2107,Chatter_Site,26/04/2024 00:00:05,Off,Good,Current Data,,,Sensor,True
+2108,Chatter_Site,27/04/2024 00:00:24,Off,Good,Current Data,,,Sensor,False
+2109,Chatter_Site,27/04/2024 00:00:05,In Operation,Good,Current Data,,,Sensor,True
+2110,Chatter_Site,27/04/2024 00:00:16,Off,Good,Current Data,,,Sensor,True
+2111,Chatter_Site,27/04/2024 00:00:08,In Operation,Good,Current Data,,,Sensor,True
+2112,Chatter_Site,27/04/2024 00:00:22,Off,Good,Current Data,,,Sensor,True
+2113,Chatter_Site,27/04/2024 00:00:10,In Operation,Good,Current Data,,,Sensor,True
+2114,Chatter_Site,27/04/2024 00:00:05,Off,Good,Current Data,,,Sensor,True
+2115,Chatter_Site,27/04/2024 00:00:29,In Operation,Good,Current Data,,,Sensor,True
+2116,Chatter_Site,27/04/2024 00:00:28,Off,Good,Current Data,,,Sensor,True
+2117,Chatter_Site,28/04/2024 00:00:28,In Operation,Good,Current Data,,,Sensor,False
+2118,Chatter_Site,28/04/2024 00:00:05,Off,Good,Current Data,,,Sensor,True
+2119,Chatter_Site,28/04/2024 00:00:14,In Operation,Good,Current Data,,,Sensor,True
+2120,Chatter_Site,28/04/2024 00:00:21,Off,Good,Current Data,,,Sensor,True
+2121,Chatter_Site,28/04/2024 00:00:17,In Operation,Good,Current Data,,,Sensor,True
+2122,Chatter_Site,28/04/2024 00:00:28,Off,Good,Current Data,,,Sensor,True
+2123,Chatter_Site,28/04/2024 00:00:14,In Operation,Good,Current Data,,,Sensor,True
+2124,Chatter_Site,28/04/2024 00:00:15,Off,Good,Current Data,,,Sensor,True
+2125,Chatter_Site,28/04/2024 00:00:05,In Operation,Good,Current Data,,,Sensor,True
+2126,Chatter_Site,28/04/2024 00:00:24,Off,Good,Current Data,,,Sensor,True
+2127,Chatter_Site,28/04/2024 00:00:27,In Operation,Good,Current Data,,,Sensor,True
+2128,Chatter_Site,28/04/2024 00:00:01,Off,Good,Current Data,,,Sensor,True
+2129,Chatter_Site,28/04/2024 00:00:11,In Operation,Good,Current Data,,,Sensor,True
+2130,Chatter_Site,28/04/2024 00:00:05,Off,Good,Current Data,,,Sensor,True
+2131,Chatter_Site,29/04/2024 00:00:11,Off,Good,Current Data,,,Sensor,False
+2132,Chatter_Site,29/04/2024 00:00:14,In Operation,Good,Current Data,,,Sensor,True
+2133,Chatter_Site,29/04/2024 00:00:09,Off,Good,Current Data,,,Sensor,True
+2134,Chatter_Site,29/04/2024 00:00:10,In Operation,Good,Current Data,,,Sensor,True
+2135,Chatter_Site,29/04/2024 00:00:06,Off,Good,Current Data,,,Sensor,True
+2136,Chatter_Site,29/04/2024 00:00:12,In Operation,Good,Current Data,,,Sensor,True
+2137,Chatter_Site,29/04/2024 00:00:21,Off,Good,Current Data,,,Sensor,True
+2138,Chatter_Site,29/04/2024 00:00:28,In Operation,Good,Current Data,,,Sensor,True
+2139,Chatter_Site,29/04/2024 00:00:12,Off,Good,Current Data,,,Sensor,True
+2140,Chatter_Site,30/04/2024 00:00:30,Off,Good,Current Data,,,Sensor,False
+2141,Chatter_Site,30/04/2024 00:00:30,In Operation,Good,Current Data,,,Sensor,True
+2142,Chatter_Site,30/04/2024 00:00:29,Off,Good,Current Data,,,Sensor,True
+2143,Chatter_Site,30/04/2024 00:00:16,In Operation,Good,Current Data,,,Sensor,True
+2144,Chatter_Site,30/04/2024 00:00:22,Off,Good,Current Data,,,Sensor,True
+2145,Chatter_Site,30/04/2024 00:00:03,In Operation,Good,Current Data,,,Sensor,True
+2146,Chatter_Site,30/04/2024 00:00:28,Off,Good,Current Data,,,Sensor,True
+2147,Chatter_Site,30/04/2024 00:00:14,In Operation,Good,Current Data,,,Sensor,True
+2148,Chatter_Site,30/04/2024 00:00:24,Off,Good,Current Data,,,Sensor,True
+2149,Chatter_Site,30/04/2024 00:00:23,In Operation,Good,Current Data,,,Sensor,True
+2150,Chatter_Site,30/04/2024 00:00:07,Off,Good,Current Data,,,Sensor,True
+2151,Chatter_Site,01/05/2024 00:00:01,In Operation,Good,Current Data,,,Sensor,False
+2152,Chatter_Site,01/05/2024 00:00:25,Off,Good,Current Data,,,Sensor,True
+2153,Chatter_Site,01/05/2024 00:00:14,In Operation,Good,Current Data,,,Sensor,True
+2154,Chatter_Site,01/05/2024 00:00:25,Off,Good,Current Data,,,Sensor,True
+2155,Chatter_Site,01/05/2024 00:00:25,In Operation,Good,Current Data,,,Sensor,True
+2156,Chatter_Site,01/05/2024 00:00:23,Off,Good,Current Data,,,Sensor,True
+2157,Chatter_Site,01/05/2024 00:00:08,In Operation,Good,Current Data,,,Sensor,True
+2158,Chatter_Site,01/05/2024 00:00:13,Off,Good,Current Data,,,Sensor,True
+2159,Chatter_Site,01/05/2024 00:00:27,In Operation,Good,Current Data,,,Sensor,True
+2160,Chatter_Site,01/05/2024 00:00:07,Off,Good,Current Data,,,Sensor,True
+2161,Chatter_Site,02/05/2024 00:00:17,In Operation,Good,Current Data,,,Sensor,False
+2162,Chatter_Site,02/05/2024 00:00:10,Off,Good,Current Data,,,Sensor,True
+2163,Chatter_Site,02/05/2024 00:00:11,In Operation,Good,Current Data,,,Sensor,True
+2164,Chatter_Site,02/05/2024 00:00:12,Off,Good,Current Data,,,Sensor,True
+2165,Chatter_Site,02/05/2024 00:00:27,In Operation,Good,Current Data,,,Sensor,True
+2166,Chatter_Site,02/05/2024 00:00:10,Off,Good,Current Data,,,Sensor,True
+2167,Chatter_Site,02/05/2024 00:00:06,In Operation,Good,Current Data,,,Sensor,True
+2168,Chatter_Site,03/05/2024 00:00:26,Off,Good,Current Data,,,Sensor,False
+2169,Chatter_Site,03/05/2024 00:00:01,In Operation,Good,Current Data,,,Sensor,True
+2170,Chatter_Site,03/05/2024 00:00:11,Off,Good,Current Data,,,Sensor,True
+2171,Chatter_Site,03/05/2024 00:00:08,In Operation,Good,Current Data,,,Sensor,True
+2172,Chatter_Site,03/05/2024 00:00:00,Off,Good,Current Data,,,Sensor,True
+2173,Chatter_Site,03/05/2024 00:00:15,In Operation,Good,Current Data,,,Sensor,True
+2174,Chatter_Site,03/05/2024 00:00:20,Off,Good,Current Data,,,Sensor,True
+2175,Chatter_Site,03/05/2024 00:00:05,In Operation,Good,Current Data,,,Sensor,True
+2176,Chatter_Site,03/05/2024 00:00:30,Off,Good,Current Data,,,Sensor,True
+2177,Chatter_Site,03/05/2024 00:00:26,In Operation,Good,Current Data,,,Sensor,True
+2178,Chatter_Site,03/05/2024 00:00:12,Off,Good,Current Data,,,Sensor,True
+2179,Chatter_Site,04/05/2024 00:00:06,In Operation,Good,Current Data,,,Sensor,False
+2180,Chatter_Site,04/05/2024 00:00:20,Off,Good,Current Data,,,Sensor,True
+2181,Chatter_Site,04/05/2024 00:00:17,In Operation,Good,Current Data,,,Sensor,True
+2182,Chatter_Site,04/05/2024 00:00:04,Off,Good,Current Data,,,Sensor,True
+2183,Chatter_Site,04/05/2024 00:00:15,In Operation,Good,Current Data,,,Sensor,True
+2184,Chatter_Site,04/05/2024 00:00:14,Off,Good,Current Data,,,Sensor,True
+2185,Chatter_Site,04/05/2024 00:00:17,In Operation,Good,Current Data,,,Sensor,True
+2186,Chatter_Site,04/05/2024 00:00:05,Off,Good,Current Data,,,Sensor,True
+2187,Chatter_Site,04/05/2024 00:00:02,In Operation,Good,Current Data,,,Sensor,True
+2188,Chatter_Site,04/05/2024 00:00:30,Off,Good,Current Data,,,Sensor,True
+2189,Chatter_Site,04/05/2024 00:00:26,In Operation,Good,Current Data,,,Sensor,True
+2190,Chatter_Site,04/05/2024 00:00:27,Off,Good,Current Data,,,Sensor,True
+2191,Chatter_Site,05/05/2024 00:00:04,Off,Good,Current Data,,,Sensor,False
+2192,Chatter_Site,05/05/2024 00:00:26,In Operation,Good,Current Data,,,Sensor,True
+2193,Chatter_Site,05/05/2024 00:00:11,Off,Good,Current Data,,,Sensor,True
+2194,Chatter_Site,05/05/2024 00:00:21,In Operation,Good,Current Data,,,Sensor,True
+2195,Chatter_Site,05/05/2024 00:00:01,Off,Good,Current Data,,,Sensor,True
+2196,Chatter_Site,05/05/2024 00:00:23,In Operation,Good,Current Data,,,Sensor,True
+2197,Chatter_Site,05/05/2024 00:00:12,Off,Good,Current Data,,,Sensor,True
+2198,Chatter_Site,05/05/2024 00:00:24,In Operation,Good,Current Data,,,Sensor,True
+2199,Chatter_Site,05/05/2024 00:00:28,Off,Good,Current Data,,,Sensor,True
+2200,Chatter_Site,05/05/2024 00:00:05,In Operation,Good,Current Data,,,Sensor,True
+2201,Chatter_Site,05/05/2024 00:00:24,Off,Good,Current Data,,,Sensor,True
+2202,Chatter_Site,05/05/2024 00:00:26,In Operation,Good,Current Data,,,Sensor,True
+2203,Chatter_Site,06/05/2024 00:00:06,In Operation,Good,Current Data,,,Sensor,False
+2204,Chatter_Site,06/05/2024 00:00:26,Off,Good,Current Data,,,Sensor,True
+2205,Chatter_Site,06/05/2024 00:00:17,In Operation,Good,Current Data,,,Sensor,True
+2206,Chatter_Site,06/05/2024 00:00:10,Off,Good,Current Data,,,Sensor,True
+2207,Chatter_Site,06/05/2024 00:00:00,In Operation,Good,Current Data,,,Sensor,True
+2208,Chatter_Site,06/05/2024 00:00:07,Off,Good,Current Data,,,Sensor,True
+2209,Chatter_Site,06/05/2024 00:00:00,In Operation,Good,Current Data,,,Sensor,True
+2210,Chatter_Site,06/05/2024 00:00:06,Off,Good,Current Data,,,Sensor,True
+2211,Chatter_Site,06/05/2024 00:00:03,In Operation,Good,Current Data,,,Sensor,True
+2212,Chatter_Site,06/05/2024 00:00:27,Off,Good,Current Data,,,Sensor,True
+2213,Chatter_Site,06/05/2024 00:00:20,In Operation,Good,Current Data,,,Sensor,True
+2214,Chatter_Site,06/05/2024 00:00:19,Off,Good,Current Data,,,Sensor,True
+2215,Chatter_Site,06/05/2024 00:00:20,In Operation,Good,Current Data,,,Sensor,True
+2216,Chatter_Site,06/05/2024 00:00:20,Off,Good,Current Data,,,Sensor,True
+2217,Chatter_Site,06/05/2024 00:00:29,In Operation,Good,Current Data,,,Sensor,True
+2218,Chatter_Site,07/05/2024 00:00:23,Off,Good,Current Data,,,Sensor,False
+2219,Chatter_Site,07/05/2024 00:00:02,In Operation,Good,Current Data,,,Sensor,True
+2220,Chatter_Site,07/05/2024 00:00:09,Off,Good,Current Data,,,Sensor,True
+2221,Chatter_Site,07/05/2024 00:00:02,In Operation,Good,Current Data,,,Sensor,True
+2222,Chatter_Site,07/05/2024 00:00:22,Off,Good,Current Data,,,Sensor,True
+2223,Chatter_Site,07/05/2024 00:00:10,In Operation,Good,Current Data,,,Sensor,True
+2224,Chatter_Site,07/05/2024 00:00:17,Off,Good,Current Data,,,Sensor,True
+2225,Chatter_Site,07/05/2024 00:00:12,In Operation,Good,Current Data,,,Sensor,True
+2226,Chatter_Site,07/05/2024 00:00:18,Off,Good,Current Data,,,Sensor,True
+2227,Chatter_Site,07/05/2024 00:00:06,In Operation,Good,Current Data,,,Sensor,True
+2228,Chatter_Site,07/05/2024 00:00:02,Off,Good,Current Data,,,Sensor,True
+2229,Chatter_Site,07/05/2024 00:00:10,In Operation,Good,Current Data,,,Sensor,True
+2230,Chatter_Site,07/05/2024 00:00:10,Off,Good,Current Data,,,Sensor,True
+2231,Chatter_Site,07/05/2024 00:00:14,In Operation,Good,Current Data,,,Sensor,True
+2232,Chatter_Site,07/05/2024 00:00:17,Off,Good,Current Data,,,Sensor,True
+2233,Chatter_Site,08/05/2024 00:00:16,In Operation,Good,Current Data,,,Sensor,False
+2234,Chatter_Site,08/05/2024 00:00:28,Off,Good,Current Data,,,Sensor,True
+2235,Chatter_Site,08/05/2024 00:00:04,In Operation,Good,Current Data,,,Sensor,True
+2236,Chatter_Site,08/05/2024 00:00:25,Off,Good,Current Data,,,Sensor,True
+2237,Chatter_Site,08/05/2024 00:00:13,In Operation,Good,Current Data,,,Sensor,True
+2238,Chatter_Site,08/05/2024 00:00:11,Off,Good,Current Data,,,Sensor,True
+2239,Chatter_Site,08/05/2024 00:00:26,In Operation,Good,Current Data,,,Sensor,True
+2240,Chatter_Site,08/05/2024 00:00:14,Off,Good,Current Data,,,Sensor,True
+2241,Chatter_Site,08/05/2024 00:00:24,In Operation,Good,Current Data,,,Sensor,True
+2242,Chatter_Site,08/05/2024 00:00:28,Off,Good,Current Data,,,Sensor,True
+2243,Chatter_Site,09/05/2024 00:00:09,In Operation,Good,Current Data,,,Sensor,False
+2244,Chatter_Site,09/05/2024 00:00:13,Off,Good,Current Data,,,Sensor,True
+2245,Chatter_Site,09/05/2024 00:00:07,In Operation,Good,Current Data,,,Sensor,True
+2246,Chatter_Site,09/05/2024 00:00:20,Off,Good,Current Data,,,Sensor,True
+2247,Chatter_Site,09/05/2024 00:00:10,In Operation,Good,Current Data,,,Sensor,True
+2248,Chatter_Site,09/05/2024 00:00:06,Off,Good,Current Data,,,Sensor,True
+2249,Chatter_Site,09/05/2024 00:00:01,In Operation,Good,Current Data,,,Sensor,True
+2250,Chatter_Site,09/05/2024 00:00:11,Off,Good,Current Data,,,Sensor,True
+2251,Chatter_Site,09/05/2024 00:00:29,In Operation,Good,Current Data,,,Sensor,True
+2252,Chatter_Site,09/05/2024 00:00:21,Off,Good,Current Data,,,Sensor,True
+2253,Chatter_Site,10/05/2024 00:00:26,In Operation,Good,Current Data,,,Sensor,False
+2254,Chatter_Site,10/05/2024 00:00:05,Off,Good,Current Data,,,Sensor,True
+2255,Chatter_Site,10/05/2024 00:00:27,In Operation,Good,Current Data,,,Sensor,True
+2256,Chatter_Site,10/05/2024 00:00:25,Off,Good,Current Data,,,Sensor,True
+2257,Chatter_Site,10/05/2024 00:00:26,In Operation,Good,Current Data,,,Sensor,True
+2258,Chatter_Site,10/05/2024 00:00:10,Off,Good,Current Data,,,Sensor,True
+2259,Chatter_Site,10/05/2024 00:00:03,In Operation,Good,Current Data,,,Sensor,True
+2260,Chatter_Site,10/05/2024 00:00:24,Off,Good,Current Data,,,Sensor,True
+2261,Chatter_Site,10/05/2024 00:00:07,In Operation,Good,Current Data,,,Sensor,True
+2262,Chatter_Site,10/05/2024 00:00:22,Off,Good,Current Data,,,Sensor,True
+2263,Chatter_Site,10/05/2024 00:00:08,In Operation,Good,Current Data,,,Sensor,True
+2264,Chatter_Site,10/05/2024 00:00:20,Off,Good,Current Data,,,Sensor,True
+2265,Chatter_Site,10/05/2024 00:00:26,In Operation,Good,Current Data,,,Sensor,True
+2266,Chatter_Site,11/05/2024 00:00:10,In Operation,Good,Current Data,,,Sensor,False
+2267,Chatter_Site,11/05/2024 00:00:27,Off,Good,Current Data,,,Sensor,True
+2268,Chatter_Site,11/05/2024 00:00:03,In Operation,Good,Current Data,,,Sensor,True
+2269,Chatter_Site,11/05/2024 00:00:27,Off,Good,Current Data,,,Sensor,True
+2270,Chatter_Site,11/05/2024 00:00:25,In Operation,Good,Current Data,,,Sensor,True
+2271,Chatter_Site,11/05/2024 00:00:16,Off,Good,Current Data,,,Sensor,True
+2272,Chatter_Site,11/05/2024 00:00:21,In Operation,Good,Current Data,,,Sensor,True
+2273,Chatter_Site,11/05/2024 00:00:20,Off,Good,Current Data,,,Sensor,True
+2274,Chatter_Site,11/05/2024 00:00:22,In Operation,Good,Current Data,,,Sensor,True
+2275,Chatter_Site,11/05/2024 00:00:12,Off,Good,Current Data,,,Sensor,True
+2276,Chatter_Site,11/05/2024 00:00:06,In Operation,Good,Current Data,,,Sensor,True
+2277,Chatter_Site,11/05/2024 00:00:02,Off,Good,Current Data,,,Sensor,True
+2278,Chatter_Site,11/05/2024 00:00:21,In Operation,Good,Current Data,,,Sensor,True
+2279,Chatter_Site,12/05/2024 00:00:07,Off,Good,Current Data,,,Sensor,False
+2280,Chatter_Site,12/05/2024 00:00:13,In Operation,Good,Current Data,,,Sensor,True
+2281,Chatter_Site,12/05/2024 00:00:02,Off,Good,Current Data,,,Sensor,True
+2282,Chatter_Site,12/05/2024 00:00:20,In Operation,Good,Current Data,,,Sensor,True
+2283,Chatter_Site,12/05/2024 00:00:04,Off,Good,Current Data,,,Sensor,True
+2284,Chatter_Site,12/05/2024 00:00:22,In Operation,Good,Current Data,,,Sensor,True
+2285,Chatter_Site,12/05/2024 00:00:07,Off,Good,Current Data,,,Sensor,True
+2286,Chatter_Site,12/05/2024 00:00:07,In Operation,Good,Current Data,,,Sensor,True
+2287,Chatter_Site,12/05/2024 00:00:27,Off,Good,Current Data,,,Sensor,True
+2288,Chatter_Site,12/05/2024 00:00:16,In Operation,Good,Current Data,,,Sensor,True
+2289,Chatter_Site,12/05/2024 00:00:18,Off,Good,Current Data,,,Sensor,True
+2290,Chatter_Site,12/05/2024 00:00:03,In Operation,Good,Current Data,,,Sensor,True
+2291,Chatter_Site,12/05/2024 00:00:19,Off,Good,Current Data,,,Sensor,True
+2292,Chatter_Site,12/05/2024 00:00:15,In Operation,Good,Current Data,,,Sensor,True
+2293,Chatter_Site,13/05/2024 00:00:29,In Operation,Good,Current Data,,,Sensor,False
+2294,Chatter_Site,13/05/2024 00:00:25,Off,Good,Current Data,,,Sensor,True
+2295,Chatter_Site,13/05/2024 00:00:12,In Operation,Good,Current Data,,,Sensor,True
+2296,Chatter_Site,13/05/2024 00:00:30,Off,Good,Current Data,,,Sensor,True
+2297,Chatter_Site,13/05/2024 00:00:12,In Operation,Good,Current Data,,,Sensor,True
+2298,Chatter_Site,14/05/2024 00:00:18,In Operation,Good,Current Data,,,Sensor,False
+2299,Chatter_Site,14/05/2024 00:00:17,Off,Good,Current Data,,,Sensor,True
+2300,Chatter_Site,14/05/2024 00:00:25,In Operation,Good,Current Data,,,Sensor,True
+2301,Chatter_Site,14/05/2024 00:00:29,Off,Good,Current Data,,,Sensor,True
+2302,Chatter_Site,14/05/2024 00:00:13,In Operation,Good,Current Data,,,Sensor,True
+2303,Chatter_Site,14/05/2024 00:00:19,Off,Good,Current Data,,,Sensor,True
+2304,Chatter_Site,14/05/2024 00:00:05,In Operation,Good,Current Data,,,Sensor,True
+2305,Chatter_Site,14/05/2024 00:00:03,Off,Good,Current Data,,,Sensor,True
+2306,Chatter_Site,14/05/2024 00:00:09,In Operation,Good,Current Data,,,Sensor,True
+2307,Chatter_Site,14/05/2024 00:00:23,Off,Good,Current Data,,,Sensor,True
+2308,Chatter_Site,14/05/2024 00:00:04,In Operation,Good,Current Data,,,Sensor,True
+2309,Chatter_Site,14/05/2024 00:00:27,Off,Good,Current Data,,,Sensor,True
+2310,Chatter_Site,14/05/2024 00:00:01,In Operation,Good,Current Data,,,Sensor,True
+2311,Chatter_Site,14/05/2024 00:00:09,Off,Good,Current Data,,,Sensor,True
+2312,Chatter_Site,15/05/2024 00:00:04,Off,Good,Current Data,,,Sensor,False
+2313,Chatter_Site,15/05/2024 00:00:17,In Operation,Good,Current Data,,,Sensor,True
+2314,Chatter_Site,15/05/2024 00:00:23,Off,Good,Current Data,,,Sensor,True
+2315,Chatter_Site,15/05/2024 00:00:24,In Operation,Good,Current Data,,,Sensor,True
+2316,Chatter_Site,15/05/2024 00:00:20,Off,Good,Current Data,,,Sensor,True
+2317,Chatter_Site,15/05/2024 00:00:09,In Operation,Good,Current Data,,,Sensor,True
+2318,Chatter_Site,15/05/2024 00:00:09,Off,Good,Current Data,,,Sensor,True
+2319,Chatter_Site,15/05/2024 00:00:25,In Operation,Good,Current Data,,,Sensor,True
+2320,Chatter_Site,15/05/2024 00:00:24,Off,Good,Current Data,,,Sensor,True
+2321,Chatter_Site,15/05/2024 00:00:04,In Operation,Good,Current Data,,,Sensor,True
+2322,Chatter_Site,15/05/2024 00:00:11,Off,Good,Current Data,,,Sensor,True
+2323,Chatter_Site,15/05/2024 00:00:04,In Operation,Good,Current Data,,,Sensor,True
+2324,Chatter_Site,15/05/2024 00:00:28,Off,Good,Current Data,,,Sensor,True
+2325,Chatter_Site,15/05/2024 00:00:16,In Operation,Good,Current Data,,,Sensor,True
+2326,Chatter_Site,15/05/2024 00:00:07,Off,Good,Current Data,,,Sensor,True
+2327,Chatter_Site,16/05/2024 00:00:14,Off,Good,Current Data,,,Sensor,False
+2328,Chatter_Site,16/05/2024 00:00:16,In Operation,Good,Current Data,,,Sensor,True
+2329,Chatter_Site,16/05/2024 00:00:26,Off,Good,Current Data,,,Sensor,True
+2330,Chatter_Site,16/05/2024 00:00:26,In Operation,Good,Current Data,,,Sensor,True
+2331,Chatter_Site,16/05/2024 00:00:06,Off,Good,Current Data,,,Sensor,True
+2332,Chatter_Site,16/05/2024 00:00:01,In Operation,Good,Current Data,,,Sensor,True
+2333,Chatter_Site,16/05/2024 00:00:08,Off,Good,Current Data,,,Sensor,True
+2334,Chatter_Site,17/05/2024 00:00:00,In Operation,Good,Current Data,,,Sensor,False
+2335,Chatter_Site,17/05/2024 00:00:10,Off,Good,Current Data,,,Sensor,True
+2336,Chatter_Site,17/05/2024 00:00:25,In Operation,Good,Current Data,,,Sensor,True
+2337,Chatter_Site,17/05/2024 00:00:13,Off,Good,Current Data,,,Sensor,True
+2338,Chatter_Site,17/05/2024 00:00:18,In Operation,Good,Current Data,,,Sensor,True
+2339,Chatter_Site,17/05/2024 00:00:28,Off,Good,Current Data,,,Sensor,True
+2340,Chatter_Site,17/05/2024 00:00:22,In Operation,Good,Current Data,,,Sensor,True
+2341,Chatter_Site,18/05/2024 00:00:22,Off,Good,Current Data,,,Sensor,False
+2342,Chatter_Site,18/05/2024 00:00:14,In Operation,Good,Current Data,,,Sensor,True
+2343,Chatter_Site,18/05/2024 00:00:28,Off,Good,Current Data,,,Sensor,True
+2344,Chatter_Site,18/05/2024 00:00:12,In Operation,Good,Current Data,,,Sensor,True
+2345,Chatter_Site,18/05/2024 00:00:30,Off,Good,Current Data,,,Sensor,True
+2346,Chatter_Site,18/05/2024 00:00:03,In Operation,Good,Current Data,,,Sensor,True
+2347,Chatter_Site,18/05/2024 00:00:25,Off,Good,Current Data,,,Sensor,True
+2348,Chatter_Site,18/05/2024 00:00:26,In Operation,Good,Current Data,,,Sensor,True
+2349,Chatter_Site,18/05/2024 00:00:12,Off,Good,Current Data,,,Sensor,True
+2350,Chatter_Site,18/05/2024 00:00:18,In Operation,Good,Current Data,,,Sensor,True
+2351,Chatter_Site,18/05/2024 00:00:21,Off,Good,Current Data,,,Sensor,True
+2352,Chatter_Site,18/05/2024 00:00:06,In Operation,Good,Current Data,,,Sensor,True
+2353,Chatter_Site,18/05/2024 00:00:20,Off,Good,Current Data,,,Sensor,True
+2354,Chatter_Site,18/05/2024 00:00:15,In Operation,Good,Current Data,,,Sensor,True
+2355,Chatter_Site,19/05/2024 00:00:03,Off,Good,Current Data,,,Sensor,False
+2356,Chatter_Site,19/05/2024 00:00:20,In Operation,Good,Current Data,,,Sensor,True
+2357,Chatter_Site,19/05/2024 00:00:03,Off,Good,Current Data,,,Sensor,True
+2358,Chatter_Site,19/05/2024 00:00:12,In Operation,Good,Current Data,,,Sensor,True
+2359,Chatter_Site,19/05/2024 00:00:09,Off,Good,Current Data,,,Sensor,True
+2360,Chatter_Site,19/05/2024 00:00:21,In Operation,Good,Current Data,,,Sensor,True
+2361,Chatter_Site,19/05/2024 00:00:09,Off,Good,Current Data,,,Sensor,True
+2362,Chatter_Site,20/05/2024 00:00:02,Off,Good,Current Data,,,Sensor,False
+2363,Chatter_Site,20/05/2024 00:00:12,In Operation,Good,Current Data,,,Sensor,True
+2364,Chatter_Site,20/05/2024 00:00:05,Off,Good,Current Data,,,Sensor,True
+2365,Chatter_Site,20/05/2024 00:00:21,In Operation,Good,Current Data,,,Sensor,True
+2366,Chatter_Site,20/05/2024 00:00:26,Off,Good,Current Data,,,Sensor,True
+2367,Chatter_Site,20/05/2024 00:00:28,In Operation,Good,Current Data,,,Sensor,True
+2368,Chatter_Site,20/05/2024 00:00:16,Off,Good,Current Data,,,Sensor,True
+2369,Chatter_Site,20/05/2024 00:00:24,In Operation,Good,Current Data,,,Sensor,True
+2370,Chatter_Site,20/05/2024 00:00:14,Off,Good,Current Data,,,Sensor,True
+2371,Chatter_Site,20/05/2024 00:00:26,In Operation,Good,Current Data,,,Sensor,True
+2372,Chatter_Site,20/05/2024 00:00:19,Off,Good,Current Data,,,Sensor,True
+2373,Chatter_Site,20/05/2024 00:00:22,In Operation,Good,Current Data,,,Sensor,True
+2374,Chatter_Site,20/05/2024 00:00:21,Off,Good,Current Data,,,Sensor,True
+2375,Chatter_Site,20/05/2024 00:00:11,In Operation,Good,Current Data,,,Sensor,True
+2376,Chatter_Site,20/05/2024 00:00:22,Off,Good,Current Data,,,Sensor,True
+2377,Chatter_Site,21/05/2024 00:00:06,In Operation,Good,Current Data,,,Sensor,False
+2378,Chatter_Site,21/05/2024 00:00:01,Off,Good,Current Data,,,Sensor,True
+2379,Chatter_Site,21/05/2024 00:00:09,In Operation,Good,Current Data,,,Sensor,True
+2380,Chatter_Site,21/05/2024 00:00:14,Off,Good,Current Data,,,Sensor,True
+2381,Chatter_Site,21/05/2024 00:00:10,In Operation,Good,Current Data,,,Sensor,True
+2382,Chatter_Site,21/05/2024 00:00:06,Off,Good,Current Data,,,Sensor,True
+2383,Chatter_Site,21/05/2024 00:00:24,In Operation,Good,Current Data,,,Sensor,True
+2384,Chatter_Site,21/05/2024 00:00:30,Off,Good,Current Data,,,Sensor,True
+2385,Chatter_Site,21/05/2024 00:00:03,In Operation,Good,Current Data,,,Sensor,True
+2386,Chatter_Site,21/05/2024 00:00:25,Off,Good,Current Data,,,Sensor,True
+2387,Chatter_Site,21/05/2024 00:00:13,In Operation,Good,Current Data,,,Sensor,True
+2388,Chatter_Site,22/05/2024 00:00:11,In Operation,Good,Current Data,,,Sensor,False
+2389,Chatter_Site,22/05/2024 00:00:06,Off,Good,Current Data,,,Sensor,True
+2390,Chatter_Site,22/05/2024 00:00:03,In Operation,Good,Current Data,,,Sensor,True
+2391,Chatter_Site,22/05/2024 00:00:06,Off,Good,Current Data,,,Sensor,True
+2392,Chatter_Site,22/05/2024 00:00:10,In Operation,Good,Current Data,,,Sensor,True
+2393,Chatter_Site,22/05/2024 00:00:00,Off,Good,Current Data,,,Sensor,True
+2394,Chatter_Site,22/05/2024 00:00:08,In Operation,Good,Current Data,,,Sensor,True
+2395,Chatter_Site,23/05/2024 00:00:30,Off,Good,Current Data,,,Sensor,False
+2396,Chatter_Site,23/05/2024 00:00:08,In Operation,Good,Current Data,,,Sensor,True
+2397,Chatter_Site,23/05/2024 00:00:21,Off,Good,Current Data,,,Sensor,True
+2398,Chatter_Site,23/05/2024 00:00:18,In Operation,Good,Current Data,,,Sensor,True
+2399,Chatter_Site,23/05/2024 00:00:16,Off,Good,Current Data,,,Sensor,True
+2400,Chatter_Site,23/05/2024 00:00:23,In Operation,Good,Current Data,,,Sensor,True
+2401,Chatter_Site,23/05/2024 00:00:17,Off,Good,Current Data,,,Sensor,True
+2402,Chatter_Site,23/05/2024 00:00:21,In Operation,Good,Current Data,,,Sensor,True
+2403,Chatter_Site,23/05/2024 00:00:15,Off,Good,Current Data,,,Sensor,True
+2404,Chatter_Site,24/05/2024 00:00:11,In Operation,Good,Current Data,,,Sensor,False
+2405,Chatter_Site,24/05/2024 00:00:14,Off,Good,Current Data,,,Sensor,True
+2406,Chatter_Site,24/05/2024 00:00:10,In Operation,Good,Current Data,,,Sensor,True
+2407,Chatter_Site,24/05/2024 00:00:04,Off,Good,Current Data,,,Sensor,True
+2408,Chatter_Site,24/05/2024 00:00:13,In Operation,Good,Current Data,,,Sensor,True
+2409,Chatter_Site,24/05/2024 00:00:20,Off,Good,Current Data,,,Sensor,True
+2410,Chatter_Site,24/05/2024 00:00:06,In Operation,Good,Current Data,,,Sensor,True
+2411,Chatter_Site,25/05/2024 00:00:25,In Operation,Good,Current Data,,,Sensor,False
+2412,Chatter_Site,25/05/2024 00:00:20,Off,Good,Current Data,,,Sensor,True
+2413,Chatter_Site,25/05/2024 00:00:19,In Operation,Good,Current Data,,,Sensor,True
+2414,Chatter_Site,25/05/2024 00:00:03,Off,Good,Current Data,,,Sensor,True
+2415,Chatter_Site,25/05/2024 00:00:02,In Operation,Good,Current Data,,,Sensor,True
+2416,Chatter_Site,25/05/2024 00:00:13,Off,Good,Current Data,,,Sensor,True
+2417,Chatter_Site,25/05/2024 00:00:10,In Operation,Good,Current Data,,,Sensor,True
+2418,Chatter_Site,25/05/2024 00:00:01,Off,Good,Current Data,,,Sensor,True
+2419,Chatter_Site,26/05/2024 00:00:22,Off,Good,Current Data,,,Sensor,False
+2420,Chatter_Site,26/05/2024 00:00:08,In Operation,Good,Current Data,,,Sensor,True
+2421,Chatter_Site,26/05/2024 00:00:11,Off,Good,Current Data,,,Sensor,True
+2422,Chatter_Site,26/05/2024 00:00:24,In Operation,Good,Current Data,,,Sensor,True
+2423,Chatter_Site,26/05/2024 00:00:24,Off,Good,Current Data,,,Sensor,True
+2424,Chatter_Site,26/05/2024 00:00:01,In Operation,Good,Current Data,,,Sensor,True
+2425,Chatter_Site,26/05/2024 00:00:22,Off,Good,Current Data,,,Sensor,True
+2426,Chatter_Site,26/05/2024 00:00:05,In Operation,Good,Current Data,,,Sensor,True
+2427,Chatter_Site,26/05/2024 00:00:30,Off,Good,Current Data,,,Sensor,True
+2428,Chatter_Site,26/05/2024 00:00:04,In Operation,Good,Current Data,,,Sensor,True
+2429,Chatter_Site,26/05/2024 00:00:22,Off,Good,Current Data,,,Sensor,True
+2430,Chatter_Site,27/05/2024 00:00:12,In Operation,Good,Current Data,,,Sensor,False
+2431,Chatter_Site,27/05/2024 00:00:22,Off,Good,Current Data,,,Sensor,True
+2432,Chatter_Site,27/05/2024 00:00:28,In Operation,Good,Current Data,,,Sensor,True
+2433,Chatter_Site,27/05/2024 00:00:06,Off,Good,Current Data,,,Sensor,True
+2434,Chatter_Site,27/05/2024 00:00:16,In Operation,Good,Current Data,,,Sensor,True
+2435,Chatter_Site,27/05/2024 00:00:23,Off,Good,Current Data,,,Sensor,True
+2436,Chatter_Site,27/05/2024 00:00:22,In Operation,Good,Current Data,,,Sensor,True
+2437,Chatter_Site,27/05/2024 00:00:17,Off,Good,Current Data,,,Sensor,True
+2438,Chatter_Site,27/05/2024 00:00:16,In Operation,Good,Current Data,,,Sensor,True
+2439,Chatter_Site,27/05/2024 00:00:26,Off,Good,Current Data,,,Sensor,True
+2440,Chatter_Site,27/05/2024 00:00:06,In Operation,Good,Current Data,,,Sensor,True
+2441,Chatter_Site,27/05/2024 00:00:18,Off,Good,Current Data,,,Sensor,True
+2442,Chatter_Site,27/05/2024 00:00:29,In Operation,Good,Current Data,,,Sensor,True
+2443,Chatter_Site,28/05/2024 00:00:19,Off,Good,Current Data,,,Sensor,False
+2444,Chatter_Site,28/05/2024 00:00:05,In Operation,Good,Current Data,,,Sensor,True
+2445,Chatter_Site,28/05/2024 00:00:26,Off,Good,Current Data,,,Sensor,True
+2446,Chatter_Site,28/05/2024 00:00:08,In Operation,Good,Current Data,,,Sensor,True
+2447,Chatter_Site,28/05/2024 00:00:07,Off,Good,Current Data,,,Sensor,True
+2448,Chatter_Site,28/05/2024 00:00:05,In Operation,Good,Current Data,,,Sensor,True
+2449,Chatter_Site,28/05/2024 00:00:09,Off,Good,Current Data,,,Sensor,True
+2450,Chatter_Site,28/05/2024 00:00:26,In Operation,Good,Current Data,,,Sensor,True
+2451,Chatter_Site,28/05/2024 00:00:09,Off,Good,Current Data,,,Sensor,True
+2452,Chatter_Site,28/05/2024 00:00:26,In Operation,Good,Current Data,,,Sensor,True
+2453,Chatter_Site,28/05/2024 00:00:02,Off,Good,Current Data,,,Sensor,True
+2454,Chatter_Site,29/05/2024 00:00:07,In Operation,Good,Current Data,,,Sensor,False
+2455,Chatter_Site,29/05/2024 00:00:18,Off,Good,Current Data,,,Sensor,True
+2456,Chatter_Site,29/05/2024 00:00:18,In Operation,Good,Current Data,,,Sensor,True
+2457,Chatter_Site,29/05/2024 00:00:20,Off,Good,Current Data,,,Sensor,True
+2458,Chatter_Site,29/05/2024 00:00:09,In Operation,Good,Current Data,,,Sensor,True
+2459,Chatter_Site,29/05/2024 00:00:16,Off,Good,Current Data,,,Sensor,True
+2460,Chatter_Site,29/05/2024 00:00:15,In Operation,Good,Current Data,,,Sensor,True
+2461,Chatter_Site,29/05/2024 00:00:29,Off,Good,Current Data,,,Sensor,True
+2462,Chatter_Site,29/05/2024 00:00:17,In Operation,Good,Current Data,,,Sensor,True
+2463,Chatter_Site,29/05/2024 00:00:23,Off,Good,Current Data,,,Sensor,True
+2464,Chatter_Site,29/05/2024 00:00:07,In Operation,Good,Current Data,,,Sensor,True
+2465,Chatter_Site,30/05/2024 00:00:21,In Operation,Good,Current Data,,,Sensor,False
+2466,Chatter_Site,30/05/2024 00:00:04,Off,Good,Current Data,,,Sensor,True
+2467,Chatter_Site,30/05/2024 00:00:22,In Operation,Good,Current Data,,,Sensor,True
+2468,Chatter_Site,30/05/2024 00:00:29,Off,Good,Current Data,,,Sensor,True
+2469,Chatter_Site,30/05/2024 00:00:19,In Operation,Good,Current Data,,,Sensor,True
+2470,Chatter_Site,30/05/2024 00:00:26,Off,Good,Current Data,,,Sensor,True
+2471,Chatter_Site,30/05/2024 00:00:14,In Operation,Good,Current Data,,,Sensor,True
+2472,Chatter_Site,30/05/2024 00:00:07,Off,Good,Current Data,,,Sensor,True
+2473,Chatter_Site,30/05/2024 00:00:28,In Operation,Good,Current Data,,,Sensor,True
+2474,Chatter_Site,31/05/2024 00:00:00,Off,Good,Current Data,,,Sensor,False
+2475,Chatter_Site,31/05/2024 00:00:26,In Operation,Good,Current Data,,,Sensor,True
+2476,Chatter_Site,31/05/2024 00:00:06,Off,Good,Current Data,,,Sensor,True
+2477,Chatter_Site,31/05/2024 00:00:29,In Operation,Good,Current Data,,,Sensor,True
+2478,Chatter_Site,31/05/2024 00:00:10,Off,Good,Current Data,,,Sensor,True
+2479,Chatter_Site,31/05/2024 00:00:30,In Operation,Good,Current Data,,,Sensor,True
+2480,Chatter_Site,31/05/2024 00:00:15,Off,Good,Current Data,,,Sensor,True
+2481,Chatter_Site,31/05/2024 00:00:25,In Operation,Good,Current Data,,,Sensor,True
+2482,Chatter_Site,31/05/2024 00:00:15,Off,Good,Current Data,,,Sensor,True
+2483,Chatter_Site,31/05/2024 00:00:29,In Operation,Good,Current Data,,,Sensor,True
+2484,Chatter_Site,31/05/2024 00:00:16,Off,Good,Current Data,,,Sensor,True
+2485,Chatter_Site,31/05/2024 00:00:21,In Operation,Good,Current Data,,,Sensor,True
+2486,Chatter_Site,31/05/2024 00:00:15,Off,Good,Current Data,,,Sensor,True
+2487,Chatter_Site,31/05/2024 00:00:03,In Operation,Good,Current Data,,,Sensor,True
+2488,Chatter_Site,01/10/2024 00:00:02,Off,Good,Current Data,,,Sensor,False
+2489,Chatter_Site,01/10/2024 00:00:12,In Operation,Good,Current Data,,,Sensor,True
+2490,Chatter_Site,01/10/2024 00:00:08,Off,Good,Current Data,,,Sensor,True
+2491,Chatter_Site,01/10/2024 00:00:03,In Operation,Good,Current Data,,,Sensor,True
+2492,Chatter_Site,01/10/2024 00:00:04,Off,Good,Current Data,,,Sensor,True
+2493,Chatter_Site,02/10/2024 00:00:13,Off,Good,Current Data,,,Sensor,False
+2494,Chatter_Site,02/10/2024 00:00:18,In Operation,Good,Current Data,,,Sensor,True
+2495,Chatter_Site,02/10/2024 00:00:20,Off,Good,Current Data,,,Sensor,True
+2496,Chatter_Site,02/10/2024 00:00:22,In Operation,Good,Current Data,,,Sensor,True
+2497,Chatter_Site,02/10/2024 00:00:01,Off,Good,Current Data,,,Sensor,True
+2498,Chatter_Site,02/10/2024 00:00:28,In Operation,Good,Current Data,,,Sensor,True
+2499,Chatter_Site,02/10/2024 00:00:04,Off,Good,Current Data,,,Sensor,True
+2500,Chatter_Site,02/10/2024 00:00:21,In Operation,Good,Current Data,,,Sensor,True
+2501,Chatter_Site,02/10/2024 00:00:16,Off,Good,Current Data,,,Sensor,True
+2502,Chatter_Site,02/10/2024 00:00:12,In Operation,Good,Current Data,,,Sensor,True
+2503,Chatter_Site,02/10/2024 00:00:10,Off,Good,Current Data,,,Sensor,True
+2504,Chatter_Site,03/10/2024 00:00:15,Off,Good,Current Data,,,Sensor,False
+2505,Chatter_Site,03/10/2024 00:00:27,In Operation,Good,Current Data,,,Sensor,True
+2506,Chatter_Site,03/10/2024 00:00:17,Off,Good,Current Data,,,Sensor,True
+2507,Chatter_Site,03/10/2024 00:00:13,In Operation,Good,Current Data,,,Sensor,True
+2508,Chatter_Site,03/10/2024 00:00:14,Off,Good,Current Data,,,Sensor,True
+2509,Chatter_Site,03/10/2024 00:00:22,In Operation,Good,Current Data,,,Sensor,True
+2510,Chatter_Site,03/10/2024 00:00:07,Off,Good,Current Data,,,Sensor,True
+2511,Chatter_Site,03/10/2024 00:00:22,In Operation,Good,Current Data,,,Sensor,True

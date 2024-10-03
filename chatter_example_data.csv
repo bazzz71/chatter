@@ -1,0 +1,5 @@
+﻿ID,Site,Time,Value,State,Quality,Reason,Status,Suppression,Type,real_point
+1,Site_001,21/09/2024 16:38:02,0.0,Off,Good,Current Data,NaN,,NaN,TRUE
+2,Site_001,21/09/2024 16:38:03,0.0,In Operation,Good,Current Data,NaN,,NaN,TRUE
+3,Site_001,21/09/2024 16:38:04,0.0,Off,Good,Current Data,NaN,,NaN,TRUE
+2,Site_001,21/09/2024 16:38:05,0.0,In Operation,Good,Current Data,NaN,,NaN,TRUE
